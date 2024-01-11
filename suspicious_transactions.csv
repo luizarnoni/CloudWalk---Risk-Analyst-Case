@@ -1,0 +1,626 @@
+transaction_id,suspicion_reason,score
+21321533,Very high value for the same user; Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,6
+21320575,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21320586,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21320602,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21320817,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21320844,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21320854,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21320863,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21320870,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21320872,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321107,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321121,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321122,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321125,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321126,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321127,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321129,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321132,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321142,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321147,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321153,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321156,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321158,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321159,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321174,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321180,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321196,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321203,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321210,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321216,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321226,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321236,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321253,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321258,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321447,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321452,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321453,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321455,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321486,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321494,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321505,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321539,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321670,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321676,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321687,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321691,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321781,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21321821,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322050,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322059,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322063,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322067,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322090,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322105,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322200,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322413,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322414,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322421,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322441,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322443,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322447,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322458,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322621,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21322672,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21323320,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21323321,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21323325,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21323326,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21323327,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21323328,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21323329,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21323330,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21323331,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,5
+21320406,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320407,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320411,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320426,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320430,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320432,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320454,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320498,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320507,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320517,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320522,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320526,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320533,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320546,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320570,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320595,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320611,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320614,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320629,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320631,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320649,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320661,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320688,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320710,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320718,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320721,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320726,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320727,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320729,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320735,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320736,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320759,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320801,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320803,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320823,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320838,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320859,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320866,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320879,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320880,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320885,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320907,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320916,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320922,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320931,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320941,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320946,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320967,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320975,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320981,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320994,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321001,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321002,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321011,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321018,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321029,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321103,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321106,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321149,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321155,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321162,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321165,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321192,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321200,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321206,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321215,Very high value for the same user; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321235,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321237,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321270,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321282,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321286,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321309,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321316,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321349,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321353,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321363,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321382,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321386,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321433,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321466,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321467,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321472,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321476,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321487,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321492,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321502,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321503,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321524,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321563,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321574,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321616,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321656,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321658,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321660,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321666,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321674,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321675,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321709,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321712,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321718,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321721,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321775,Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321796,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321822,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321829,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321839,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321845,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321865,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321874,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321896,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21321931,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322010,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322024,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322061,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322062,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322064,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322069,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322086,Transaction at an unusual hour compared to the last 10 purchases; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322111,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322112,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322116,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322127,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322134,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322135,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322175,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322189,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322201,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322212,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322214,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322218,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322221,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322225,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322232,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322259,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322311,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322379,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322418,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322427,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322439,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322460,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322464,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322480,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322500,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322502,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322526,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322535,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322626,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322627,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322667,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322680,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322791,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322798,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322839,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21322914,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323049,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323070,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323216,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323281,Very high value for the same user; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323288,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323335,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323336,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323341,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323342,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323343,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323507,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323508,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323538,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323539,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323540,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323555,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323563,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323578,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21323583,Fast transactions on different devices; Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,4
+21320399,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320401,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320405,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320424,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320428,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320441,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320453,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320460,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320484,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320485,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320532,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320540,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320545,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320556,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320557,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320560,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320566,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320569,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320574,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320581,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320589,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320594,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320620,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320622,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320655,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320669,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320676,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320680,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320697,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320704,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320714,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320723,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320725,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320733,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320776,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320778,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320799,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320800,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320813,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320814,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320820,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320832,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320836,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320845,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320878,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320881,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320899,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320936,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320943,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320963,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320965,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21320970,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321008,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321043,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321090,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321138,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321152,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321154,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321167,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321188,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321197,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321212,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321221,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321325,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321329,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321336,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321362,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321426,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321448,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321456,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321458,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321460,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321470,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321474,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321490,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321501,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321520,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321546,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321547,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321553,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321575,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321610,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321657,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321757,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321824,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321834,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321847,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321889,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321918,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21321939,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322054,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322055,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322073,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322078,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322097,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322098,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322104,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322129,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322158,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322162,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322177,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322180,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322198,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322199,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322245,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322262,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322296,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322351,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322415,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322437,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322438,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322455,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322477,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322491,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322492,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322540,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322557,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322576,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322633,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322652,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322654,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322671,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322700,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322721,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21322787,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323012,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323032,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323043,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323119,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323131,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323152,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323156,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323221,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323230,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323277,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323284,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323310,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323415,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323437,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323500,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323506,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323533,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323537,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323554,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323576,Chargeback detected; Merchant with more than 2% chargeback in the history; Card with more than 2% chargeback in the history; ,3
+21323518,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; Card with more than 2% chargeback in the history; ,3
+21320531,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21320539,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21320541,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21320542,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21320790,Fast transactions on different devices; Card with more than 2% chargeback in the history; ,2
+21320795,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21320796,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21320840,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21320843,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321086,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321136,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321146,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321157,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321182,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321244,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321427,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321463,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321485,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321542,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321732,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321733,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21321840,Fast transactions on different devices; Card with more than 2% chargeback in the history; ,2
+21321960,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322036,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322084,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322406,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322419,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322446,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322616,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322619,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322620,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322878,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322881,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322886,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21322896,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21323264,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21323318,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21323337,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21323387,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21323440,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21323442,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21323459,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21323461,Fast transactions on different devices; Transaction at an unusual hour compared to the last 10 purchases; ,2
+21323501,Fast transactions on different devices; Card with more than 2% chargeback in the history; ,2
+21320429,Fast transactions on different devices; ,1
+21320486,Fast transactions on different devices; ,1
+21320494,Fast transactions on different devices; ,1
+21320511,Fast transactions on different devices; ,1
+21320518,Fast transactions on different devices; ,1
+21320524,Fast transactions on different devices; ,1
+21320528,Fast transactions on different devices; ,1
+21320529,Fast transactions on different devices; ,1
+21320537,Fast transactions on different devices; ,1
+21320627,Fast transactions on different devices; ,1
+21320637,Fast transactions on different devices; ,1
+21320654,Fast transactions on different devices; ,1
+21320659,Fast transactions on different devices; ,1
+21320684,Fast transactions on different devices; ,1
+21320694,Fast transactions on different devices; ,1
+21320702,Fast transactions on different devices; ,1
+21320751,Fast transactions on different devices; ,1
+21320755,Fast transactions on different devices; ,1
+21320764,Fast transactions on different devices; ,1
+21320781,Fast transactions on different devices; ,1
+21320784,Fast transactions on different devices; ,1
+21320849,Fast transactions on different devices; ,1
+21320851,Fast transactions on different devices; ,1
+21320853,Fast transactions on different devices; ,1
+21320865,Fast transactions on different devices; ,1
+21320886,Fast transactions on different devices; ,1
+21320888,Fast transactions on different devices; ,1
+21320945,Fast transactions on different devices; ,1
+21320960,Fast transactions on different devices; ,1
+21320962,Fast transactions on different devices; ,1
+21320977,Fast transactions on different devices; ,1
+21320980,Fast transactions on different devices; ,1
+21321004,Fast transactions on different devices; ,1
+21321027,Fast transactions on different devices; ,1
+21321028,Fast transactions on different devices; ,1
+21321030,Fast transactions on different devices; ,1
+21321058,Fast transactions on different devices; ,1
+21321067,Fast transactions on different devices; ,1
+21321088,Fast transactions on different devices; ,1
+21321091,Fast transactions on different devices; ,1
+21321095,Fast transactions on different devices; ,1
+21321130,Fast transactions on different devices; ,1
+21321131,Fast transactions on different devices; ,1
+21321133,Transaction at an unusual hour compared to the last 10 purchases; ,1
+21321204,Fast transactions on different devices; ,1
+21321230,Fast transactions on different devices; ,1
+21321250,Fast transactions on different devices; ,1
+21321277,Fast transactions on different devices; ,1
+21321280,Fast transactions on different devices; ,1
+21321287,Fast transactions on different devices; ,1
+21321313,Fast transactions on different devices; ,1
+21321326,Fast transactions on different devices; ,1
+21321340,Fast transactions on different devices; ,1
+21321345,Fast transactions on different devices; ,1
+21321351,Fast transactions on different devices; ,1
+21321404,Fast transactions on different devices; ,1
+21321430,Fast transactions on different devices; ,1
+21321446,Fast transactions on different devices; ,1
+21321449,Fast transactions on different devices; ,1
+21321450,Transaction at an unusual hour compared to the last 10 purchases; ,1
+21321473,Fast transactions on different devices; ,1
+21321477,Fast transactions on different devices; ,1
+21321483,Fast transactions on different devices; ,1
+21321506,Fast transactions on different devices; ,1
+21321528,Fast transactions on different devices; ,1
+21321544,Fast transactions on different devices; ,1
+21321572,Fast transactions on different devices; ,1
+21321585,Fast transactions on different devices; ,1
+21321623,Fast transactions on different devices; ,1
+21321636,Fast transactions on different devices; ,1
+21321671,Fast transactions on different devices; ,1
+21321672,Fast transactions on different devices; ,1
+21321689,Fast transactions on different devices; ,1
+21321713,Transaction at an unusual hour compared to the last 10 purchases; ,1
+21321726,Fast transactions on different devices; ,1
+21321802,Fast transactions on different devices; ,1
+21321805,Fast transactions on different devices; ,1
+21321810,Fast transactions on different devices; ,1
+21321819,Fast transactions on different devices; ,1
+21321828,Card with more than 2% chargeback in the history; ,1
+21321864,Fast transactions on different devices; ,1
+21321883,Fast transactions on different devices; ,1
+21321908,Fast transactions on different devices; ,1
+21321974,Fast transactions on different devices; ,1
+21321978,Fast transactions on different devices; ,1
+21321997,Fast transactions on different devices; ,1
+21322013,Fast transactions on different devices; ,1
+21322023,Fast transactions on different devices; ,1
+21322038,Fast transactions on different devices; ,1
+21322039,Fast transactions on different devices; ,1
+21322075,Fast transactions on different devices; ,1
+21322076,Fast transactions on different devices; ,1
+21322124,Fast transactions on different devices; ,1
+21322150,Fast transactions on different devices; ,1
+21322157,Fast transactions on different devices; ,1
+21322181,Fast transactions on different devices; ,1
+21322188,Fast transactions on different devices; ,1
+21322210,Fast transactions on different devices; ,1
+21322229,Fast transactions on different devices; ,1
+21322233,Fast transactions on different devices; ,1
+21322251,Fast transactions on different devices; ,1
+21322253,Fast transactions on different devices; ,1
+21322324,Fast transactions on different devices; ,1
+21322334,Fast transactions on different devices; ,1
+21322341,Transaction at an unusual hour compared to the last 10 purchases; ,1
+21322342,Fast transactions on different devices; ,1
+21322366,Fast transactions on different devices; ,1
+21322389,Fast transactions on different devices; ,1
+21322411,Fast transactions on different devices; ,1
+21322457,Fast transactions on different devices; ,1
+21322494,Fast transactions on different devices; ,1
+21322504,Fast transactions on different devices; ,1
+21322509,Fast transactions on different devices; ,1
+21322525,Fast transactions on different devices; ,1
+21322551,Fast transactions on different devices; ,1
+21322569,Fast transactions on different devices; ,1
+21322575,Fast transactions on different devices; ,1
+21322578,Fast transactions on different devices; ,1
+21322591,Fast transactions on different devices; ,1
+21322605,Fast transactions on different devices; ,1
+21322637,Fast transactions on different devices; ,1
+21322638,Fast transactions on different devices; ,1
+21322651,Fast transactions on different devices; ,1
+21322659,Fast transactions on different devices; ,1
+21322674,Fast transactions on different devices; ,1
+21322682,Fast transactions on different devices; ,1
+21322698,Fast transactions on different devices; ,1
+21322718,Fast transactions on different devices; ,1
+21322754,Fast transactions on different devices; ,1
+21322771,Fast transactions on different devices; ,1
+21322786,Fast transactions on different devices; ,1
+21322795,Fast transactions on different devices; ,1
+21322818,Fast transactions on different devices; ,1
+21322828,Fast transactions on different devices; ,1
+21322831,Fast transactions on different devices; ,1
+21322846,Fast transactions on different devices; ,1
+21322859,Fast transactions on different devices; ,1
+21322861,Fast transactions on different devices; ,1
+21322902,Fast transactions on different devices; ,1
+21322918,Fast transactions on different devices; ,1
+21322923,Fast transactions on different devices; ,1
+21322939,Fast transactions on different devices; ,1
+21322948,Fast transactions on different devices; ,1
+21322965,Fast transactions on different devices; ,1
+21322972,Fast transactions on different devices; ,1
+21322986,Fast transactions on different devices; ,1
+21322987,Card with more than 2% chargeback in the history; ,1
+21323001,Fast transactions on different devices; ,1
+21323015,Fast transactions on different devices; ,1
+21323023,Fast transactions on different devices; ,1
+21323050,Fast transactions on different devices; ,1
+21323058,Fast transactions on different devices; ,1
+21323100,Fast transactions on different devices; ,1
+21323114,Fast transactions on different devices; ,1
+21323127,Transaction at an unusual hour compared to the last 10 purchases; ,1
+21323138,Card with more than 2% chargeback in the history; ,1
+21323140,Fast transactions on different devices; ,1
+21323141,Fast transactions on different devices; ,1
+21323146,Transaction at an unusual hour compared to the last 10 purchases; ,1
+21323150,Fast transactions on different devices; ,1
+21323153,Fast transactions on different devices; ,1
+21323154,Fast transactions on different devices; ,1
+21323161,Fast transactions on different devices; ,1
+21323174,Fast transactions on different devices; ,1
+21323178,Fast transactions on different devices; ,1
+21323189,Fast transactions on different devices; ,1
+21323190,Fast transactions on different devices; ,1
+21323192,Fast transactions on different devices; ,1
+21323195,Fast transactions on different devices; ,1
+21323213,Fast transactions on different devices; ,1
+21323244,Fast transactions on different devices; ,1
+21323287,Fast transactions on different devices; ,1
+21323306,Fast transactions on different devices; ,1
+21323332,Fast transactions on different devices; ,1
+21323368,Fast transactions on different devices; ,1
+21323378,Fast transactions on different devices; ,1
+21323391,Fast transactions on different devices; ,1
+21323421,Fast transactions on different devices; ,1
+21323443,Fast transactions on different devices; ,1
+21323469,Fast transactions on different devices; ,1
+21323482,Fast transactions on different devices; ,1
+21323488,Fast transactions on different devices; ,1
+21323497,Fast transactions on different devices; ,1
+21323512,Fast transactions on different devices; ,1
+21323513,Fast transactions on different devices; ,1
+21323522,Fast transactions on different devices; ,1
+21323528,Fast transactions on different devices; ,1
+21323531,Fast transactions on different devices; ,1
+21323594,Fast transactions on different devices; ,1
