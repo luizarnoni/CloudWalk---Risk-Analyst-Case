@@ -1,0 +1,3200 @@
+transaction_id,fraud_chance
+21320863,high
+21321156,high
+21321486,high
+21321153,high
+21321147,high
+21321142,high
+21321494,high
+21321132,high
+21322200,high
+21321129,high
+21320586,high
+21321127,high
+21321126,high
+21321125,high
+21321122,high
+21321107,high
+21321505,high
+21321533,high
+21321539,high
+21320602,high
+21323320,high
+21323321,high
+21320575,high
+21320817,high
+21321158,high
+21321174,high
+21322458,high
+21322447,high
+21322443,high
+21321447,high
+21322621,high
+21322421,high
+21321258,high
+21321253,high
+21322414,high
+21322672,high
+21322413,high
+21321452,high
+21321236,high
+21321453,high
+21321226,high
+21321455,high
+21321216,high
+21321210,high
+21321203,high
+21321196,high
+21321180,high
+21321159,high
+21323325,high
+21321121,high
+21323327,high
+21321676,high
+21323326,high
+21322050,high
+21321670,high
+21322059,high
+21322063,high
+21320844,high
+21322067,high
+21321687,high
+21322090,high
+21320854,high
+21321781,high
+21320872,high
+21321691,high
+21323328,high
+21322105,high
+21323331,high
+21321821,high
+21323329,high
+21320870,high
+21323330,high
+21321441,medium
+21321713,medium
+21321456,medium
+21321712,medium
+21321402,medium
+21321466,medium
+21321386,medium
+21321467,medium
+21321709,medium
+21321470,medium
+21321472,medium
+21321463,medium
+21321409,medium
+21321718,medium
+21321719,medium
+21321721,medium
+21321732,medium
+21321733,medium
+21321744,medium
+21321754,medium
+21321426,medium
+21321449,medium
+21321796,medium
+21321757,medium
+21321775,medium
+21321433,medium
+21321448,medium
+21321444,medium
+21321418,medium
+21321450,medium
+21321483,medium
+21321476,medium
+21321632,medium
+21321382,medium
+21321630,medium
+21321624,medium
+21321506,medium
+21321520,medium
+21321524,medium
+21321636,medium
+21321528,medium
+21321544,medium
+21321547,medium
+21321552,medium
+21321574,medium
+21321585,medium
+21321616,medium
+21321623,medium
+21321542,medium
+21321474,medium
+21321648,medium
+21321656,medium
+21321477,medium
+21321481,medium
+21321482,medium
+21321675,medium
+21321674,medium
+21321485,medium
+21321666,medium
+21321654,medium
+21321487,medium
+21321492,medium
+21321660,medium
+21321501,medium
+21321502,medium
+21321658,medium
+21321657,medium
+21321503,medium
+21321490,medium
+21321357,medium
+21321250,medium
+21321349,medium
+21320963,medium
+21320967,medium
+21320970,medium
+21320975,medium
+21320977,medium
+21320980,medium
+21320981,medium
+21320993,medium
+21320994,medium
+21321001,medium
+21321002,medium
+21321004,medium
+21321007,medium
+21321008,medium
+21321011,medium
+21321018,medium
+21321022,medium
+21321026,medium
+21321027,medium
+21321028,medium
+21321029,medium
+21320962,medium
+21320960,medium
+21320954,medium
+21320953,medium
+21320865,medium
+21320866,medium
+21320876,medium
+21320878,medium
+21320879,medium
+21320880,medium
+21320881,medium
+21320885,medium
+21320886,medium
+21320888,medium
+21321036,medium
+21320899,medium
+21320907,medium
+21320916,medium
+21320922,medium
+21320931,medium
+21320936,medium
+21320940,medium
+21320941,medium
+21320943,medium
+21320946,medium
+21320947,medium
+21320903,medium
+21321063,medium
+21321080,medium
+21321086,medium
+21321215,medium
+21321219,medium
+21321235,medium
+21321237,medium
+21321239,medium
+21321244,medium
+21321248,medium
+21321822,medium
+21321268,medium
+21321270,medium
+21321206,medium
+21321271,medium
+21321282,medium
+21321286,medium
+21321287,medium
+21321309,medium
+21321316,medium
+21321325,medium
+21321329,medium
+21321336,medium
+21321340,medium
+21321345,medium
+21321277,medium
+21321353,medium
+21321205,medium
+21321200,medium
+21321090,medium
+21321103,medium
+21321106,medium
+21321128,medium
+21321130,medium
+21321131,medium
+21321133,medium
+21321136,medium
+21321138,medium
+21321146,medium
+21321204,medium
+21321149,medium
+21321154,medium
+21321155,medium
+21321157,medium
+21321160,medium
+21321162,medium
+21321165,medium
+21321173,medium
+21321188,medium
+21321192,medium
+21321198,medium
+21321152,medium
+21321829,medium
+21320398,medium
+21321845,medium
+21323097,medium
+21323100,medium
+21323113,medium
+21323119,medium
+21323120,medium
+21323127,medium
+21323129,medium
+21323131,medium
+21323153,medium
+21323154,medium
+21323156,medium
+21323167,medium
+21323174,medium
+21323178,medium
+21323183,medium
+21323189,medium
+21323190,medium
+21323192,medium
+21323195,medium
+21323197,medium
+21323199,medium
+21323216,medium
+21323219,medium
+21323095,medium
+21323221,medium
+21323085,medium
+21323070,medium
+21322728,medium
+21322737,medium
+21322786,medium
+21322787,medium
+21322791,medium
+21322795,medium
+21322798,medium
+21322818,medium
+21322831,medium
+21322839,medium
+21322858,medium
+21322875,medium
+21322914,medium
+21322928,medium
+21322932,medium
+21322955,medium
+21322983,medium
+21323031,medium
+21323032,medium
+21323043,medium
+21323049,medium
+21323055,medium
+21323058,medium
+21323077,medium
+21323230,medium
+21323238,medium
+21323244,medium
+21323491,medium
+21323497,medium
+21323499,medium
+21323506,medium
+21323507,medium
+21323508,medium
+21323518,medium
+21323523,medium
+21323529,medium
+21323533,medium
+21323535,medium
+21323536,medium
+21323537,medium
+21323538,medium
+21323539,medium
+21323540,medium
+21323554,medium
+21323555,medium
+21323561,medium
+21323562,medium
+21323563,medium
+21323564,medium
+21323572,medium
+21323467,medium
+21323461,medium
+21323459,medium
+21323457,medium
+21323263,medium
+21323264,medium
+21323277,medium
+21323281,medium
+21323284,medium
+21323288,medium
+21323289,medium
+21323310,medium
+21323324,medium
+21323332,medium
+21323335,medium
+21322718,medium
+21323336,medium
+21323342,medium
+21323343,medium
+21323381,medium
+21323389,medium
+21323391,medium
+21323400,medium
+21323409,medium
+21323428,medium
+21323430,medium
+21323442,medium
+21323443,medium
+21323341,medium
+21322698,medium
+21322682,medium
+21322680,medium
+21322097,medium
+21322098,medium
+21322102,medium
+21322103,medium
+21322111,medium
+21322112,medium
+21322116,medium
+21322127,medium
+21322129,medium
+21322134,medium
+21322135,medium
+21322142,medium
+21322157,medium
+21322177,medium
+21322180,medium
+21322181,medium
+21322187,medium
+21322189,medium
+21322198,medium
+21322199,medium
+21322201,medium
+21322203,medium
+21322210,medium
+21322084,medium
+21322083,medium
+21322080,medium
+21322076,medium
+21321847,medium
+21321851,medium
+21321865,medium
+21321874,medium
+21321878,medium
+21321896,medium
+21321908,medium
+21321918,medium
+21321931,medium
+21321932,medium
+21321939,medium
+21322212,medium
+21320864,medium
+21322008,medium
+21322010,medium
+21322013,medium
+21322024,medium
+21322036,medium
+21322038,medium
+21322044,medium
+21322054,medium
+21322061,medium
+21322064,medium
+21322069,medium
+21321966,medium
+21321839,medium
+21322214,medium
+21322221,medium
+21322491,medium
+21322492,medium
+21322500,medium
+21322501,medium
+21322502,medium
+21322504,medium
+21322509,medium
+21322525,medium
+21322526,medium
+21322535,medium
+21322550,medium
+21322570,medium
+21322578,medium
+21322616,medium
+21322619,medium
+21322620,medium
+21322623,medium
+21322626,medium
+21322627,medium
+21322633,medium
+21322654,medium
+21322666,medium
+21322667,medium
+21322489,medium
+21322480,medium
+21322464,medium
+21322460,medium
+21322225,medium
+21322232,medium
+21322233,medium
+21322245,medium
+21322261,medium
+21322262,medium
+21322296,medium
+21322311,medium
+21322341,medium
+21322342,medium
+21322345,medium
+21322218,medium
+21322349,medium
+21322379,medium
+21322406,medium
+21322411,medium
+21322418,medium
+21322420,medium
+21322427,medium
+21322428,medium
+21322437,medium
+21322439,medium
+21322446,medium
+21322455,medium
+21322352,medium
+21321955,medium
+21323596,medium
+21320697,medium
+21320424,medium
+21320539,medium
+21320820,medium
+21320507,medium
+21320710,medium
+21320595,medium
+21320441,medium
+21320784,medium
+21320594,medium
+21320704,medium
+21320661,medium
+21320702,medium
+21320781,medium
+21320778,medium
+21320776,medium
+21320735,medium
+21320736,medium
+21320517,medium
+21320533,medium
+21320518,medium
+21320832,medium
+21320532,medium
+21320669,medium
+21320836,medium
+21320838,medium
+21320453,medium
+21320688,medium
+21320413,medium
+21320629,medium
+21320494,medium
+21320790,medium
+21320659,medium
+21320791,medium
+21320432,medium
+21320649,medium
+21320726,medium
+21320546,medium
+21320727,medium
+21320614,medium
+21320803,medium
+21320545,medium
+21320485,medium
+21320725,medium
+21320622,medium
+21320611,medium
+21320723,medium
+21320490,medium
+21320840,medium
+21320428,medium
+21320799,medium
+21320654,medium
+21320721,medium
+21320542,medium
+21320655,medium
+21320426,medium
+21320729,medium
+21320812,medium
+21320601,medium
+21320625,medium
+21320796,medium
+21320813,medium
+21320718,medium
+21320714,medium
+21320560,medium
+21320454,medium
+21320511,medium
+21320531,medium
+21320527,medium
+21320526,medium
+21320843,medium
+21320676,medium
+21320498,medium
+21320460,medium
+21320583,medium
+21320529,medium
+21320759,medium
+21320406,medium
+21320758,medium
+21320405,medium
+21320407,medium
+21320637,medium
+21320411,medium
+21320522,medium
+21320859,medium
+21320568,medium
+21320528,medium
+21320458,medium
+21320631,medium
+21320853,medium
+21322704,no evidence
+21322706,no evidence
+21322709,no evidence
+21322707,no evidence
+21322617,no evidence
+21322705,no evidence
+21322708,no evidence
+21322703,no evidence
+21320525,no evidence
+21322622,no evidence
+21320524,no evidence
+21322710,no evidence
+21322624,no evidence
+21322625,no evidence
+21320523,no evidence
+21322702,no evidence
+21322701,no evidence
+21322700,no evidence
+21322699,no evidence
+21322618,no evidence
+21322711,no evidence
+21322714,no evidence
+21322713,no evidence
+21322611,no evidence
+21322730,no evidence
+21322610,no evidence
+21322609,no evidence
+21322608,no evidence
+21322607,no evidence
+21322729,no evidence
+21322606,no evidence
+21322731,no evidence
+21322732,no evidence
+21322733,no evidence
+21322734,no evidence
+21322604,no evidence
+21322735,no evidence
+21322605,no evidence
+21320512,no evidence
+21322727,no evidence
+21322726,no evidence
+21322615,no evidence
+21322614,no evidence
+21322715,no evidence
+21322716,no evidence
+21322717,no evidence
+21320513,no evidence
+21322719,no evidence
+21322720,no evidence
+21322721,no evidence
+21322722,no evidence
+21322723,no evidence
+21322613,no evidence
+21322724,no evidence
+21322612,no evidence
+21322725,no evidence
+21322712,no evidence
+21322628,no evidence
+21322697,no evidence
+21322630,no evidence
+21322674,no evidence
+21322641,no evidence
+21322673,no evidence
+21322642,no evidence
+21322643,no evidence
+21322671,no evidence
+21322670,no evidence
+21322669,no evidence
+21322668,no evidence
+21322644,no evidence
+21320519,no evidence
+21322665,no evidence
+21322645,no evidence
+21322664,no evidence
+21322646,no evidence
+21322663,no evidence
+21322662,no evidence
+21322649,no evidence
+21322648,no evidence
+21322647,no evidence
+21322651,no evidence
+21322652,no evidence
+21322653,no evidence
+21322675,no evidence
+21320520,no evidence
+21322656,no evidence
+21322657,no evidence
+21322658,no evidence
+21322659,no evidence
+21322660,no evidence
+21322661,no evidence
+21322655,no evidence
+21322629,no evidence
+21322676,no evidence
+21322677,no evidence
+21322631,no evidence
+21320514,no evidence
+21322650,no evidence
+21322696,no evidence
+21322695,no evidence
+21322632,no evidence
+21322694,no evidence
+21322693,no evidence
+21320521,no evidence
+21322692,no evidence
+21322691,no evidence
+21322634,no evidence
+21322690,no evidence
+21322689,no evidence
+21322688,no evidence
+21322687,no evidence
+21322635,no evidence
+21322736,no evidence
+21322678,no evidence
+21322639,no evidence
+21322679,no evidence
+21322638,no evidence
+21320516,no evidence
+21322640,no evidence
+21322681,no evidence
+21322636,no evidence
+21320515,no evidence
+21322683,no evidence
+21322684,no evidence
+21322685,no evidence
+21322686,no evidence
+21322637,no evidence
+21320861,no evidence
+21322757,no evidence
+21322739,no evidence
+21322847,no evidence
+21322848,no evidence
+21322849,no evidence
+21322850,no evidence
+21322851,no evidence
+21322852,no evidence
+21322853,no evidence
+21322854,no evidence
+21322855,no evidence
+21322856,no evidence
+21322857,no evidence
+21320502,no evidence
+21322859,no evidence
+21322860,no evidence
+21322861,no evidence
+21322862,no evidence
+21322863,no evidence
+21322846,no evidence
+21322864,no evidence
+21322845,no evidence
+21322843,no evidence
+21322826,no evidence
+21322827,no evidence
+21322828,no evidence
+21322829,no evidence
+21322830,no evidence
+21320504,no evidence
+21322832,no evidence
+21322833,no evidence
+21322834,no evidence
+21322835,no evidence
+21322836,no evidence
+21322837,no evidence
+21322838,no evidence
+21320503,no evidence
+21322840,no evidence
+21322841,no evidence
+21322842,no evidence
+21322844,no evidence
+21322865,no evidence
+21322866,no evidence
+21322867,no evidence
+21322890,no evidence
+21322891,no evidence
+21322892,no evidence
+21322893,no evidence
+21322894,no evidence
+21322895,no evidence
+21322896,no evidence
+21322897,no evidence
+21322898,no evidence
+21322899,no evidence
+21322900,no evidence
+21322901,no evidence
+21322902,no evidence
+21322903,no evidence
+21322904,no evidence
+21322905,no evidence
+21322906,no evidence
+21322889,no evidence
+21322888,no evidence
+21322887,no evidence
+21322886,no evidence
+21322868,no evidence
+21322869,no evidence
+21322870,no evidence
+21322871,no evidence
+21322872,no evidence
+21322873,no evidence
+21322874,no evidence
+21320501,no evidence
+21322825,no evidence
+21322876,no evidence
+21322878,no evidence
+21322879,no evidence
+21322880,no evidence
+21322881,no evidence
+21322882,no evidence
+21322883,no evidence
+21322884,no evidence
+21322885,no evidence
+21322877,no evidence
+21322738,no evidence
+21322824,no evidence
+21322822,no evidence
+21322761,no evidence
+21322762,no evidence
+21322763,no evidence
+21322764,no evidence
+21322765,no evidence
+21322766,no evidence
+21322767,no evidence
+21322768,no evidence
+21322769,no evidence
+21322770,no evidence
+21322771,no evidence
+21322772,no evidence
+21322773,no evidence
+21322774,no evidence
+21322775,no evidence
+21322776,no evidence
+21322777,no evidence
+21322760,no evidence
+21322778,no evidence
+21322759,no evidence
+21322603,no evidence
+21322740,no evidence
+21322741,no evidence
+21322742,no evidence
+21322743,no evidence
+21322744,no evidence
+21322745,no evidence
+21322746,no evidence
+21322747,no evidence
+21322748,no evidence
+21322749,no evidence
+21322750,no evidence
+21322751,no evidence
+21322752,no evidence
+21322753,no evidence
+21322754,no evidence
+21322755,no evidence
+21322756,no evidence
+21322758,no evidence
+21322779,no evidence
+21322780,no evidence
+21322781,no evidence
+21322805,no evidence
+21322806,no evidence
+21322807,no evidence
+21322808,no evidence
+21322809,no evidence
+21322810,no evidence
+21322811,no evidence
+21322812,no evidence
+21322813,no evidence
+21322814,no evidence
+21322815,no evidence
+21322816,no evidence
+21322817,no evidence
+21320505,no evidence
+21322819,no evidence
+21322820,no evidence
+21322821,no evidence
+21322804,no evidence
+21322803,no evidence
+21322802,no evidence
+21322801,no evidence
+21322782,no evidence
+21322783,no evidence
+21322784,no evidence
+21322785,no evidence
+21320510,no evidence
+21320509,no evidence
+21322788,no evidence
+21322789,no evidence
+21322823,no evidence
+21322790,no evidence
+21322792,no evidence
+21322793,no evidence
+21322794,no evidence
+21322796,no evidence
+21322797,no evidence
+21320506,no evidence
+21322799,no evidence
+21322800,no evidence
+21320508,no evidence
+21322602,no evidence
+21322575,no evidence
+21322600,no evidence
+21322365,no evidence
+21322366,no evidence
+21322367,no evidence
+21322368,no evidence
+21322369,no evidence
+21322370,no evidence
+21322371,no evidence
+21322364,no evidence
+21322372,no evidence
+21322374,no evidence
+21322375,no evidence
+21322376,no evidence
+21322377,no evidence
+21322378,no evidence
+21320562,no evidence
+21322380,no evidence
+21322373,no evidence
+21322363,no evidence
+21322362,no evidence
+21322361,no evidence
+21322344,no evidence
+21320565,no evidence
+21322346,no evidence
+21322347,no evidence
+21322348,no evidence
+21320564,no evidence
+21322350,no evidence
+21322351,no evidence
+21320563,no evidence
+21322353,no evidence
+21322354,no evidence
+21322355,no evidence
+21322356,no evidence
+21322357,no evidence
+21322358,no evidence
+21322359,no evidence
+21322360,no evidence
+21322381,no evidence
+21322382,no evidence
+21322383,no evidence
+21322384,no evidence
+21320561,no evidence
+21322407,no evidence
+21322408,no evidence
+21322409,no evidence
+21322410,no evidence
+21322412,no evidence
+21320559,no evidence
+21320558,no evidence
+21322415,no evidence
+21322416,no evidence
+21322417,no evidence
+21320557,no evidence
+21322419,no evidence
+21320556,no evidence
+21320555,no evidence
+21322422,no evidence
+21322423,no evidence
+21322405,no evidence
+21322343,no evidence
+21322404,no evidence
+21322402,no evidence
+21322385,no evidence
+21322386,no evidence
+21322387,no evidence
+21322388,no evidence
+21322389,no evidence
+21322390,no evidence
+21322391,no evidence
+21322392,no evidence
+21322393,no evidence
+21322394,no evidence
+21322395,no evidence
+21322396,no evidence
+21322397,no evidence
+21322398,no evidence
+21322399,no evidence
+21322400,no evidence
+21322401,no evidence
+21322403,no evidence
+21320566,no evidence
+21320567,no evidence
+21322340,no evidence
+21322280,no evidence
+21322281,no evidence
+21322282,no evidence
+21322283,no evidence
+21322284,no evidence
+21322285,no evidence
+21322286,no evidence
+21322287,no evidence
+21322288,no evidence
+21322289,no evidence
+21322290,no evidence
+21322291,no evidence
+21322292,no evidence
+21322293,no evidence
+21322294,no evidence
+21322295,no evidence
+21320569,no evidence
+21322279,no evidence
+21322297,no evidence
+21322278,no evidence
+21322276,no evidence
+21322259,no evidence
+21322260,no evidence
+21320571,no evidence
+21320570,no evidence
+21322263,no evidence
+21322264,no evidence
+21322265,no evidence
+21322266,no evidence
+21322267,no evidence
+21322268,no evidence
+21322269,no evidence
+21322270,no evidence
+21322271,no evidence
+21322272,no evidence
+21322273,no evidence
+21322274,no evidence
+21322275,no evidence
+21322277,no evidence
+21322424,no evidence
+21322298,no evidence
+21322300,no evidence
+21322323,no evidence
+21322324,no evidence
+21322325,no evidence
+21322326,no evidence
+21322327,no evidence
+21322328,no evidence
+21322329,no evidence
+21322330,no evidence
+21322331,no evidence
+21322332,no evidence
+21322333,no evidence
+21322334,no evidence
+21322335,no evidence
+21322336,no evidence
+21322337,no evidence
+21322338,no evidence
+21322339,no evidence
+21322322,no evidence
+21322299,no evidence
+21322321,no evidence
+21322319,no evidence
+21322301,no evidence
+21322302,no evidence
+21322303,no evidence
+21322304,no evidence
+21322305,no evidence
+21322306,no evidence
+21322307,no evidence
+21322308,no evidence
+21322309,no evidence
+21322310,no evidence
+21322312,no evidence
+21322313,no evidence
+21322314,no evidence
+21322315,no evidence
+21322316,no evidence
+21322317,no evidence
+21322318,no evidence
+21322320,no evidence
+21322425,no evidence
+21322426,no evidence
+21320554,no evidence
+21322539,no evidence
+21322540,no evidence
+21322541,no evidence
+21322542,no evidence
+21322543,no evidence
+21322544,no evidence
+21322545,no evidence
+21322546,no evidence
+21322547,no evidence
+21322548,no evidence
+21322549,no evidence
+21322551,no evidence
+21322552,no evidence
+21322553,no evidence
+21322554,no evidence
+21322555,no evidence
+21322556,no evidence
+21322538,no evidence
+21322557,no evidence
+21322537,no evidence
+21322534,no evidence
+21322516,no evidence
+21322517,no evidence
+21322518,no evidence
+21322519,no evidence
+21322520,no evidence
+21322521,no evidence
+21322522,no evidence
+21322523,no evidence
+21322524,no evidence
+21320534,no evidence
+21322527,no evidence
+21322528,no evidence
+21322529,no evidence
+21322530,no evidence
+21322531,no evidence
+21322532,no evidence
+21322533,no evidence
+21322536,no evidence
+21322515,no evidence
+21322558,no evidence
+21322560,no evidence
+21322583,no evidence
+21322584,no evidence
+21322585,no evidence
+21322586,no evidence
+21322587,no evidence
+21322588,no evidence
+21322589,no evidence
+21322590,no evidence
+21322591,no evidence
+21322592,no evidence
+21322593,no evidence
+21322594,no evidence
+21322595,no evidence
+21322596,no evidence
+21322597,no evidence
+21322598,no evidence
+21322599,no evidence
+21322582,no evidence
+21322559,no evidence
+21322581,no evidence
+21322579,no evidence
+21322561,no evidence
+21322562,no evidence
+21322563,no evidence
+21322564,no evidence
+21322565,no evidence
+21322566,no evidence
+21322567,no evidence
+21322568,no evidence
+21322569,no evidence
+21320530,no evidence
+21322571,no evidence
+21322572,no evidence
+21322573,no evidence
+21322574,no evidence
+21322907,no evidence
+21322576,no evidence
+21322577,no evidence
+21322580,no evidence
+21322601,no evidence
+21322514,no evidence
+21322512,no evidence
+21322449,no evidence
+21322450,no evidence
+21322451,no evidence
+21322452,no evidence
+21322453,no evidence
+21322454,no evidence
+21320547,no evidence
+21322456,no evidence
+21322457,no evidence
+21322459,no evidence
+21322461,no evidence
+21322462,no evidence
+21322463,no evidence
+21320544,no evidence
+21322465,no evidence
+21322466,no evidence
+21322467,no evidence
+21322448,no evidence
+21322468,no evidence
+21320548,no evidence
+21322445,no evidence
+21320553,no evidence
+21322429,no evidence
+21322430,no evidence
+21322431,no evidence
+21322432,no evidence
+21322433,no evidence
+21322434,no evidence
+21322435,no evidence
+21322436,no evidence
+21320552,no evidence
+21322438,no evidence
+21320551,no evidence
+21322440,no evidence
+21322441,no evidence
+21322442,no evidence
+21320550,no evidence
+21322444,no evidence
+21320549,no evidence
+21322513,no evidence
+21322469,no evidence
+21322471,no evidence
+21322494,no evidence
+21322495,no evidence
+21322496,no evidence
+21322497,no evidence
+21322498,no evidence
+21322499,no evidence
+21320538,no evidence
+21320537,no evidence
+21322503,no evidence
+21320536,no evidence
+21322505,no evidence
+21322506,no evidence
+21322507,no evidence
+21322508,no evidence
+21320535,no evidence
+21322510,no evidence
+21322511,no evidence
+21322493,no evidence
+21322470,no evidence
+21320540,no evidence
+21322490,no evidence
+21322472,no evidence
+21322473,no evidence
+21322474,no evidence
+21322475,no evidence
+21322476,no evidence
+21322477,no evidence
+21322478,no evidence
+21322479,no evidence
+21320543,no evidence
+21322481,no evidence
+21322482,no evidence
+21322483,no evidence
+21322484,no evidence
+21322485,no evidence
+21322486,no evidence
+21322487,no evidence
+21322488,no evidence
+21320541,no evidence
+21322908,no evidence
+21322935,no evidence
+21322910,no evidence
+21323360,no evidence
+21323361,no evidence
+21323362,no evidence
+21323363,no evidence
+21323364,no evidence
+21323365,no evidence
+21323366,no evidence
+21323359,no evidence
+21323367,no evidence
+21323369,no evidence
+21323370,no evidence
+21323371,no evidence
+21323372,no evidence
+21323373,no evidence
+21323374,no evidence
+21323375,no evidence
+21323368,no evidence
+21323358,no evidence
+21323357,no evidence
+21323356,no evidence
+21323339,no evidence
+21323340,no evidence
+21320437,no evidence
+21320436,no evidence
+21320435,no evidence
+21323344,no evidence
+21323345,no evidence
+21323346,no evidence
+21323347,no evidence
+21323348,no evidence
+21323349,no evidence
+21323350,no evidence
+21323351,no evidence
+21323352,no evidence
+21323353,no evidence
+21323354,no evidence
+21323355,no evidence
+21323376,no evidence
+21323377,no evidence
+21323378,no evidence
+21323379,no evidence
+21323402,no evidence
+21323403,no evidence
+21323404,no evidence
+21323405,no evidence
+21323406,no evidence
+21323407,no evidence
+21323408,no evidence
+21320430,no evidence
+21323410,no evidence
+21323411,no evidence
+21323412,no evidence
+21323413,no evidence
+21323414,no evidence
+21323415,no evidence
+21323416,no evidence
+21323417,no evidence
+21323418,no evidence
+21323401,no evidence
+21323338,no evidence
+21320431,no evidence
+21323398,no evidence
+21323380,no evidence
+21320434,no evidence
+21323382,no evidence
+21323383,no evidence
+21323384,no evidence
+21323385,no evidence
+21323386,no evidence
+21323387,no evidence
+21323388,no evidence
+21320433,no evidence
+21323390,no evidence
+21323392,no evidence
+21323393,no evidence
+21323394,no evidence
+21323395,no evidence
+21323396,no evidence
+21323397,no evidence
+21323399,no evidence
+21323337,no evidence
+21320438,no evidence
+21320439,no evidence
+21323273,no evidence
+21323274,no evidence
+21323275,no evidence
+21323276,no evidence
+21320456,no evidence
+21323278,no evidence
+21323279,no evidence
+21323280,no evidence
+21320455,no evidence
+21323282,no evidence
+21323283,no evidence
+21323285,no evidence
+21323286,no evidence
+21323287,no evidence
+21320452,no evidence
+21323290,no evidence
+21323291,no evidence
+21323272,no evidence
+21323292,no evidence
+21323271,no evidence
+21323269,no evidence
+21323251,no evidence
+21323252,no evidence
+21323253,no evidence
+21323254,no evidence
+21323255,no evidence
+21323256,no evidence
+21323257,no evidence
+21323258,no evidence
+21323259,no evidence
+21323260,no evidence
+21323261,no evidence
+21323262,no evidence
+21320457,no evidence
+21323265,no evidence
+21323266,no evidence
+21323267,no evidence
+21323268,no evidence
+21323270,no evidence
+21323419,no evidence
+21323293,no evidence
+21323295,no evidence
+21323317,no evidence
+21323318,no evidence
+21323319,no evidence
+21320450,no evidence
+21320449,no evidence
+21323322,no evidence
+21323323,no evidence
+21320448,no evidence
+21320447,no evidence
+21320446,no evidence
+21320445,no evidence
+21320444,no evidence
+21320443,no evidence
+21320442,no evidence
+21320440,no evidence
+21323333,no evidence
+21323334,no evidence
+21323316,no evidence
+21323294,no evidence
+21323315,no evidence
+21323313,no evidence
+21323296,no evidence
+21323297,no evidence
+21323298,no evidence
+21323299,no evidence
+21323300,no evidence
+21323301,no evidence
+21323302,no evidence
+21323303,no evidence
+21323304,no evidence
+21323305,no evidence
+21323306,no evidence
+21323307,no evidence
+21323308,no evidence
+21323309,no evidence
+21320451,no evidence
+21323311,no evidence
+21323312,no evidence
+21323314,no evidence
+21323420,no evidence
+21323421,no evidence
+21323422,no evidence
+21323532,no evidence
+21320412,no evidence
+21323534,no evidence
+21320410,no evidence
+21320409,no evidence
+21320408,no evidence
+21323541,no evidence
+21323542,no evidence
+21323543,no evidence
+21323544,no evidence
+21323545,no evidence
+21323546,no evidence
+21323547,no evidence
+21323548,no evidence
+21323549,no evidence
+21323550,no evidence
+21323551,no evidence
+21323531,no evidence
+21323552,no evidence
+21323530,no evidence
+21323527,no evidence
+21323510,no evidence
+21323511,no evidence
+21323512,no evidence
+21323513,no evidence
+21323514,no evidence
+21323515,no evidence
+21323516,no evidence
+21323517,no evidence
+21320415,no evidence
+21323519,no evidence
+21323520,no evidence
+21323521,no evidence
+21323522,no evidence
+21320414,no evidence
+21323524,no evidence
+21323525,no evidence
+21323526,no evidence
+21323528,no evidence
+21323509,no evidence
+21323553,no evidence
+21323556,no evidence
+21323578,no evidence
+21323579,no evidence
+21323580,no evidence
+21323581,no evidence
+21323582,no evidence
+21323583,no evidence
+21323584,no evidence
+21323585,no evidence
+21323586,no evidence
+21323587,no evidence
+21323588,no evidence
+21323589,no evidence
+21323590,no evidence
+21323591,no evidence
+21323592,no evidence
+21323593,no evidence
+21323594,no evidence
+21323577,no evidence
+21320404,no evidence
+21323576,no evidence
+21323574,no evidence
+21323557,no evidence
+21323558,no evidence
+21323559,no evidence
+21323560,no evidence
+21320403,no evidence
+21320402,no evidence
+21320401,no evidence
+21320400,no evidence
+21323565,no evidence
+21323566,no evidence
+21323567,no evidence
+21323568,no evidence
+21323569,no evidence
+21323570,no evidence
+21323571,no evidence
+21320399,no evidence
+21323573,no evidence
+21323575,no evidence
+21323250,no evidence
+21320416,no evidence
+21320418,no evidence
+21323446,no evidence
+21323447,no evidence
+21323448,no evidence
+21323449,no evidence
+21323450,no evidence
+21323451,no evidence
+21323452,no evidence
+21323453,no evidence
+21323454,no evidence
+21323455,no evidence
+21323456,no evidence
+21320425,no evidence
+21323458,no evidence
+21323460,no evidence
+21320423,no evidence
+21323462,no evidence
+21323463,no evidence
+21323445,no evidence
+21323464,no evidence
+21323444,no evidence
+21323441,no evidence
+21323423,no evidence
+21323424,no evidence
+21323425,no evidence
+21323426,no evidence
+21323427,no evidence
+21320429,no evidence
+21323429,no evidence
+21323431,no evidence
+21323432,no evidence
+21323433,no evidence
+21323434,no evidence
+21323435,no evidence
+21323436,no evidence
+21323437,no evidence
+21323438,no evidence
+21323439,no evidence
+21323440,no evidence
+21320427,no evidence
+21320417,no evidence
+21323465,no evidence
+21320422,no evidence
+21323489,no evidence
+21323490,no evidence
+21320421,no evidence
+21323492,no evidence
+21323493,no evidence
+21323494,no evidence
+21323495,no evidence
+21323496,no evidence
+21320420,no evidence
+21323498,no evidence
+21320419,no evidence
+21323500,no evidence
+21323501,no evidence
+21323502,no evidence
+21323503,no evidence
+21323504,no evidence
+21323505,no evidence
+21323488,no evidence
+21323466,no evidence
+21323487,no evidence
+21323485,no evidence
+21323468,no evidence
+21323469,no evidence
+21323470,no evidence
+21323471,no evidence
+21323472,no evidence
+21323473,no evidence
+21323474,no evidence
+21323475,no evidence
+21323476,no evidence
+21323477,no evidence
+21323478,no evidence
+21323479,no evidence
+21323480,no evidence
+21323481,no evidence
+21323482,no evidence
+21323483,no evidence
+21323484,no evidence
+21323486,no evidence
+21322909,no evidence
+21323249,no evidence
+21323247,no evidence
+21323017,no evidence
+21323018,no evidence
+21323019,no evidence
+21323020,no evidence
+21323021,no evidence
+21323022,no evidence
+21323023,no evidence
+21323016,no evidence
+21323024,no evidence
+21323026,no evidence
+21323027,no evidence
+21323028,no evidence
+21323029,no evidence
+21323030,no evidence
+21320495,no evidence
+21323033,no evidence
+21323025,no evidence
+21323015,no evidence
+21323014,no evidence
+21323013,no evidence
+21322996,no evidence
+21322997,no evidence
+21322998,no evidence
+21322999,no evidence
+21323000,no evidence
+21323001,no evidence
+21323002,no evidence
+21323003,no evidence
+21323004,no evidence
+21323005,no evidence
+21323006,no evidence
+21323007,no evidence
+21323008,no evidence
+21323009,no evidence
+21323010,no evidence
+21323011,no evidence
+21323012,no evidence
+21323034,no evidence
+21323035,no evidence
+21323036,no evidence
+21323037,no evidence
+21323060,no evidence
+21323061,no evidence
+21323062,no evidence
+21323063,no evidence
+21323064,no evidence
+21323065,no evidence
+21323066,no evidence
+21323067,no evidence
+21323068,no evidence
+21323069,no evidence
+21320489,no evidence
+21323071,no evidence
+21323072,no evidence
+21323073,no evidence
+21323074,no evidence
+21323075,no evidence
+21323076,no evidence
+21323059,no evidence
+21322995,no evidence
+21323057,no evidence
+21320491,no evidence
+21323038,no evidence
+21323039,no evidence
+21323040,no evidence
+21323041,no evidence
+21323042,no evidence
+21320493,no evidence
+21323044,no evidence
+21323045,no evidence
+21323046,no evidence
+21323047,no evidence
+21323048,no evidence
+21320492,no evidence
+21323050,no evidence
+21323051,no evidence
+21323052,no evidence
+21323053,no evidence
+21323054,no evidence
+21323056,no evidence
+21322994,no evidence
+21322993,no evidence
+21322992,no evidence
+21322933,no evidence
+21322934,no evidence
+21322258,no evidence
+21322936,no evidence
+21322937,no evidence
+21322938,no evidence
+21322939,no evidence
+21322940,no evidence
+21322941,no evidence
+21322942,no evidence
+21322943,no evidence
+21322944,no evidence
+21322945,no evidence
+21322946,no evidence
+21322947,no evidence
+21322948,no evidence
+21322949,no evidence
+21322931,no evidence
+21322950,no evidence
+21322930,no evidence
+21320499,no evidence
+21322911,no evidence
+21322912,no evidence
+21322913,no evidence
+21320500,no evidence
+21322915,no evidence
+21322916,no evidence
+21322917,no evidence
+21322918,no evidence
+21322919,no evidence
+21322920,no evidence
+21322921,no evidence
+21322922,no evidence
+21322923,no evidence
+21322924,no evidence
+21322925,no evidence
+21322926,no evidence
+21322927,no evidence
+21322929,no evidence
+21320488,no evidence
+21322951,no evidence
+21322953,no evidence
+21322975,no evidence
+21322976,no evidence
+21322977,no evidence
+21322978,no evidence
+21322979,no evidence
+21322980,no evidence
+21322981,no evidence
+21322982,no evidence
+21320496,no evidence
+21322984,no evidence
+21322985,no evidence
+21322986,no evidence
+21322987,no evidence
+21322988,no evidence
+21322989,no evidence
+21322990,no evidence
+21322991,no evidence
+21322974,no evidence
+21322952,no evidence
+21322973,no evidence
+21322971,no evidence
+21322954,no evidence
+21320497,no evidence
+21322956,no evidence
+21322957,no evidence
+21322958,no evidence
+21322959,no evidence
+21322960,no evidence
+21322961,no evidence
+21322962,no evidence
+21322963,no evidence
+21322964,no evidence
+21322965,no evidence
+21322966,no evidence
+21322967,no evidence
+21322968,no evidence
+21322969,no evidence
+21322970,no evidence
+21322972,no evidence
+21323078,no evidence
+21323079,no evidence
+21323080,no evidence
+21323187,no evidence
+21323188,no evidence
+21320470,no evidence
+21320469,no evidence
+21323191,no evidence
+21320468,no evidence
+21323193,no evidence
+21323194,no evidence
+21320467,no evidence
+21323196,no evidence
+21320466,no evidence
+21323198,no evidence
+21320465,no evidence
+21323200,no evidence
+21323201,no evidence
+21323202,no evidence
+21323203,no evidence
+21323186,no evidence
+21323204,no evidence
+21323185,no evidence
+21320471,no evidence
+21323166,no evidence
+21320474,no evidence
+21323168,no evidence
+21323169,no evidence
+21323170,no evidence
+21323171,no evidence
+21323172,no evidence
+21323173,no evidence
+21320473,no evidence
+21323175,no evidence
+21323176,no evidence
+21323177,no evidence
+21320472,no evidence
+21323179,no evidence
+21323180,no evidence
+21323181,no evidence
+21323182,no evidence
+21323184,no evidence
+21323165,no evidence
+21323205,no evidence
+21323207,no evidence
+21323229,no evidence
+21320461,no evidence
+21323231,no evidence
+21323232,no evidence
+21323233,no evidence
+21323234,no evidence
+21323235,no evidence
+21323236,no evidence
+21323237,no evidence
+21323239,no evidence
+21323240,no evidence
+21323241,no evidence
+21323242,no evidence
+21323243,no evidence
+21320459,no evidence
+21323245,no evidence
+21323246,no evidence
+21323228,no evidence
+21323206,no evidence
+21323227,no evidence
+21323225,no evidence
+21323208,no evidence
+21323209,no evidence
+21323210,no evidence
+21323211,no evidence
+21323212,no evidence
+21323213,no evidence
+21323214,no evidence
+21323215,no evidence
+21320464,no evidence
+21323217,no evidence
+21323218,no evidence
+21320463,no evidence
+21323220,no evidence
+21320462,no evidence
+21323222,no evidence
+21323223,no evidence
+21323224,no evidence
+21323226,no evidence
+21323248,no evidence
+21323164,no evidence
+21323162,no evidence
+21323103,no evidence
+21323104,no evidence
+21323105,no evidence
+21323106,no evidence
+21323107,no evidence
+21323108,no evidence
+21323109,no evidence
+21323110,no evidence
+21323111,no evidence
+21323112,no evidence
+21320483,no evidence
+21323114,no evidence
+21323115,no evidence
+21323116,no evidence
+21323117,no evidence
+21323118,no evidence
+21320482,no evidence
+21323102,no evidence
+21320481,no evidence
+21323101,no evidence
+21323099,no evidence
+21323081,no evidence
+21323082,no evidence
+21323083,no evidence
+21323084,no evidence
+21320487,no evidence
+21323086,no evidence
+21323087,no evidence
+21323088,no evidence
+21323089,no evidence
+21323090,no evidence
+21323091,no evidence
+21323092,no evidence
+21323093,no evidence
+21323094,no evidence
+21320486,no evidence
+21323096,no evidence
+21323098,no evidence
+21320484,no evidence
+21323163,no evidence
+21323121,no evidence
+21323123,no evidence
+21323145,no evidence
+21323146,no evidence
+21323147,no evidence
+21323148,no evidence
+21323149,no evidence
+21323150,no evidence
+21323151,no evidence
+21323152,no evidence
+21320477,no evidence
+21320476,no evidence
+21323155,no evidence
+21320475,no evidence
+21323157,no evidence
+21323158,no evidence
+21323159,no evidence
+21323160,no evidence
+21323161,no evidence
+21323144,no evidence
+21323122,no evidence
+21323143,no evidence
+21323141,no evidence
+21323124,no evidence
+21323125,no evidence
+21323126,no evidence
+21320480,no evidence
+21323128,no evidence
+21320479,no evidence
+21323130,no evidence
+21320478,no evidence
+21323132,no evidence
+21323133,no evidence
+21323134,no evidence
+21323135,no evidence
+21323136,no evidence
+21323137,no evidence
+21323138,no evidence
+21323139,no evidence
+21323140,no evidence
+21323142,no evidence
+21322257,no evidence
+21322229,no evidence
+21322255,no evidence
+21321326,no evidence
+21321327,no evidence
+21321328,no evidence
+21321330,no evidence
+21321331,no evidence
+21321332,no evidence
+21321333,no evidence
+21321324,no evidence
+21321334,no evidence
+21320734,no evidence
+21321337,no evidence
+21321338,no evidence
+21321339,no evidence
+21320733,no evidence
+21321341,no evidence
+21321342,no evidence
+21321335,no evidence
+21321323,no evidence
+21321322,no evidence
+21321321,no evidence
+21321304,no evidence
+21321305,no evidence
+21321306,no evidence
+21321307,no evidence
+21321308,no evidence
+21320738,no evidence
+21321310,no evidence
+21321311,no evidence
+21321312,no evidence
+21321313,no evidence
+21321314,no evidence
+21321315,no evidence
+21320737,no evidence
+21321317,no evidence
+21321318,no evidence
+21321319,no evidence
+21321320,no evidence
+21321343,no evidence
+21321344,no evidence
+21320732,no evidence
+21321346,no evidence
+21321369,no evidence
+21321370,no evidence
+21321371,no evidence
+21321372,no evidence
+21321373,no evidence
+21321374,no evidence
+21321375,no evidence
+21321376,no evidence
+21321377,no evidence
+21321378,no evidence
+21321379,no evidence
+21321380,no evidence
+21321381,no evidence
+21320728,no evidence
+21321383,no evidence
+21321384,no evidence
+21321385,no evidence
+21321368,no evidence
+21321303,no evidence
+21321367,no evidence
+21321365,no evidence
+21321347,no evidence
+21321348,no evidence
+21320731,no evidence
+21321350,no evidence
+21321351,no evidence
+21321352,no evidence
+21320730,no evidence
+21321354,no evidence
+21321355,no evidence
+21321356,no evidence
+21321358,no evidence
+21321359,no evidence
+21321360,no evidence
+21321361,no evidence
+21321362,no evidence
+21321363,no evidence
+21321364,no evidence
+21321366,no evidence
+21321302,no evidence
+21321301,no evidence
+21321300,no evidence
+21321241,no evidence
+21321242,no evidence
+21321243,no evidence
+21320750,no evidence
+21321245,no evidence
+21321246,no evidence
+21321247,no evidence
+21320749,no evidence
+21321249,no evidence
+21320748,no evidence
+21321251,no evidence
+21321252,no evidence
+21320747,no evidence
+21321254,no evidence
+21321255,no evidence
+21321256,no evidence
+21321257,no evidence
+21321240,no evidence
+21320746,no evidence
+21320751,no evidence
+21320752,no evidence
+21321220,no evidence
+21321221,no evidence
+21321222,no evidence
+21321223,no evidence
+21321224,no evidence
+21321225,no evidence
+21320755,no evidence
+21321227,no evidence
+21321228,no evidence
+21321229,no evidence
+21321230,no evidence
+21321231,no evidence
+21321232,no evidence
+21321233,no evidence
+21321234,no evidence
+21320754,no evidence
+21320753,no evidence
+21321238,no evidence
+21321387,no evidence
+21321259,no evidence
+21321261,no evidence
+21321283,no evidence
+21321284,no evidence
+21321285,no evidence
+21320740,no evidence
+21320739,no evidence
+21321288,no evidence
+21321289,no evidence
+21321290,no evidence
+21321291,no evidence
+21321292,no evidence
+21321293,no evidence
+21321294,no evidence
+21321295,no evidence
+21321296,no evidence
+21321297,no evidence
+21321298,no evidence
+21321299,no evidence
+21320741,no evidence
+21321260,no evidence
+21321281,no evidence
+21321279,no evidence
+21321262,no evidence
+21321263,no evidence
+21321264,no evidence
+21321265,no evidence
+21321266,no evidence
+21321267,no evidence
+21320745,no evidence
+21321269,no evidence
+21320744,no evidence
+21320743,no evidence
+21321272,no evidence
+21321273,no evidence
+21321274,no evidence
+21321275,no evidence
+21321276,no evidence
+21320742,no evidence
+21321278,no evidence
+21321280,no evidence
+21321388,no evidence
+21321389,no evidence
+21321390,no evidence
+21320690,no evidence
+21321507,no evidence
+21321508,no evidence
+21321509,no evidence
+21321510,no evidence
+21321511,no evidence
+21321512,no evidence
+21321513,no evidence
+21321514,no evidence
+21321515,no evidence
+21321516,no evidence
+21321517,no evidence
+21321518,no evidence
+21321519,no evidence
+21320689,no evidence
+21321521,no evidence
+21321522,no evidence
+21320691,no evidence
+21321523,no evidence
+21321504,no evidence
+21320693,no evidence
+21321484,no evidence
+21320700,no evidence
+21320699,no evidence
+21320698,no evidence
+21321488,no evidence
+21321489,no evidence
+21321491,no evidence
+21320696,no evidence
+21321493,no evidence
+21320695,no evidence
+21321495,no evidence
+21321496,no evidence
+21321497,no evidence
+21321498,no evidence
+21321499,no evidence
+21321500,no evidence
+21320694,no evidence
+21320692,no evidence
+21320701,no evidence
+21321525,no evidence
+21321527,no evidence
+21321549,no evidence
+21321550,no evidence
+21321551,no evidence
+21320681,no evidence
+21321553,no evidence
+21321554,no evidence
+21321555,no evidence
+21321556,no evidence
+21321557,no evidence
+21321558,no evidence
+21321559,no evidence
+21321560,no evidence
+21321561,no evidence
+21321562,no evidence
+21321563,no evidence
+21321564,no evidence
+21321565,no evidence
+21321548,no evidence
+21321526,no evidence
+21320682,no evidence
+21321545,no evidence
+21320687,no evidence
+21321529,no evidence
+21321530,no evidence
+21321531,no evidence
+21321532,no evidence
+21320686,no evidence
+21321534,no evidence
+21321535,no evidence
+21321536,no evidence
+21321537,no evidence
+21321538,no evidence
+21320685,no evidence
+21321540,no evidence
+21321541,no evidence
+21320684,no evidence
+21321543,no evidence
+21320683,no evidence
+21321546,no evidence
+21320756,no evidence
+21320703,no evidence
+21321479,no evidence
+21321414,no evidence
+21321415,no evidence
+21321416,no evidence
+21321417,no evidence
+21320724,no evidence
+21321419,no evidence
+21321420,no evidence
+21321421,no evidence
+21321422,no evidence
+21321423,no evidence
+21321424,no evidence
+21321425,no evidence
+21321427,no evidence
+21321428,no evidence
+21321429,no evidence
+21321430,no evidence
+21321431,no evidence
+21321413,no evidence
+21321432,no evidence
+21321412,no evidence
+21321410,no evidence
+21321391,no evidence
+21321392,no evidence
+21321393,no evidence
+21321394,no evidence
+21321395,no evidence
+21321396,no evidence
+21321397,no evidence
+21321398,no evidence
+21321399,no evidence
+21321400,no evidence
+21321401,no evidence
+21321403,no evidence
+21321404,no evidence
+21321405,no evidence
+21321406,no evidence
+21321407,no evidence
+21321408,no evidence
+21321411,no evidence
+21321480,no evidence
+21320722,no evidence
+21321435,no evidence
+21321460,no evidence
+21321461,no evidence
+21321462,no evidence
+21320711,no evidence
+21321464,no evidence
+21321465,no evidence
+21320709,no evidence
+21321468,no evidence
+21321469,no evidence
+21320708,no evidence
+21321471,no evidence
+21320707,no evidence
+21321473,no evidence
+21320706,no evidence
+21321475,no evidence
+21320705,no evidence
+21321478,no evidence
+21321459,no evidence
+21321434,no evidence
+21321458,no evidence
+21320712,no evidence
+21321436,no evidence
+21321437,no evidence
+21321438,no evidence
+21321439,no evidence
+21321440,no evidence
+21321442,no evidence
+21321443,no evidence
+21320720,no evidence
+21321445,no evidence
+21321446,no evidence
+21320719,no evidence
+21320717,no evidence
+21320716,no evidence
+21321451,no evidence
+21320715,no evidence
+21321454,no evidence
+21320713,no evidence
+21321457,no evidence
+21321566,no evidence
+21321218,no evidence
+21320757,no evidence
+21320976,no evidence
+21320825,no evidence
+21320978,no evidence
+21320979,no evidence
+21320824,no evidence
+21320823,no evidence
+21320982,no evidence
+21320826,no evidence
+21320983,no evidence
+21320985,no evidence
+21320986,no evidence
+21320987,no evidence
+21320988,no evidence
+21320989,no evidence
+21320990,no evidence
+21320991,no evidence
+21320984,no evidence
+21320974,no evidence
+21320973,no evidence
+21320972,no evidence
+21320955,no evidence
+21320956,no evidence
+21320957,no evidence
+21320958,no evidence
+21320959,no evidence
+21320831,no evidence
+21320961,no evidence
+21320830,no evidence
+21320829,no evidence
+21320964,no evidence
+21320965,no evidence
+21320966,no evidence
+21320828,no evidence
+21320968,no evidence
+21320969,no evidence
+21320827,no evidence
+21320971,no evidence
+21320992,no evidence
+21320822,no evidence
+21320821,no evidence
+21320995,no evidence
+21321019,no evidence
+21321020,no evidence
+21321021,no evidence
+21321023,no evidence
+21321024,no evidence
+21321025,no evidence
+21320811,no evidence
+21320810,no evidence
+21320809,no evidence
+21320808,no evidence
+21321030,no evidence
+21321031,no evidence
+21321032,no evidence
+21321033,no evidence
+21321034,no evidence
+21321035,no evidence
+21320807,no evidence
+21321017,no evidence
+21320833,no evidence
+21321016,no evidence
+21321014,no evidence
+21320996,no evidence
+21320997,no evidence
+21320998,no evidence
+21320999,no evidence
+21321000,no evidence
+21320819,no evidence
+21321003,no evidence
+21320818,no evidence
+21321005,no evidence
+21321006,no evidence
+21320816,no evidence
+21320815,no evidence
+21321009,no evidence
+21321010,no evidence
+21320814,no evidence
+21321012,no evidence
+21321013,no evidence
+21321015,no evidence
+21320952,no evidence
+21320951,no evidence
+21320950,no evidence
+21320887,no evidence
+21320847,no evidence
+21320889,no evidence
+21320890,no evidence
+21320891,no evidence
+21320892,no evidence
+21320893,no evidence
+21320894,no evidence
+21320895,no evidence
+21320896,no evidence
+21320897,no evidence
+21320898,no evidence
+21320846,no evidence
+21320900,no evidence
+21320901,no evidence
+21320902,no evidence
+21320845,no evidence
+21320848,no evidence
+21320904,no evidence
+21320849,no evidence
+21320883,no evidence
+21320860,no evidence
+21320858,no evidence
+21320867,no evidence
+21320868,no evidence
+21320869,no evidence
+21320857,no evidence
+21320871,no evidence
+21320856,no evidence
+21320873,no evidence
+21320874,no evidence
+21320875,no evidence
+21320855,no evidence
+21320877,no evidence
+21320852,no evidence
+21320851,no evidence
+21320850,no evidence
+21320882,no evidence
+21320884,no evidence
+21321037,no evidence
+21320905,no evidence
+21320908,no evidence
+21320930,no evidence
+21320932,no evidence
+21320933,no evidence
+21320934,no evidence
+21320935,no evidence
+21320839,no evidence
+21320937,no evidence
+21320938,no evidence
+21320939,no evidence
+21320837,no evidence
+21320942,no evidence
+21320944,no evidence
+21320945,no evidence
+21320835,no evidence
+21320834,no evidence
+21320948,no evidence
+21320949,no evidence
+21320929,no evidence
+21320906,no evidence
+21320928,no evidence
+21320926,no evidence
+21320909,no evidence
+21320910,no evidence
+21320911,no evidence
+21320912,no evidence
+21320913,no evidence
+21320914,no evidence
+21320915,no evidence
+21320842,no evidence
+21320917,no evidence
+21320918,no evidence
+21320919,no evidence
+21320920,no evidence
+21320921,no evidence
+21320841,no evidence
+21320923,no evidence
+21320924,no evidence
+21320925,no evidence
+21320927,no evidence
+21321038,no evidence
+21321039,no evidence
+21321040,no evidence
+21320782,no evidence
+21320780,no evidence
+21320779,no evidence
+21320777,no evidence
+21320775,no evidence
+21320774,no evidence
+21321161,no evidence
+21320773,no evidence
+21321163,no evidence
+21321164,no evidence
+21320772,no evidence
+21321166,no evidence
+21321167,no evidence
+21321168,no evidence
+21321169,no evidence
+21321170,no evidence
+21321171,no evidence
+21321151,no evidence
+21321172,no evidence
+21321150,no evidence
+21321148,no evidence
+21320794,no evidence
+21320793,no evidence
+21320792,no evidence
+21320789,no evidence
+21321134,no evidence
+21321135,no evidence
+21320788,no evidence
+21321137,no evidence
+21320787,no evidence
+21321139,no evidence
+21321140,no evidence
+21321141,no evidence
+21320786,no evidence
+21321143,no evidence
+21321144,no evidence
+21321145,no evidence
+21320785,no evidence
+21320783,no evidence
+21320795,no evidence
+21320771,no evidence
+21321175,no evidence
+21321197,no evidence
+21320765,no evidence
+21321199,no evidence
+21320764,no evidence
+21321201,no evidence
+21321202,no evidence
+21320763,no evidence
+21320762,no evidence
+21320761,no evidence
+21320760,no evidence
+21321207,no evidence
+21321208,no evidence
+21321209,no evidence
+21321211,no evidence
+21321212,no evidence
+21321213,no evidence
+21321214,no evidence
+21320766,no evidence
+21320770,no evidence
+21321195,no evidence
+21321193,no evidence
+21321176,no evidence
+21321177,no evidence
+21321178,no evidence
+21321179,no evidence
+21320769,no evidence
+21321181,no evidence
+21321182,no evidence
+21321183,no evidence
+21321184,no evidence
+21321185,no evidence
+21321186,no evidence
+21321187,no evidence
+21320768,no evidence
+21321189,no evidence
+21321190,no evidence
+21321191,no evidence
+21320767,no evidence
+21321194,no evidence
+21321217,no evidence
+21320797,no evidence
+21321123,no evidence
+21321062,no evidence
+21320806,no evidence
+21321064,no evidence
+21321065,no evidence
+21321066,no evidence
+21321067,no evidence
+21321068,no evidence
+21321069,no evidence
+21321070,no evidence
+21321071,no evidence
+21321072,no evidence
+21321073,no evidence
+21321074,no evidence
+21321075,no evidence
+21321076,no evidence
+21321077,no evidence
+21321078,no evidence
+21321061,no evidence
+21321079,no evidence
+21321060,no evidence
+21321058,no evidence
+21321041,no evidence
+21321042,no evidence
+21321043,no evidence
+21321044,no evidence
+21321045,no evidence
+21321046,no evidence
+21321047,no evidence
+21321048,no evidence
+21321049,no evidence
+21321050,no evidence
+21321051,no evidence
+21321052,no evidence
+21321053,no evidence
+21321054,no evidence
+21321055,no evidence
+21321056,no evidence
+21321057,no evidence
+21321059,no evidence
+21321124,no evidence
+21320805,no evidence
+21321082,no evidence
+21321105,no evidence
+21320801,no evidence
+21320800,no evidence
+21321108,no evidence
+21321109,no evidence
+21321110,no evidence
+21321111,no evidence
+21321112,no evidence
+21321113,no evidence
+21321114,no evidence
+21321115,no evidence
+21321116,no evidence
+21321117,no evidence
+21321118,no evidence
+21321119,no evidence
+21321120,no evidence
+21320798,no evidence
+21321104,no evidence
+21321081,no evidence
+21320802,no evidence
+21321101,no evidence
+21321083,no evidence
+21321084,no evidence
+21321085,no evidence
+21320804,no evidence
+21321087,no evidence
+21321088,no evidence
+21321089,no evidence
+21321091,no evidence
+21321092,no evidence
+21321093,no evidence
+21321094,no evidence
+21321095,no evidence
+21321096,no evidence
+21321097,no evidence
+21321098,no evidence
+21321099,no evidence
+21321100,no evidence
+21321102,no evidence
+21321567,no evidence
+21321568,no evidence
+21321569,no evidence
+21322022,no evidence
+21322023,no evidence
+21320624,no evidence
+21322025,no evidence
+21322026,no evidence
+21322027,no evidence
+21322028,no evidence
+21322021,no evidence
+21322029,no evidence
+21322031,no evidence
+21322032,no evidence
+21322033,no evidence
+21322034,no evidence
+21322035,no evidence
+21320623,no evidence
+21322037,no evidence
+21322030,no evidence
+21322020,no evidence
+21322019,no evidence
+21322018,no evidence
+21322000,no evidence
+21322001,no evidence
+21322002,no evidence
+21322003,no evidence
+21322004,no evidence
+21322005,no evidence
+21322006,no evidence
+21322007,no evidence
+21320627,no evidence
+21322009,no evidence
+21320626,no evidence
+21322011,no evidence
+21322012,no evidence
+21322014,no evidence
+21322015,no evidence
+21322016,no evidence
+21322017,no evidence
+21322039,no evidence
+21322040,no evidence
+21322041,no evidence
+21322042,no evidence
+21320615,no evidence
+21322065,no evidence
+21322066,no evidence
+21322068,no evidence
+21320613,no evidence
+21322070,no evidence
+21322071,no evidence
+21322072,no evidence
+21322073,no evidence
+21322074,no evidence
+21322075,no evidence
+21320612,no evidence
+21322077,no evidence
+21322078,no evidence
+21322079,no evidence
+21322081,no evidence
+21322082,no evidence
+21320616,no evidence
+21321999,no evidence
+21322062,no evidence
+21322060,no evidence
+21322043,no evidence
+21320621,no evidence
+21322045,no evidence
+21322046,no evidence
+21322047,no evidence
+21322048,no evidence
+21322049,no evidence
+21320620,no evidence
+21322051,no evidence
+21322052,no evidence
+21322053,no evidence
+21320619,no evidence
+21322055,no evidence
+21322056,no evidence
+21322057,no evidence
+21322058,no evidence
+21320618,no evidence
+21320617,no evidence
+21321998,no evidence
+21323595,no evidence
+21321996,no evidence
+21321936,no evidence
+21321937,no evidence
+21321938,no evidence
+21320630,no evidence
+21321940,no evidence
+21321941,no evidence
+21321942,no evidence
+21321943,no evidence
+21321944,no evidence
+21321945,no evidence
+21321946,no evidence
+21321947,no evidence
+21321948,no evidence
+21321949,no evidence
+21321950,no evidence
+21321951,no evidence
+21321952,no evidence
+21321935,no evidence
+21321953,no evidence
+21321934,no evidence
+21320632,no evidence
+21321914,no evidence
+21321915,no evidence
+21321916,no evidence
+21321917,no evidence
+21320633,no evidence
+21321919,no evidence
+21321920,no evidence
+21321921,no evidence
+21321922,no evidence
+21321923,no evidence
+21321924,no evidence
+21321925,no evidence
+21321926,no evidence
+21321927,no evidence
+21321928,no evidence
+21321929,no evidence
+21321930,no evidence
+21321933,no evidence
+21320610,no evidence
+21321954,no evidence
+21321957,no evidence
+21321979,no evidence
+21321980,no evidence
+21321981,no evidence
+21321982,no evidence
+21321983,no evidence
+21321984,no evidence
+21321985,no evidence
+21321986,no evidence
+21321987,no evidence
+21321988,no evidence
+21321989,no evidence
+21321990,no evidence
+21321991,no evidence
+21321992,no evidence
+21321993,no evidence
+21321994,no evidence
+21321995,no evidence
+21321978,no evidence
+21321956,no evidence
+21321977,no evidence
+21321975,no evidence
+21321958,no evidence
+21321959,no evidence
+21321960,no evidence
+21321961,no evidence
+21321962,no evidence
+21321963,no evidence
+21321964,no evidence
+21321965,no evidence
+21320628,no evidence
+21321967,no evidence
+21321968,no evidence
+21321969,no evidence
+21321970,no evidence
+21321971,no evidence
+21321972,no evidence
+21321973,no evidence
+21321974,no evidence
+21321976,no evidence
+21320609,no evidence
+21322085,no evidence
+21322086,no evidence
+21322195,no evidence
+21322196,no evidence
+21322197,no evidence
+21320587,no evidence
+21320585,no evidence
+21320584,no evidence
+21322202,no evidence
+21320582,no evidence
+21322204,no evidence
+21322205,no evidence
+21322206,no evidence
+21322207,no evidence
+21322208,no evidence
+21322209,no evidence
+21320581,no evidence
+21322211,no evidence
+21320580,no evidence
+21322194,no evidence
+21322213,no evidence
+21322193,no evidence
+21322191,no evidence
+21322174,no evidence
+21322175,no evidence
+21322176,no evidence
+21320592,no evidence
+21322178,no evidence
+21322179,no evidence
+21320591,no evidence
+21320590,no evidence
+21322182,no evidence
+21322183,no evidence
+21322184,no evidence
+21322185,no evidence
+21322186,no evidence
+21320589,no evidence
+21322188,no evidence
+21320588,no evidence
+21322190,no evidence
+21322192,no evidence
+21322173,no evidence
+21320579,no evidence
+21322216,no evidence
+21322238,no evidence
+21322239,no evidence
+21322240,no evidence
+21322241,no evidence
+21322242,no evidence
+21322243,no evidence
+21322244,no evidence
+21320572,no evidence
+21322246,no evidence
+21322247,no evidence
+21322248,no evidence
+21322249,no evidence
+21322250,no evidence
+21322251,no evidence
+21322252,no evidence
+21322253,no evidence
+21322254,no evidence
+21322237,no evidence
+21322215,no evidence
+21322236,no evidence
+21322234,no evidence
+21322217,no evidence
+21320578,no evidence
+21322219,no evidence
+21322220,no evidence
+21320577,no evidence
+21322222,no evidence
+21322223,no evidence
+21322224,no evidence
+21320576,no evidence
+21322226,no evidence
+21322227,no evidence
+21322228,no evidence
+21320862,no evidence
+21322230,no evidence
+21322231,no evidence
+21320574,no evidence
+21320573,no evidence
+21322235,no evidence
+21321913,no evidence
+21322172,no evidence
+21322170,no evidence
+21322108,no evidence
+21322109,no evidence
+21322110,no evidence
+21320600,no evidence
+21322113,no evidence
+21322114,no evidence
+21322115,no evidence
+21320599,no evidence
+21322117,no evidence
+21322118,no evidence
+21322119,no evidence
+21322120,no evidence
+21322121,no evidence
+21322122,no evidence
+21322123,no evidence
+21322124,no evidence
+21322125,no evidence
+21322107,no evidence
+21322126,no evidence
+21322106,no evidence
+21322104,no evidence
+21322087,no evidence
+21322088,no evidence
+21322089,no evidence
+21320608,no evidence
+21322091,no evidence
+21322092,no evidence
+21322093,no evidence
+21322094,no evidence
+21322095,no evidence
+21322096,no evidence
+21320607,no evidence
+21320606,no evidence
+21322099,no evidence
+21322100,no evidence
+21322101,no evidence
+21320605,no evidence
+21320604,no evidence
+21320603,no evidence
+21322171,no evidence
+21320598,no evidence
+21320597,no evidence
+21322153,no evidence
+21322154,no evidence
+21322155,no evidence
+21322156,no evidence
+21320593,no evidence
+21322158,no evidence
+21322159,no evidence
+21322160,no evidence
+21322161,no evidence
+21322162,no evidence
+21322163,no evidence
+21322164,no evidence
+21322165,no evidence
+21322166,no evidence
+21322167,no evidence
+21322168,no evidence
+21322169,no evidence
+21322152,no evidence
+21322128,no evidence
+21322151,no evidence
+21322149,no evidence
+21322130,no evidence
+21322131,no evidence
+21322132,no evidence
+21322133,no evidence
+21320596,no evidence
+21322136,no evidence
+21322137,no evidence
+21322138,no evidence
+21322139,no evidence
+21322140,no evidence
+21322141,no evidence
+21322143,no evidence
+21322144,no evidence
+21322145,no evidence
+21322146,no evidence
+21322147,no evidence
+21322148,no evidence
+21322150,no evidence
+21321912,no evidence
+21321911,no evidence
+21321910,no evidence
+21321677,no evidence
+21321678,no evidence
+21321679,no evidence
+21321680,no evidence
+21321681,no evidence
+21321682,no evidence
+21321683,no evidence
+21321684,no evidence
+21321685,no evidence
+21321686,no evidence
+21321688,no evidence
+21321689,no evidence
+21321690,no evidence
+21320660,no evidence
+21321692,no evidence
+21321693,no evidence
+21321694,no evidence
+21320662,no evidence
+21321695,no evidence
+21320663,no evidence
+21321673,no evidence
+21321655,no evidence
+21320670,no evidence
+21320668,no evidence
+21321659,no evidence
+21320667,no evidence
+21321661,no evidence
+21321662,no evidence
+21321663,no evidence
+21321664,no evidence
+21321665,no evidence
+21320666,no evidence
+21321667,no evidence
+21321668,no evidence
+21321669,no evidence
+21320665,no evidence
+21321671,no evidence
+21321672,no evidence
+21320664,no evidence
+21320671,no evidence
+21321696,no evidence
+21321698,no evidence
+21321723,no evidence
+21321724,no evidence
+21321725,no evidence
+21321726,no evidence
+21321727,no evidence
+21321728,no evidence
+21321729,no evidence
+21321730,no evidence
+21321731,no evidence
+21320653,no evidence
+21320652,no evidence
+21321734,no evidence
+21321735,no evidence
+21321736,no evidence
+21321737,no evidence
+21321738,no evidence
+21321739,no evidence
+21321722,no evidence
+21321697,no evidence
+21321720,no evidence
+21321717,no evidence
+21321699,no evidence
+21321700,no evidence
+21321701,no evidence
+21321702,no evidence
+21321703,no evidence
+21321704,no evidence
+21321705,no evidence
+21321706,no evidence
+21321707,no evidence
+21321708,no evidence
+21321710,no evidence
+21321711,no evidence
+21320658,no evidence
+21320657,no evidence
+21321714,no evidence
+21321715,no evidence
+21321716,no evidence
+21320656,no evidence
+21321740,no evidence
+21321653,no evidence
+21321651,no evidence
+21321591,no evidence
+21321592,no evidence
+21321593,no evidence
+21321594,no evidence
+21321595,no evidence
+21321596,no evidence
+21321597,no evidence
+21321598,no evidence
+21321599,no evidence
+21321600,no evidence
+21321601,no evidence
+21321602,no evidence
+21321603,no evidence
+21321604,no evidence
+21321605,no evidence
+21321606,no evidence
+21321607,no evidence
+21321590,no evidence
+21321608,no evidence
+21321589,no evidence
+21321587,no evidence
+21321570,no evidence
+21321571,no evidence
+21321572,no evidence
+21321573,no evidence
+21320680,no evidence
+21321575,no evidence
+21321576,no evidence
+21321577,no evidence
+21321578,no evidence
+21321579,no evidence
+21321580,no evidence
+21321581,no evidence
+21321582,no evidence
+21321583,no evidence
+21321584,no evidence
+21320679,no evidence
+21321586,no evidence
+21321588,no evidence
+21321652,no evidence
+21321609,no evidence
+21321611,no evidence
+21321634,no evidence
+21321635,no evidence
+21320673,no evidence
+21321637,no evidence
+21321638,no evidence
+21321639,no evidence
+21321640,no evidence
+21321641,no evidence
+21321642,no evidence
+21321643,no evidence
+21321644,no evidence
+21321645,no evidence
+21321646,no evidence
+21321647,no evidence
+21320672,no evidence
+21321649,no evidence
+21321650,no evidence
+21321633,no evidence
+21321610,no evidence
+21320674,no evidence
+21320675,no evidence
+21321612,no evidence
+21321613,no evidence
+21321614,no evidence
+21321615,no evidence
+21320678,no evidence
+21321617,no evidence
+21321618,no evidence
+21321619,no evidence
+21321620,no evidence
+21321621,no evidence
+21321622,no evidence
+21320677,no evidence
+21321625,no evidence
+21321626,no evidence
+21321627,no evidence
+21321628,no evidence
+21321629,no evidence
+21321631,no evidence
+21322256,no evidence
+21321741,no evidence
+21321743,no evidence
+21321850,no evidence
+21320639,no evidence
+21321852,no evidence
+21321853,no evidence
+21321854,no evidence
+21321855,no evidence
+21321856,no evidence
+21321857,no evidence
+21321858,no evidence
+21321859,no evidence
+21321860,no evidence
+21321861,no evidence
+21321862,no evidence
+21321863,no evidence
+21321864,no evidence
+21320638,no evidence
+21321866,no evidence
+21321849,no evidence
+21321867,no evidence
+21321848,no evidence
+21321846,no evidence
+21320643,no evidence
+21321830,no evidence
+21321831,no evidence
+21321832,no evidence
+21321833,no evidence
+21321834,no evidence
+21321835,no evidence
+21321836,no evidence
+21321837,no evidence
+21321838,no evidence
+21320642,no evidence
+21321840,no evidence
+21321841,no evidence
+21321842,no evidence
+21321843,no evidence
+21321844,no evidence
+21320641,no evidence
+21320640,no evidence
+21321828,no evidence
+21321868,no evidence
+21321870,no evidence
+21321893,no evidence
+21321894,no evidence
+21321895,no evidence
+21320635,no evidence
+21321897,no evidence
+21321898,no evidence
+21321899,no evidence
+21321900,no evidence
+21321901,no evidence
+21321902,no evidence
+21321903,no evidence
+21321904,no evidence
+21321905,no evidence
+21321906,no evidence
+21321907,no evidence
+21320634,no evidence
+21321909,no evidence
+21321892,no evidence
+21321869,no evidence
+21321891,no evidence
+21321889,no evidence
+21321871,no evidence
+21321872,no evidence
+21321873,no evidence
+21321875,no evidence
+21321876,no evidence
+21321877,no evidence
+21320636,no evidence
+21321879,no evidence
+21321880,no evidence
+21321881,no evidence
+21321882,no evidence
+21321883,no evidence
+21321884,no evidence
+21321885,no evidence
+21321886,no evidence
+21321887,no evidence
+21321888,no evidence
+21321890,no evidence
+21321742,no evidence
+21321827,no evidence
+21321825,no evidence
+21321766,no evidence
+21321767,no evidence
+21321768,no evidence
+21321769,no evidence
+21321770,no evidence
+21321771,no evidence
+21321772,no evidence
+21321773,no evidence
+21321774,no evidence
+21320648,no evidence
+21321776,no evidence
+21321777,no evidence
+21321778,no evidence
+21321779,no evidence
+21321780,no evidence
+21320647,no evidence
+21321782,no evidence
+21321765,no evidence
+21321783,no evidence
+21321764,no evidence
+21321762,no evidence
+21320651,no evidence
+21321745,no evidence
+21321746,no evidence
+21321747,no evidence
+21321748,no evidence
+21321749,no evidence
+21321750,no evidence
+21321751,no evidence
+21321752,no evidence
+21321753,no evidence
+21320650,no evidence
+21321755,no evidence
+21321756,no evidence
+21321758,no evidence
+21321759,no evidence
+21321760,no evidence
+21321761,no evidence
+21321763,no evidence
+21321826,no evidence
+21321784,no evidence
+21321786,no evidence
+21321808,no evidence
+21321809,no evidence
+21321810,no evidence
+21321811,no evidence
+21321812,no evidence
+21321813,no evidence
+21321814,no evidence
+21321815,no evidence
+21321816,no evidence
+21321817,no evidence
+21321818,no evidence
+21321819,no evidence
+21321820,no evidence
+21320645,no evidence
+21320644,no evidence
+21321823,no evidence
+21321824,no evidence
+21321807,no evidence
+21321785,no evidence
+21321806,no evidence
+21321804,no evidence
+21321787,no evidence
+21321788,no evidence
+21321789,no evidence
+21321790,no evidence
+21321791,no evidence
+21321792,no evidence
+21321793,no evidence
+21321794,no evidence
+21321795,no evidence
+21320646,no evidence
+21321797,no evidence
+21321798,no evidence
+21321799,no evidence
+21321800,no evidence
+21321801,no evidence
+21321802,no evidence
+21321803,no evidence
+21321805,no evidence
+21321997,no evidence
