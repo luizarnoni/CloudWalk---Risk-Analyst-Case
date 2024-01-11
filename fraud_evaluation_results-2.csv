@@ -1,0 +1,3200 @@
+transaction_id,fraud_chance,listed_as_suspicious,user_related_suspicion_count,merchant_related_suspicion_count
+21322421.0,high,True,6,3
+21321210.0,high,True,13,7
+21322443.0,high,True,6,17
+21323320.0,high,True,9,13
+21320863.0,high,True,2,2
+21322447.0,high,True,21,21
+21320870.0,high,True,4,4
+21320872.0,high,True,2,2
+21321132.0,high,True,13,14
+21321129.0,high,True,13,14
+21323321.0,high,True,9,13
+21322200.0,high,True,2,2
+21322090.0,high,True,12,9
+21323326.0,high,True,9,13
+21321127.0,high,True,13,14
+21321174.0,high,True,17,5
+21322458.0,high,True,21,21
+21321125.0,high,True,17,14
+21321122.0,high,True,13,14
+21321121.0,high,True,13,14
+21321781.0,high,True,21,21
+21323327.0,high,True,9,13
+21323328.0,high,True,9,13
+21323325.0,high,True,9,13
+21321107.0,high,True,13,14
+21321203.0,high,True,13,7
+21322621.0,high,True,12,9
+21322050.0,high,True,21,21
+21322413.0,high,True,21,21
+21321452.0,high,True,0,10
+21322414.0,high,True,21,21
+21321159.0,high,True,2,5
+21320817.0,high,True,4,4
+21321158.0,high,True,17,5
+21321447.0,high,True,3,10
+21321453.0,high,True,0,10
+21321156.0,high,True,2,5
+21320854.0,high,True,4,8
+21321180.0,high,True,21,21
+21321505.0,high,True,30,30
+21321153.0,high,True,17,5
+21321455.0,high,True,3,10
+21322063.0,high,True,21,21
+21322067.0,high,True,21,21
+21321196.0,high,True,17,7
+21321821.0,high,True,3,0
+21321147.0,high,True,17,5
+21320844.0,high,True,4,4
+21321142.0,high,True,6,9
+21322059.0,high,True,21,21
+21323329.0,high,True,9,13
+21321126.0,high,True,17,14
+21323331.0,high,True,9,13
+21321236.0,high,True,17,4
+21321258.0,high,True,17,7
+21321670.0,high,True,30,30
+21321486.0,high,True,21,21
+21321539.0,high,True,21,21
+21321253.0,high,True,4,8
+21321216.0,high,True,17,7
+21320586.0,high,True,30,7
+21321226.0,high,True,13,7
+21323330.0,high,True,9,13
+21321676.0,high,True,30,30
+21321533.0,high,True,21,21
+21321687.0,high,True,12,2
+21321494.0,high,True,21,21
+21322105.0,high,True,12,9
+21320602.0,high,True,30,7
+21320575.0,high,True,30,7
+21321691.0,high,True,12,9
+21322672.0,high,True,4,17
+21323288.0,medium-high,True,3,3
+21321574.0,medium-high,True,30,30
+21322379.0,medium-high,True,0,4
+21321188.0,medium-high,True,5,2
+21320759.0,medium-high,True,4,8
+21321192.0,medium-high,True,30,30
+21321874.0,medium-high,True,30,30
+21321524.0,medium-high,True,2,10
+21322311.0,medium-high,True,2,3
+21323284.0,medium-high,True,3,3
+21322914.0,medium-high,True,12,7
+21322654.0,medium-high,True,0,11
+21320649.0,medium-high,True,6,9
+21321520.0,medium-high,True,2,10
+21320776.0,medium-high,True,0,3
+21322296.0,medium-high,True,2,3
+21320631.0,medium-high,True,2,3
+21321270.0,medium-high,True,2,2
+21320778.0,medium-high,True,0,2
+21320629.0,medium-high,True,7,30
+21323281.0,medium-high,True,9,13
+21321865.0,medium-high,True,2,2
+21323277.0,medium-high,True,0,7
+21320655.0,medium-high,True,2,4
+21320661.0,medium-high,True,30,30
+21323310.0,medium-high,True,0,7
+21320669.0,medium-high,True,2,9
+21320721.0,medium-high,True,5,11
+21320723.0,medium-high,True,0,11
+21320714.0,medium-high,True,9,10
+21321215.0,medium-high,True,8,0
+21323335.0,medium-high,True,3,3
+21320725.0,medium-high,True,4,4
+21323336.0,medium-high,True,3,3
+21320726.0,medium-high,True,5,11
+21320710.0,medium-high,True,5,11
+21323341.0,medium-high,True,4,13
+21320704.0,medium-high,True,4,4
+21320727.0,medium-high,True,9,10
+21323342.0,medium-high,True,4,13
+21320729.0,medium-high,True,5,11
+21321939.0,medium-high,True,0,11
+21323343.0,medium-high,True,4,13
+21320735.0,medium-high,True,9,10
+21320697.0,medium-high,True,0,4
+21321547.0,medium-high,True,2,11
+21321918.0,medium-high,True,3,2
+21320688.0,medium-high,True,2,4
+21320736.0,medium-high,True,9,10
+21322680.0,medium-high,True,5,17
+21321235.0,medium-high,True,2,2
+21321896.0,medium-high,True,2,4
+21321206.0,medium-high,True,2,9
+21321931.0,medium-high,True,4,4
+21320676.0,medium-high,True,4,8
+21321237.0,medium-high,True,30,30
+21321200.0,medium-high,True,5,2
+21322667.0,medium-high,True,4,17
+21322633.0,medium-high,True,0,9
+21320899.0,medium-high,True,3,5
+21321165.0,medium-high,True,4,5
+21323043.0,medium-high,True,0,7
+21320981.0,medium-high,True,4,8
+21320975.0,medium-high,True,2,5
+21323131.0,medium-high,True,2,11
+21320970.0,medium-high,True,2,5
+21320967.0,medium-high,True,13,14
+21320963.0,medium-high,True,13,14
+21323032.0,medium-high,True,0,11
+21322502.0,medium-high,True,2,2
+21322500.0,medium-high,True,4,2
+21321090.0,medium-high,True,17,14
+21320946.0,medium-high,True,4,5
+21320943.0,medium-high,True,2,4
+21320941.0,medium-high,True,4,5
+21323156.0,medium-high,True,0,11
+21322492.0,medium-high,True,2,2
+21322491.0,medium-high,True,5,17
+21320936.0,medium-high,True,4,5
+21321757.0,medium-high,True,0,2
+21323119.0,medium-high,True,2,11
+21320931.0,medium-high,True,30,30
+21321721.0,medium-high,True,4,11
+21321656.0,medium-high,True,4,4
+21321675.0,medium-high,True,12,9
+21323070.0,medium-high,True,0,11
+21321029.0,medium-high,True,30,30
+21321674.0,medium-high,True,12,2
+21321018.0,medium-high,True,2,2
+21321666.0,medium-high,True,4,4
+21322535.0,medium-high,True,3,4
+21321011.0,medium-high,True,7,30
+21321008.0,medium-high,True,2,2
+21321709.0,medium-high,True,4,11
+21321660.0,medium-high,True,4,4
+21321002.0,medium-high,True,4,8
+21321001.0,medium-high,True,13,14
+21321712.0,medium-high,True,4,4
+21321658.0,medium-high,True,12,9
+21321657.0,medium-high,True,12,2
+21322526.0,medium-high,True,3,4
+21320994.0,medium-high,True,13,14
+21321718.0,medium-high,True,4,11
+21323049.0,medium-high,True,12,7
+21320799.0,medium-high,True,3,11
+21321103.0,medium-high,True,17,14
+21321106.0,medium-high,True,17,14
+21321822.0,medium-high,True,5,6
+21320836.0,medium-high,True,2,4
+21322626.0,medium-high,True,5,17
+21321149.0,medium-high,True,21,21
+21322427.0,medium-high,True,21,21
+21320832.0,medium-high,True,4,8
+21322627.0,medium-high,True,5,17
+21321152.0,medium-high,True,2,5
+21321829.0,medium-high,True,4,4
+21321154.0,medium-high,True,2,5
+21321155.0,medium-high,True,21,21
+21322418.0,medium-high,True,21,21
+21320820.0,medium-high,True,2,2
+21321839.0,medium-high,True,5,6
+21320813.0,medium-high,True,3,11
+21321845.0,medium-high,True,3,0
+21321162.0,medium-high,True,4,5
+21321847.0,medium-high,True,2,4
+21320803.0,medium-high,True,3,11
+21320838.0,medium-high,True,2,4
+21322480.0,medium-high,True,4,4
+21323230.0,medium-high,True,0,11
+21322439.0,medium-high,True,4,17
+21320922.0,medium-high,True,6,9
+21320916.0,medium-high,True,30,30
+21321775.0,medium-high,True,2,0
+21321616.0,medium-high,True,2,2
+21320907.0,medium-high,True,6,9
+21322464.0,medium-high,True,2,6
+21322460.0,medium-high,True,0,2
+21320885.0,medium-high,True,0,5
+21322455.0,medium-high,True,0,11
+21321796.0,medium-high,True,30,30
+21320881.0,medium-high,True,0,5
+21320880.0,medium-high,True,3,5
+21320879.0,medium-high,True,3,5
+21320878.0,medium-high,True,3,5
+21320866.0,medium-high,True,2,2
+21323216.0,medium-high,True,3,7
+21320859.0,medium-high,True,2,4
+21321138.0,medium-high,True,21,21
+21323221.0,medium-high,True,0,7
+21322437.0,medium-high,True,4,17
+21320622.0,medium-high,True,2,3
+21320718.0,medium-high,True,9,10
+21321503.0,medium-high,True,3,10
+21320546.0,medium-high,True,0,5
+21320545.0,medium-high,True,0,5
+21321456.0,medium-high,True,4,11
+21322225.0,medium-high,True,3,5
+21321336.0,medium-high,True,0,2
+21320533.0,medium-high,True,0,3
+21322112.0,medium-high,True,2,5
+21320532.0,medium-high,True,0,3
+21323563.0,medium-high,True,2,2
+21322111.0,medium-high,True,5,6
+21320441.0,medium-high,True,4,4
+21322221.0,medium-high,True,3,5
+21320526.0,medium-high,True,30,7
+21322218.0,medium-high,True,8,8
+21320522.0,medium-high,True,30,7
+21322232.0,medium-high,True,3,4
+21322839.0,medium-high,True,5,17
+21320432.0,medium-high,True,2,0
+21321325.0,medium-high,True,0,2
+21321476.0,medium-high,True,2,10
+21321309.0,medium-high,True,17,4
+21322010.0,medium-high,True,3,2
+21321474.0,medium-high,True,2,10
+21320426.0,medium-high,True,2,0
+21321472.0,medium-high,True,5,10
+21321470.0,medium-high,True,4,4
+21321316.0,medium-high,True,17,4
+21321382.0,medium-high,True,4,8
+21322245.0,medium-high,True,0,5
+21321467.0,medium-high,True,5,10
+21321466.0,medium-high,True,5,10
+21322024.0,medium-high,True,3,4
+21320560.0,medium-high,True,0,2
+21320428.0,medium-high,True,6,9
+21321329.0,medium-high,True,0,9
+21320424.0,medium-high,True,2,0
+21322054.0,medium-high,True,5,5
+21321448.0,medium-high,True,5,10
+21322177.0,medium-high,True,0,17
+21321426.0,medium-high,True,3,10
+21322180.0,medium-high,True,0,4
+21323533.0,medium-high,True,0,4
+21322189.0,medium-high,True,30,30
+21321433.0,medium-high,True,3,10
+21323537.0,medium-high,True,3,4
+21323538.0,medium-high,True,3,4
+21323539.0,medium-high,True,3,4
+21323540.0,medium-high,True,3,4
+21320453.0,medium-high,True,5,0
+21320460.0,medium-high,True,30,7
+21320454.0,medium-high,True,5,0
+21322097.0,medium-high,True,0,2
+21322098.0,medium-high,True,0,4
+21322198.0,medium-high,True,0,17
+21320517.0,medium-high,True,30,30
+21322199.0,medium-high,True,3,5
+21322201.0,medium-high,True,4,4
+21322214.0,medium-high,True,8,8
+21322212.0,medium-high,True,8,8
+21322061.0,medium-high,True,5,5
+21320507.0,medium-high,True,30,30
+21322064.0,medium-high,True,5,5
+21323506.0,medium-high,True,3,3
+21323507.0,medium-high,True,3,3
+21323508.0,medium-high,True,3,3
+21320498.0,medium-high,True,30,30
+21322069.0,medium-high,True,5,5
+21321349.0,medium-high,True,6,9
+21323555.0,medium-high,True,2,2
+21323554.0,medium-high,True,2,2
+21321353.0,medium-high,True,6,9
+21323518.0,medium-high,True,3,3
+21320485.0,medium-high,True,7,30
+21321386.0,medium-high,True,4,8
+21322116.0,medium-high,True,2,5
+21320614.0,medium-high,True,30,30
+21321490.0,medium-high,True,2,10
+21320411.0,medium-high,True,3,3
+21321492.0,medium-high,True,2,10
+21321282.0,medium-high,True,7,30
+21322787.0,medium-high,True,3,17
+21321487.0,medium-high,True,30,30
+21321501.0,medium-high,True,3,10
+21322134.0,medium-high,True,3,2
+21322798.0,medium-high,True,6,17
+21320595.0,medium-high,True,4,5
+21322135.0,medium-high,True,3,2
+21320594.0,medium-high,True,4,5
+21322129.0,medium-high,True,3,2
+21320405.0,medium-high,True,3,3
+21321286.0,medium-high,True,2,2
+21322791.0,medium-high,True,12,9
+21320406.0,medium-high,True,3,3
+21320611.0,medium-high,True,30,7
+21322262.0,medium-high,True,2,6
+21321502.0,medium-high,True,3,10
+21320407.0,medium-high,True,3,3
+21322127.0,medium-high,True,5,6
+21320796.0,medium,True,5,3
+21321136.0,medium,True,13,5
+21320865.0,medium,True,2,2
+21323391.0,medium,True,4,13
+21320494.0,medium,True,4,0
+21321244.0,medium,True,17,7
+21323174.0,medium,True,5,5
+21320840.0,medium,True,0,3
+21320790.0,medium,True,0,3
+21321585.0,medium,True,4,4
+21322076.0,medium,True,5,5
+21320531.0,medium,True,3,10
+21321146.0,medium,True,3,3
+21323154.0,medium,True,3,2
+21322446.0,medium,True,6,3
+21320784.0,medium,True,9,10
+21323153.0,medium,True,3,2
+21320843.0,medium,True,5,3
+21320781.0,medium,True,9,10
+21322084.0,medium,True,2,2
+21321623.0,medium,True,7,30
+21322831.0,medium,True,6,17
+21321636.0,medium,True,0,3
+21320853.0,medium,True,2,2
+21320529.0,medium,True,5,3
+21322406.0,medium,True,8,8
+21322698.0,medium,True,8,8
+21322210.0,medium,True,0,2
+21321287.0,medium,True,17,4
+21320654.0,medium,True,2,2
+21323244.0,medium,True,0,2
+21321345.0,medium,True,5,2
+21320511.0,medium,True,7,30
+21323497.0,medium,True,0,4
+21322620.0,medium,True,8,8
+21321157.0,medium,True,3,3
+21321250.0,medium,True,30,30
+21320518.0,medium,True,30,7
+21320528.0,medium,True,5,3
+21320659.0,medium,True,2,2
+21323100.0,medium,True,0,4
+21321027.0,medium,True,2,2
+21320539.0,medium,True,3,10
+21322619.0,medium,True,8,8
+21323058.0,medium,True,4,4
+21321340.0,medium,True,5,2
+21321528.0,medium,True,0,2
+21320637.0,medium,True,2,2
+21321028.0,medium,True,2,2
+21321450.0,medium,True,2,2
+21321277.0,medium,True,0,2
+21321449.0,medium,True,4,4
+21322411.0,medium,True,5,5
+21323264.0,medium,True,2,11
+21322795.0,medium,True,4,4
+21321733.0,medium,True,21,21
+21321732.0,medium,True,0,4
+21322818.0,medium,True,3,3
+21322682.0,medium,True,4,4
+21321463.0,medium,True,9,10
+21321133.0,medium,True,3,5
+21320977.0,medium,True,3,4
+21322181.0,medium,True,7,30
+21323127.0,medium,True,4,4
+21323461.0,medium,True,4,3
+21322157.0,medium,True,4,4
+21321506.0,medium,True,9,10
+21323459.0,medium,True,4,3
+21320980.0,medium,True,3,4
+21321713.0,medium,True,30,30
+21321544.0,medium,True,0,4
+21321908.0,medium,True,4,4
+21321483.0,medium,True,5,10
+21322578.0,medium,True,4,4
+21322341.0,medium,True,3,0
+21322342.0,medium,True,0,2
+21322013.0,medium,True,4,4
+21323332.0,medium,True,0,4
+21323195.0,medium,True,5,5
+21321542.0,medium,True,21,21
+21320888.0,medium,True,30,30
+21322786.0,medium,True,6,17
+21323443.0,medium,True,4,3
+21323189.0,medium,True,5,5
+21321131.0,medium,True,2,5
+21320542.0,medium,True,3,10
+21321130.0,medium,True,2,5
+21323178.0,medium,True,5,5
+21322038.0,medium,True,2,2
+21322525.0,medium,True,12,9
+21321004.0,medium,True,3,3
+21323190.0,medium,True,5,5
+21322504.0,medium,True,4,2
+21322718.0,medium,True,6,17
+21321204.0,medium,True,0,2
+21321086.0,medium,True,2,2
+21320960.0,medium,True,30,30
+21320962.0,medium,True,3,4
+21322616.0,medium,True,8,8
+21320702.0,medium,True,30,30
+21322509.0,medium,True,2,2
+21322233.0,medium,True,0,2
+21321477.0,medium,True,5,10
+21323442.0,medium,True,4,3
+21320886.0,medium,True,2,2
+21321485.0,medium,True,21,21
+21322036.0,medium,True,2,2
+21323192.0,medium,True,5,5
+21322562.0,no evidence,False,0,0
+21322602.0,no evidence,False,0,0
+21322563.0,no evidence,False,0,0
+21322558.0,no evidence,False,0,0
+21322601.0,no evidence,False,0,0
+21322561.0,no evidence,False,0,0
+21322608.0,no evidence,False,0,0
+21322559.0,no evidence,False,0,0
+21322607.0,no evidence,False,0,0
+21322606.0,no evidence,False,0,0
+21322759.0,no evidence,False,0,0
+21322560.0,no evidence,False,0,0
+21322603.0,no evidence,False,0,0
+21322781.0,no evidence,False,0,0
+21322780.0,no evidence,False,0,0
+21322779.0,no evidence,False,0,0
+21322604.0,no evidence,False,0,0
+21322609.0,no evidence,False,0,0
+21322605.0,no evidence,False,0,0
+21322773.0,no evidence,False,0,0
+21322599.0,no evidence,False,0,0
+21322767.0,no evidence,False,0,0
+21322610.0,no evidence,False,0,0
+21322587.0,no evidence,False,0,0
+21322586.0,no evidence,False,0,0
+21322572.0,no evidence,False,0,0
+21322585.0,no evidence,False,0,0
+21322584.0,no evidence,False,0,0
+21322768.0,no evidence,False,0,0
+21322583.0,no evidence,False,0,0
+21322582.0,no evidence,False,0,0
+21322769.0,no evidence,False,0,0
+21322776.0,no evidence,False,0,0
+21322770.0,no evidence,False,0,0
+21322580.0,no evidence,False,0,0
+21322579.0,no evidence,False,0,0
+21322577.0,no evidence,False,0,0
+21322576.0,no evidence,False,0,0
+21322775.0,no evidence,False,0,0
+21322575.0,no evidence,False,0,0
+21322774.0,no evidence,False,0,0
+21322574.0,no evidence,False,0,0
+21322573.0,no evidence,False,0,0
+21322771.0,no evidence,False,0,0
+21322772.0,no evidence,False,0,0
+21322581.0,no evidence,False,0,0
+21322588.0,no evidence,False,0,0
+21322766.0,no evidence,False,0,0
+21322589.0,no evidence,False,0,0
+21322564.0,no evidence,False,0,0
+21322598.0,no evidence,False,0,0
+21322565.0,no evidence,False,0,0
+21322760.0,no evidence,False,0,0
+21322566.0,no evidence,False,0,0
+21322597.0,no evidence,False,0,0
+21322778.0,no evidence,False,0,0
+21322567.0,no evidence,False,0,0
+21322568.0,no evidence,False,0,0
+21322596.0,no evidence,False,0,0
+21322595.0,no evidence,False,0,0
+21322761.0,no evidence,False,0,0
+21322762.0,no evidence,False,0,0
+21322594.0,no evidence,False,0,0
+21322763.0,no evidence,False,0,0
+21322569.0,no evidence,False,0,0
+21322764.0,no evidence,False,0,0
+21322593.0,no evidence,False,0,0
+21322570.0,no evidence,False,11,0
+21322571.0,no evidence,False,0,0
+21322592.0,no evidence,False,0,0
+21322777.0,no evidence,False,0,0
+21322591.0,no evidence,False,0,0
+21322590.0,no evidence,False,0,0
+21322765.0,no evidence,False,0,0
+21322600.0,no evidence,False,0,0
+21322758.0,no evidence,False,0,0
+21322628.0,no evidence,False,0,0
+21322612.0,no evidence,False,0,0
+21322719.0,no evidence,False,0,0
+21322681.0,no evidence,False,0,0
+21322720.0,no evidence,False,0,0
+21322679.0,no evidence,False,0,0
+21322678.0,no evidence,False,0,0
+21322721.0,no evidence,False,0,0
+21322677.0,no evidence,False,0,0
+21322676.0,no evidence,False,0,0
+21322722.0,no evidence,False,0,0
+21322675.0,no evidence,False,0,0
+21322723.0,no evidence,False,0,0
+21322674.0,no evidence,False,0,0
+21322673.0,no evidence,False,0,0
+21322724.0,no evidence,False,0,0
+21322725.0,no evidence,False,0,0
+21322671.0,no evidence,False,0,0
+21322670.0,no evidence,False,0,0
+21322726.0,no evidence,False,0,0
+21322727.0,no evidence,False,0,0
+21322669.0,no evidence,False,0,0
+21322557.0,no evidence,False,0,0
+21322728.0,no evidence,False,0,11
+21322729.0,no evidence,False,0,0
+21322730.0,no evidence,False,0,0
+21322731.0,no evidence,False,0,0
+21322668.0,no evidence,False,0,0
+21322666.0,no evidence,False,0,2
+21322732.0,no evidence,False,0,0
+21322733.0,no evidence,False,0,0
+21322683.0,no evidence,False,0,0
+21322684.0,no evidence,False,0,0
+21322685.0,no evidence,False,0,0
+21322686.0,no evidence,False,0,0
+21322709.0,no evidence,False,0,0
+21322708.0,no evidence,False,0,0
+21322707.0,no evidence,False,0,0
+21322706.0,no evidence,False,0,0
+21322710.0,no evidence,False,0,0
+21322711.0,no evidence,False,0,0
+21322705.0,no evidence,False,0,0
+21322704.0,no evidence,False,0,0
+21322703.0,no evidence,False,0,0
+21322702.0,no evidence,False,0,0
+21322701.0,no evidence,False,0,0
+21322700.0,no evidence,False,0,0
+21322699.0,no evidence,False,0,0
+21322697.0,no evidence,False,0,0
+21322665.0,no evidence,False,0,0
+21322696.0,no evidence,False,0,0
+21322695.0,no evidence,False,0,0
+21322694.0,no evidence,False,0,0
+21322713.0,no evidence,False,0,0
+21322693.0,no evidence,False,0,0
+21322714.0,no evidence,False,0,0
+21322715.0,no evidence,False,0,0
+21322692.0,no evidence,False,0,0
+21322691.0,no evidence,False,0,0
+21322716.0,no evidence,False,0,0
+21322690.0,no evidence,False,0,0
+21322689.0,no evidence,False,0,0
+21322688.0,no evidence,False,0,0
+21322687.0,no evidence,False,0,0
+21322717.0,no evidence,False,0,0
+21322712.0,no evidence,False,0,0
+21322664.0,no evidence,False,0,0
+21322663.0,no evidence,False,0,0
+21322734.0,no evidence,False,0,0
+21322632.0,no evidence,False,0,0
+21322631.0,no evidence,False,0,0
+21322630.0,no evidence,False,0,0
+21322629.0,no evidence,False,0,0
+21322741.0,no evidence,False,0,0
+21322742.0,no evidence,False,0,0
+21322743.0,no evidence,False,0,0
+21322744.0,no evidence,False,0,0
+21322625.0,no evidence,False,0,0
+21322624.0,no evidence,False,0,0
+21322623.0,no evidence,False,0,4
+21322745.0,no evidence,False,0,0
+21322622.0,no evidence,False,0,0
+21322746.0,no evidence,False,0,0
+21322634.0,no evidence,False,0,0
+21322747.0,no evidence,False,0,0
+21322749.0,no evidence,False,0,0
+21322618.0,no evidence,False,0,0
+21322750.0,no evidence,False,0,0
+21322617.0,no evidence,False,0,0
+21322751.0,no evidence,False,0,0
+21322752.0,no evidence,False,0,0
+21322753.0,no evidence,False,0,0
+21322754.0,no evidence,False,0,0
+21322755.0,no evidence,False,0,0
+21322756.0,no evidence,False,0,0
+21322615.0,no evidence,False,0,0
+21322614.0,no evidence,False,0,0
+21322757.0,no evidence,False,0,0
+21322613.0,no evidence,False,0,0
+21322748.0,no evidence,False,0,0
+21322611.0,no evidence,False,0,0
+21322635.0,no evidence,False,0,0
+21322637.0,no evidence,False,0,0
+21322735.0,no evidence,False,0,0
+21322662.0,no evidence,False,0,0
+21322736.0,no evidence,False,0,0
+21322661.0,no evidence,False,0,0
+21322660.0,no evidence,False,0,0
+21322659.0,no evidence,False,0,0
+21322658.0,no evidence,False,0,0
+21322657.0,no evidence,False,0,0
+21322656.0,no evidence,False,0,0
+21322655.0,no evidence,False,0,0
+21322737.0,no evidence,False,0,4
+21322738.0,no evidence,False,0,0
+21322653.0,no evidence,False,0,0
+21322652.0,no evidence,False,0,0
+21322636.0,no evidence,False,0,0
+21322651.0,no evidence,False,0,0
+21322649.0,no evidence,False,0,0
+21322648.0,no evidence,False,0,0
+21322647.0,no evidence,False,0,0
+21322646.0,no evidence,False,0,0
+21322645.0,no evidence,False,0,0
+21322739.0,no evidence,False,0,0
+21322644.0,no evidence,False,0,0
+21322740.0,no evidence,False,0,0
+21322643.0,no evidence,False,0,0
+21322642.0,no evidence,False,0,0
+21322641.0,no evidence,False,0,0
+21322640.0,no evidence,False,0,0
+21322639.0,no evidence,False,0,0
+21322638.0,no evidence,False,0,0
+21322650.0,no evidence,False,0,0
+21322556.0,no evidence,False,0,0
+21320398.0,no evidence,False,0,3
+21322554.0,no evidence,False,0,0
+21322280.0,no evidence,False,0,0
+21322281.0,no evidence,False,0,0
+21322282.0,no evidence,False,0,0
+21322283.0,no evidence,False,0,0
+21322284.0,no evidence,False,0,0
+21322285.0,no evidence,False,0,0
+21322286.0,no evidence,False,0,0
+21322287.0,no evidence,False,0,0
+21322279.0,no evidence,False,0,0
+21322288.0,no evidence,False,0,0
+21322290.0,no evidence,False,0,0
+21322291.0,no evidence,False,0,0
+21322292.0,no evidence,False,0,0
+21322293.0,no evidence,False,0,0
+21322294.0,no evidence,False,0,0
+21322295.0,no evidence,False,0,0
+21322297.0,no evidence,False,0,0
+21322298.0,no evidence,False,0,0
+21322289.0,no evidence,False,0,0
+21322278.0,no evidence,False,0,0
+21322277.0,no evidence,False,0,0
+21322276.0,no evidence,False,0,0
+21322256.0,no evidence,False,0,0
+21322257.0,no evidence,False,0,0
+21322258.0,no evidence,False,0,0
+21322259.0,no evidence,False,0,0
+21322260.0,no evidence,False,0,0
+21322261.0,no evidence,False,0,2
+21322263.0,no evidence,False,0,0
+21322264.0,no evidence,False,0,0
+21322265.0,no evidence,False,0,0
+21322266.0,no evidence,False,0,0
+21322267.0,no evidence,False,0,0
+21322268.0,no evidence,False,0,0
+21322269.0,no evidence,False,0,0
+21322270.0,no evidence,False,0,0
+21322271.0,no evidence,False,0,0
+21322272.0,no evidence,False,0,0
+21322273.0,no evidence,False,0,0
+21322274.0,no evidence,False,0,0
+21322275.0,no evidence,False,0,0
+21322299.0,no evidence,False,0,0
+21322255.0,no evidence,False,0,0
+21322300.0,no evidence,False,0,0
+21322302.0,no evidence,False,0,0
+21322327.0,no evidence,False,0,0
+21322328.0,no evidence,False,0,0
+21322329.0,no evidence,False,0,0
+21322330.0,no evidence,False,0,0
+21322331.0,no evidence,False,0,0
+21322332.0,no evidence,False,0,0
+21322333.0,no evidence,False,0,0
+21322334.0,no evidence,False,0,0
+21322326.0,no evidence,False,0,0
+21322335.0,no evidence,False,0,0
+21322337.0,no evidence,False,0,0
+21322338.0,no evidence,False,0,0
+21322339.0,no evidence,False,0,0
+21322340.0,no evidence,False,0,0
+21322343.0,no evidence,False,0,0
+21322344.0,no evidence,False,0,0
+21322345.0,no evidence,False,6,0
+21322346.0,no evidence,False,0,0
+21322336.0,no evidence,False,0,0
+21322325.0,no evidence,False,0,0
+21322324.0,no evidence,False,0,0
+21322323.0,no evidence,False,0,0
+21322303.0,no evidence,False,0,0
+21322304.0,no evidence,False,0,0
+21322305.0,no evidence,False,0,0
+21322306.0,no evidence,False,0,0
+21322307.0,no evidence,False,0,0
+21322308.0,no evidence,False,0,0
+21322309.0,no evidence,False,0,0
+21322310.0,no evidence,False,0,0
+21322312.0,no evidence,False,0,0
+21322313.0,no evidence,False,0,0
+21322314.0,no evidence,False,0,0
+21322315.0,no evidence,False,0,0
+21322316.0,no evidence,False,0,0
+21322317.0,no evidence,False,0,0
+21322318.0,no evidence,False,0,0
+21322319.0,no evidence,False,0,0
+21322320.0,no evidence,False,0,0
+21322321.0,no evidence,False,0,0
+21322322.0,no evidence,False,0,0
+21322301.0,no evidence,False,0,0
+21322254.0,no evidence,False,0,0
+21322253.0,no evidence,False,0,0
+21322252.0,no evidence,False,0,0
+21322171.0,no evidence,False,0,0
+21322172.0,no evidence,False,0,0
+21322173.0,no evidence,False,0,0
+21322174.0,no evidence,False,0,0
+21322175.0,no evidence,False,0,0
+21322176.0,no evidence,False,0,0
+21322178.0,no evidence,False,0,0
+21322179.0,no evidence,False,0,0
+21322170.0,no evidence,False,0,0
+21322182.0,no evidence,False,0,0
+21322184.0,no evidence,False,0,0
+21322185.0,no evidence,False,0,0
+21322186.0,no evidence,False,0,0
+21322187.0,no evidence,False,0,5
+21322188.0,no evidence,False,0,0
+21322190.0,no evidence,False,0,0
+21322191.0,no evidence,False,0,0
+21322192.0,no evidence,False,0,0
+21322183.0,no evidence,False,0,0
+21322169.0,no evidence,False,0,0
+21322168.0,no evidence,False,0,0
+21322167.0,no evidence,False,0,0
+21322147.0,no evidence,False,0,0
+21322148.0,no evidence,False,0,0
+21322149.0,no evidence,False,0,0
+21322150.0,no evidence,False,0,0
+21322151.0,no evidence,False,0,0
+21322152.0,no evidence,False,0,0
+21322153.0,no evidence,False,0,0
+21322154.0,no evidence,False,0,0
+21322155.0,no evidence,False,0,0
+21322156.0,no evidence,False,0,0
+21322158.0,no evidence,False,0,0
+21322159.0,no evidence,False,0,0
+21322160.0,no evidence,False,0,0
+21322161.0,no evidence,False,0,0
+21322162.0,no evidence,False,0,0
+21322163.0,no evidence,False,0,0
+21322164.0,no evidence,False,0,0
+21322165.0,no evidence,False,0,0
+21322166.0,no evidence,False,0,0
+21322193.0,no evidence,False,0,0
+21322194.0,no evidence,False,0,0
+21322195.0,no evidence,False,0,0
+21322196.0,no evidence,False,0,0
+21322230.0,no evidence,False,0,0
+21322231.0,no evidence,False,0,0
+21322234.0,no evidence,False,0,0
+21322235.0,no evidence,False,0,0
+21322236.0,no evidence,False,0,0
+21322237.0,no evidence,False,0,0
+21322238.0,no evidence,False,0,0
+21322239.0,no evidence,False,0,0
+21322240.0,no evidence,False,0,0
+21322241.0,no evidence,False,0,0
+21322242.0,no evidence,False,0,0
+21322243.0,no evidence,False,0,0
+21322244.0,no evidence,False,0,0
+21322246.0,no evidence,False,0,0
+21322247.0,no evidence,False,0,0
+21322248.0,no evidence,False,0,0
+21322249.0,no evidence,False,0,0
+21322250.0,no evidence,False,0,0
+21322251.0,no evidence,False,0,0
+21322229.0,no evidence,False,0,0
+21322347.0,no evidence,False,0,0
+21322228.0,no evidence,False,0,0
+21322226.0,no evidence,False,0,0
+21322197.0,no evidence,False,0,0
+21322202.0,no evidence,False,0,0
+21322203.0,no evidence,False,0,2
+21322204.0,no evidence,False,0,0
+21322205.0,no evidence,False,0,0
+21322206.0,no evidence,False,0,0
+21322207.0,no evidence,False,0,0
+21322208.0,no evidence,False,0,0
+21322209.0,no evidence,False,0,0
+21322211.0,no evidence,False,0,0
+21322213.0,no evidence,False,0,0
+21322215.0,no evidence,False,0,0
+21322216.0,no evidence,False,0,0
+21322217.0,no evidence,False,0,0
+21322219.0,no evidence,False,0,0
+21322220.0,no evidence,False,0,0
+21322222.0,no evidence,False,0,0
+21322223.0,no evidence,False,0,0
+21322224.0,no evidence,False,0,0
+21322227.0,no evidence,False,0,0
+21322555.0,no evidence,False,0,0
+21322348.0,no evidence,False,0,0
+21322350.0,no evidence,False,0,0
+21322482.0,no evidence,False,0,0
+21322483.0,no evidence,False,0,0
+21322484.0,no evidence,False,0,0
+21322485.0,no evidence,False,0,0
+21322486.0,no evidence,False,0,0
+21322487.0,no evidence,False,0,0
+21322488.0,no evidence,False,0,0
+21322489.0,no evidence,False,0,3
+21322481.0,no evidence,False,0,0
+21322490.0,no evidence,False,0,0
+21322494.0,no evidence,False,0,0
+21322495.0,no evidence,False,0,0
+21322496.0,no evidence,False,0,0
+21322497.0,no evidence,False,0,0
+21322498.0,no evidence,False,0,0
+21322499.0,no evidence,False,0,0
+21322501.0,no evidence,False,0,2
+21322503.0,no evidence,False,0,0
+21322493.0,no evidence,False,0,0
+21322479.0,no evidence,False,0,0
+21322478.0,no evidence,False,0,0
+21322477.0,no evidence,False,0,0
+21322456.0,no evidence,False,0,0
+21322457.0,no evidence,False,0,0
+21322459.0,no evidence,False,0,0
+21322461.0,no evidence,False,0,0
+21322462.0,no evidence,False,0,0
+21322463.0,no evidence,False,0,0
+21322782.0,no evidence,False,0,0
+21322465.0,no evidence,False,0,0
+21322466.0,no evidence,False,0,0
+21322467.0,no evidence,False,0,0
+21322468.0,no evidence,False,0,0
+21322469.0,no evidence,False,0,0
+21322470.0,no evidence,False,0,0
+21322471.0,no evidence,False,0,0
+21322472.0,no evidence,False,0,0
+21322473.0,no evidence,False,0,0
+21322474.0,no evidence,False,0,0
+21322475.0,no evidence,False,0,0
+21322476.0,no evidence,False,0,0
+21322505.0,no evidence,False,0,0
+21322454.0,no evidence,False,0,0
+21322506.0,no evidence,False,0,0
+21322508.0,no evidence,False,0,0
+21322536.0,no evidence,False,0,0
+21322537.0,no evidence,False,0,0
+21322538.0,no evidence,False,0,0
+21322539.0,no evidence,False,0,0
+21322540.0,no evidence,False,0,0
+21322541.0,no evidence,False,0,0
+21322542.0,no evidence,False,0,0
+21322543.0,no evidence,False,0,0
+21322534.0,no evidence,False,0,0
+21322544.0,no evidence,False,0,0
+21322546.0,no evidence,False,0,0
+21322547.0,no evidence,False,0,0
+21322548.0,no evidence,False,0,0
+21322549.0,no evidence,False,0,0
+21322550.0,no evidence,False,0,4
+21322551.0,no evidence,False,0,0
+21322552.0,no evidence,False,0,0
+21322553.0,no evidence,False,0,0
+21322545.0,no evidence,False,0,0
+21322533.0,no evidence,False,0,0
+21322532.0,no evidence,False,0,0
+21322531.0,no evidence,False,0,0
+21322510.0,no evidence,False,0,0
+21322511.0,no evidence,False,0,0
+21322512.0,no evidence,False,0,0
+21322513.0,no evidence,False,0,0
+21322514.0,no evidence,False,0,0
+21322515.0,no evidence,False,0,0
+21322516.0,no evidence,False,0,0
+21322517.0,no evidence,False,0,0
+21322518.0,no evidence,False,0,0
+21322519.0,no evidence,False,0,0
+21322520.0,no evidence,False,0,0
+21322521.0,no evidence,False,0,0
+21322522.0,no evidence,False,0,0
+21322523.0,no evidence,False,0,0
+21322524.0,no evidence,False,0,0
+21322527.0,no evidence,False,0,0
+21322528.0,no evidence,False,0,0
+21322529.0,no evidence,False,0,0
+21322530.0,no evidence,False,0,0
+21322507.0,no evidence,False,0,0
+21322453.0,no evidence,False,0,0
+21322452.0,no evidence,False,0,0
+21322451.0,no evidence,False,0,0
+21322374.0,no evidence,False,0,0
+21322375.0,no evidence,False,0,0
+21322376.0,no evidence,False,0,0
+21322377.0,no evidence,False,0,0
+21322378.0,no evidence,False,0,0
+21322380.0,no evidence,False,0,0
+21322381.0,no evidence,False,0,0
+21322382.0,no evidence,False,0,0
+21322373.0,no evidence,False,0,0
+21322383.0,no evidence,False,0,0
+21322385.0,no evidence,False,0,0
+21322386.0,no evidence,False,0,0
+21322387.0,no evidence,False,0,0
+21322388.0,no evidence,False,0,0
+21322389.0,no evidence,False,0,0
+21322390.0,no evidence,False,0,0
+21322391.0,no evidence,False,0,0
+21322392.0,no evidence,False,0,0
+21322384.0,no evidence,False,0,0
+21322372.0,no evidence,False,0,0
+21322371.0,no evidence,False,0,0
+21322370.0,no evidence,False,0,0
+21322351.0,no evidence,False,0,0
+21322352.0,no evidence,False,0,9
+21322353.0,no evidence,False,0,0
+21322354.0,no evidence,False,0,0
+21322355.0,no evidence,False,0,0
+21322356.0,no evidence,False,0,0
+21322357.0,no evidence,False,0,0
+21322358.0,no evidence,False,0,0
+21322359.0,no evidence,False,0,0
+21322360.0,no evidence,False,0,0
+21322361.0,no evidence,False,0,0
+21322362.0,no evidence,False,0,0
+21322363.0,no evidence,False,0,0
+21322364.0,no evidence,False,0,0
+21322365.0,no evidence,False,0,0
+21322366.0,no evidence,False,0,0
+21322367.0,no evidence,False,0,0
+21322368.0,no evidence,False,0,0
+21322369.0,no evidence,False,0,0
+21322393.0,no evidence,False,0,0
+21322394.0,no evidence,False,0,0
+21322395.0,no evidence,False,0,0
+21322396.0,no evidence,False,0,0
+21322426.0,no evidence,False,0,0
+21322428.0,no evidence,False,0,17
+21322429.0,no evidence,False,0,0
+21322430.0,no evidence,False,0,0
+21322431.0,no evidence,False,0,0
+21322432.0,no evidence,False,0,0
+21322433.0,no evidence,False,0,0
+21322434.0,no evidence,False,0,0
+21322435.0,no evidence,False,0,0
+21322436.0,no evidence,False,0,0
+21322438.0,no evidence,False,0,0
+21322440.0,no evidence,False,0,0
+21322441.0,no evidence,False,0,0
+21322442.0,no evidence,False,0,0
+21322444.0,no evidence,False,0,0
+21322445.0,no evidence,False,0,0
+21322448.0,no evidence,False,0,0
+21322449.0,no evidence,False,0,0
+21322450.0,no evidence,False,0,0
+21322425.0,no evidence,False,0,0
+21322349.0,no evidence,False,0,4
+21322424.0,no evidence,False,0,0
+21322422.0,no evidence,False,0,0
+21322397.0,no evidence,False,0,0
+21322398.0,no evidence,False,0,0
+21322399.0,no evidence,False,0,0
+21322400.0,no evidence,False,0,0
+21322401.0,no evidence,False,0,0
+21322402.0,no evidence,False,0,0
+21322403.0,no evidence,False,0,0
+21322404.0,no evidence,False,0,0
+21322405.0,no evidence,False,0,0
+21322407.0,no evidence,False,0,0
+21322408.0,no evidence,False,0,0
+21322409.0,no evidence,False,0,0
+21322410.0,no evidence,False,0,0
+21322412.0,no evidence,False,0,0
+21322415.0,no evidence,False,0,0
+21322416.0,no evidence,False,0,0
+21322417.0,no evidence,False,0,0
+21322419.0,no evidence,False,0,0
+21322420.0,no evidence,False,0,17
+21322423.0,no evidence,False,0,0
+21322783.0,no evidence,False,0,0
+21322899.0,no evidence,False,0,0
+21322785.0,no evidence,False,0,0
+21323311.0,no evidence,False,0,0
+21323312.0,no evidence,False,0,0
+21323313.0,no evidence,False,0,0
+21323314.0,no evidence,False,0,0
+21323315.0,no evidence,False,0,0
+21323316.0,no evidence,False,0,0
+21323317.0,no evidence,False,0,0
+21323318.0,no evidence,False,0,0
+21323319.0,no evidence,False,0,0
+21323322.0,no evidence,False,0,0
+21323323.0,no evidence,False,0,0
+21323324.0,no evidence,False,0,2
+21323333.0,no evidence,False,0,0
+21323334.0,no evidence,False,0,0
+21323337.0,no evidence,False,0,0
+21323338.0,no evidence,False,0,0
+21323339.0,no evidence,False,0,0
+21323340.0,no evidence,False,0,0
+21323344.0,no evidence,False,0,0
+21323309.0,no evidence,False,0,0
+21323345.0,no evidence,False,0,0
+21323308.0,no evidence,False,0,0
+21323306.0,no evidence,False,0,0
+21323286.0,no evidence,False,0,0
+21323287.0,no evidence,False,0,0
+21323289.0,no evidence,False,0,2
+21323290.0,no evidence,False,0,0
+21323291.0,no evidence,False,0,0
+21323292.0,no evidence,False,0,0
+21323293.0,no evidence,False,0,0
+21323294.0,no evidence,False,0,0
+21323295.0,no evidence,False,0,0
+21323296.0,no evidence,False,0,0
+21323297.0,no evidence,False,0,0
+21323298.0,no evidence,False,0,0
+21323299.0,no evidence,False,0,0
+21323300.0,no evidence,False,0,0
+21323301.0,no evidence,False,0,0
+21323302.0,no evidence,False,0,0
+21323303.0,no evidence,False,0,0
+21323304.0,no evidence,False,0,0
+21323305.0,no evidence,False,0,0
+21323307.0,no evidence,False,0,0
+21323285.0,no evidence,False,0,0
+21323346.0,no evidence,False,0,0
+21323348.0,no evidence,False,0,0
+21323372.0,no evidence,False,0,0
+21323373.0,no evidence,False,0,0
+21323374.0,no evidence,False,0,0
+21323375.0,no evidence,False,0,0
+21323376.0,no evidence,False,0,0
+21323377.0,no evidence,False,0,0
+21323378.0,no evidence,False,0,0
+21323379.0,no evidence,False,0,0
+21323380.0,no evidence,False,0,0
+21323381.0,no evidence,False,0,4
+21323382.0,no evidence,False,0,0
+21323383.0,no evidence,False,0,0
+21323384.0,no evidence,False,0,0
+21323385.0,no evidence,False,0,0
+21323386.0,no evidence,False,0,0
+21323387.0,no evidence,False,0,0
+21323388.0,no evidence,False,0,0
+21323389.0,no evidence,False,0,2
+21323390.0,no evidence,False,0,0
+21323371.0,no evidence,False,0,0
+21323347.0,no evidence,False,0,0
+21323370.0,no evidence,False,0,0
+21323368.0,no evidence,False,0,0
+21323349.0,no evidence,False,0,0
+21323350.0,no evidence,False,0,0
+21323351.0,no evidence,False,0,0
+21323352.0,no evidence,False,0,0
+21323353.0,no evidence,False,0,0
+21323354.0,no evidence,False,0,0
+21323355.0,no evidence,False,0,0
+21323356.0,no evidence,False,0,0
+21323357.0,no evidence,False,0,0
+21323358.0,no evidence,False,0,0
+21323359.0,no evidence,False,0,0
+21323360.0,no evidence,False,0,0
+21323361.0,no evidence,False,0,0
+21323362.0,no evidence,False,0,0
+21323363.0,no evidence,False,0,0
+21323364.0,no evidence,False,0,0
+21323365.0,no evidence,False,0,0
+21323366.0,no evidence,False,0,0
+21323367.0,no evidence,False,0,0
+21323369.0,no evidence,False,0,0
+21323283.0,no evidence,False,0,0
+21323282.0,no evidence,False,0,0
+21323280.0,no evidence,False,0,0
+21323208.0,no evidence,False,0,0
+21323209.0,no evidence,False,0,0
+21323210.0,no evidence,False,0,0
+21323211.0,no evidence,False,0,0
+21323212.0,no evidence,False,0,0
+21323213.0,no evidence,False,0,0
+21323214.0,no evidence,False,0,0
+21323215.0,no evidence,False,0,0
+21323217.0,no evidence,False,0,0
+21323218.0,no evidence,False,0,0
+21323219.0,no evidence,False,0,5
+21323220.0,no evidence,False,0,0
+21323222.0,no evidence,False,0,0
+21323223.0,no evidence,False,0,0
+21323224.0,no evidence,False,0,0
+21323225.0,no evidence,False,0,0
+21323226.0,no evidence,False,0,0
+21323227.0,no evidence,False,0,0
+21323228.0,no evidence,False,0,0
+21323207.0,no evidence,False,0,0
+21323229.0,no evidence,False,0,0
+21323206.0,no evidence,False,0,0
+21323204.0,no evidence,False,0,0
+21323181.0,no evidence,False,0,0
+21323182.0,no evidence,False,0,0
+21323183.0,no evidence,False,0,5
+21323184.0,no evidence,False,0,0
+21323185.0,no evidence,False,0,0
+21323186.0,no evidence,False,0,0
+21323187.0,no evidence,False,0,0
+21323188.0,no evidence,False,0,0
+21323191.0,no evidence,False,0,0
+21323193.0,no evidence,False,0,0
+21323194.0,no evidence,False,0,0
+21323196.0,no evidence,False,0,0
+21323197.0,no evidence,False,0,4
+21323198.0,no evidence,False,0,0
+21323199.0,no evidence,False,0,3
+21323200.0,no evidence,False,0,0
+21323201.0,no evidence,False,0,0
+21323202.0,no evidence,False,0,0
+21323203.0,no evidence,False,0,0
+21323205.0,no evidence,False,0,0
+21323231.0,no evidence,False,0,0
+21323232.0,no evidence,False,0,0
+21323233.0,no evidence,False,0,0
+21323259.0,no evidence,False,0,0
+21323260.0,no evidence,False,0,0
+21323261.0,no evidence,False,0,0
+21323262.0,no evidence,False,0,0
+21323263.0,no evidence,False,0,4
+21323265.0,no evidence,False,0,0
+21323266.0,no evidence,False,0,0
+21323267.0,no evidence,False,0,0
+21323268.0,no evidence,False,0,0
+21323269.0,no evidence,False,0,0
+21323270.0,no evidence,False,0,0
+21323271.0,no evidence,False,0,0
+21323272.0,no evidence,False,0,0
+21323273.0,no evidence,False,0,0
+21323274.0,no evidence,False,0,0
+21323275.0,no evidence,False,0,0
+21323276.0,no evidence,False,0,0
+21323278.0,no evidence,False,0,0
+21323279.0,no evidence,False,0,0
+21323258.0,no evidence,False,0,0
+21323257.0,no evidence,False,0,0
+21323256.0,no evidence,False,0,0
+21323255.0,no evidence,False,0,0
+21323234.0,no evidence,False,0,0
+21323235.0,no evidence,False,0,0
+21323236.0,no evidence,False,0,0
+21323237.0,no evidence,False,0,0
+21323238.0,no evidence,False,0,3
+21323239.0,no evidence,False,0,0
+21323240.0,no evidence,False,0,0
+21323241.0,no evidence,False,0,0
+21323242.0,no evidence,False,0,0
+21323392.0,no evidence,False,0,0
+21323243.0,no evidence,False,0,0
+21323246.0,no evidence,False,0,0
+21323247.0,no evidence,False,0,0
+21323248.0,no evidence,False,0,0
+21323249.0,no evidence,False,0,0
+21323250.0,no evidence,False,0,0
+21323251.0,no evidence,False,0,0
+21323252.0,no evidence,False,0,0
+21323253.0,no evidence,False,0,0
+21323254.0,no evidence,False,0,0
+21323245.0,no evidence,False,0,0
+21323393.0,no evidence,False,0,0
+21323394.0,no evidence,False,0,0
+21323395.0,no evidence,False,0,0
+21323521.0,no evidence,False,0,0
+21323522.0,no evidence,False,0,0
+21323523.0,no evidence,False,0,2
+21323524.0,no evidence,False,0,0
+21323525.0,no evidence,False,0,0
+21323526.0,no evidence,False,0,0
+21323527.0,no evidence,False,0,0
+21323528.0,no evidence,False,0,0
+21323529.0,no evidence,False,0,2
+21323530.0,no evidence,False,0,0
+21323531.0,no evidence,False,0,0
+21323532.0,no evidence,False,0,0
+21323534.0,no evidence,False,0,0
+21323535.0,no evidence,False,0,2
+21323536.0,no evidence,False,0,4
+21323541.0,no evidence,False,0,0
+21323542.0,no evidence,False,0,0
+21323543.0,no evidence,False,0,0
+21323544.0,no evidence,False,0,0
+21323520.0,no evidence,False,0,0
+21323545.0,no evidence,False,0,0
+21323519.0,no evidence,False,0,0
+21323516.0,no evidence,False,0,0
+21323493.0,no evidence,False,0,0
+21323494.0,no evidence,False,0,0
+21323495.0,no evidence,False,0,0
+21323496.0,no evidence,False,0,0
+21323498.0,no evidence,False,0,0
+21323499.0,no evidence,False,0,2
+21323500.0,no evidence,False,0,0
+21323501.0,no evidence,False,0,0
+21323502.0,no evidence,False,0,0
+21323503.0,no evidence,False,0,0
+21323504.0,no evidence,False,0,0
+21323505.0,no evidence,False,0,0
+21323509.0,no evidence,False,0,0
+21323510.0,no evidence,False,0,0
+21323511.0,no evidence,False,0,0
+21323512.0,no evidence,False,0,0
+21323513.0,no evidence,False,0,0
+21323514.0,no evidence,False,0,0
+21323515.0,no evidence,False,0,0
+21323517.0,no evidence,False,0,0
+21323546.0,no evidence,False,0,0
+21323547.0,no evidence,False,0,0
+21323548.0,no evidence,False,0,0
+21323576.0,no evidence,False,0,0
+21323577.0,no evidence,False,0,0
+21323578.0,no evidence,False,0,0
+21323579.0,no evidence,False,0,0
+21323580.0,no evidence,False,0,0
+21323581.0,no evidence,False,0,0
+21323582.0,no evidence,False,0,0
+21323583.0,no evidence,False,0,0
+21323584.0,no evidence,False,0,0
+21323585.0,no evidence,False,0,0
+21323586.0,no evidence,False,0,0
+21323587.0,no evidence,False,0,0
+21323588.0,no evidence,False,0,0
+21323589.0,no evidence,False,0,0
+21323590.0,no evidence,False,0,0
+21323591.0,no evidence,False,0,0
+21323592.0,no evidence,False,0,0
+21323593.0,no evidence,False,0,0
+21323594.0,no evidence,False,0,0
+21323575.0,no evidence,False,0,0
+21323574.0,no evidence,False,0,0
+21323573.0,no evidence,False,0,0
+21323572.0,no evidence,False,0,4
+21323549.0,no evidence,False,0,0
+21323550.0,no evidence,False,0,0
+21323551.0,no evidence,False,0,0
+21323552.0,no evidence,False,0,0
+21323553.0,no evidence,False,0,0
+21323556.0,no evidence,False,0,0
+21323557.0,no evidence,False,0,0
+21323558.0,no evidence,False,0,0
+21323559.0,no evidence,False,0,0
+21323492.0,no evidence,False,0,0
+21323560.0,no evidence,False,0,0
+21323562.0,no evidence,False,0,2
+21323564.0,no evidence,False,0,3
+21323565.0,no evidence,False,0,0
+21323566.0,no evidence,False,0,0
+21323567.0,no evidence,False,0,0
+21323568.0,no evidence,False,0,0
+21323569.0,no evidence,False,0,0
+21323570.0,no evidence,False,0,0
+21323571.0,no evidence,False,0,0
+21323561.0,no evidence,False,0,2
+21323180.0,no evidence,False,0,0
+21323491.0,no evidence,False,0,5
+21323489.0,no evidence,False,0,0
+21323419.0,no evidence,False,0,0
+21323420.0,no evidence,False,0,0
+21323421.0,no evidence,False,0,0
+21323422.0,no evidence,False,0,0
+21323423.0,no evidence,False,0,0
+21323424.0,no evidence,False,0,0
+21323425.0,no evidence,False,0,0
+21323426.0,no evidence,False,0,0
+21323427.0,no evidence,False,0,0
+21323428.0,no evidence,False,0,4
+21323429.0,no evidence,False,0,0
+21323430.0,no evidence,False,0,2
+21323431.0,no evidence,False,0,0
+21323432.0,no evidence,False,0,0
+21323433.0,no evidence,False,0,0
+21323434.0,no evidence,False,0,0
+21323435.0,no evidence,False,0,0
+21323436.0,no evidence,False,0,0
+21323437.0,no evidence,False,0,0
+21323418.0,no evidence,False,0,0
+21323438.0,no evidence,False,0,0
+21323417.0,no evidence,False,0,0
+21323415.0,no evidence,False,0,0
+21323396.0,no evidence,False,0,0
+21323397.0,no evidence,False,0,0
+21323398.0,no evidence,False,0,0
+21323399.0,no evidence,False,0,0
+21323400.0,no evidence,False,0,4
+21323401.0,no evidence,False,0,0
+21323402.0,no evidence,False,0,0
+21323403.0,no evidence,False,0,0
+21323404.0,no evidence,False,0,0
+21323405.0,no evidence,False,0,0
+21323406.0,no evidence,False,0,0
+21323407.0,no evidence,False,0,0
+21323408.0,no evidence,False,0,0
+21323409.0,no evidence,False,0,2
+21323410.0,no evidence,False,0,0
+21323411.0,no evidence,False,0,0
+21323412.0,no evidence,False,0,0
+21323413.0,no evidence,False,0,0
+21323414.0,no evidence,False,0,0
+21323416.0,no evidence,False,0,0
+21323439.0,no evidence,False,0,0
+21323440.0,no evidence,False,0,0
+21323441.0,no evidence,False,0,0
+21323470.0,no evidence,False,0,0
+21323471.0,no evidence,False,0,0
+21323472.0,no evidence,False,0,0
+21323473.0,no evidence,False,0,0
+21323474.0,no evidence,False,0,0
+21323475.0,no evidence,False,0,0
+21323476.0,no evidence,False,0,0
+21323477.0,no evidence,False,0,0
+21323478.0,no evidence,False,0,0
+21323479.0,no evidence,False,0,0
+21323480.0,no evidence,False,0,0
+21323481.0,no evidence,False,0,0
+21323482.0,no evidence,False,0,0
+21323483.0,no evidence,False,0,0
+21323484.0,no evidence,False,0,0
+21323485.0,no evidence,False,0,0
+21323486.0,no evidence,False,0,0
+21323487.0,no evidence,False,0,0
+21323488.0,no evidence,False,0,0
+21323469.0,no evidence,False,0,0
+21323468.0,no evidence,False,0,0
+21323467.0,no evidence,False,0,2
+21323466.0,no evidence,False,0,0
+21323444.0,no evidence,False,0,0
+21323445.0,no evidence,False,0,0
+21323446.0,no evidence,False,0,0
+21323447.0,no evidence,False,0,0
+21323448.0,no evidence,False,0,0
+21323449.0,no evidence,False,0,0
+21323450.0,no evidence,False,0,0
+21323451.0,no evidence,False,0,0
+21323452.0,no evidence,False,0,0
+21323490.0,no evidence,False,0,0
+21323453.0,no evidence,False,0,0
+21323455.0,no evidence,False,0,0
+21323456.0,no evidence,False,0,0
+21323457.0,no evidence,False,0,2
+21323458.0,no evidence,False,0,0
+21323460.0,no evidence,False,0,0
+21323462.0,no evidence,False,0,0
+21323463.0,no evidence,False,0,0
+21323464.0,no evidence,False,0,0
+21323465.0,no evidence,False,0,0
+21323454.0,no evidence,False,0,0
+21323179.0,no evidence,False,0,0
+21323177.0,no evidence,False,0,0
+21323176.0,no evidence,False,0,0
+21322910.0,no evidence,False,0,0
+21322911.0,no evidence,False,0,0
+21322912.0,no evidence,False,0,0
+21322913.0,no evidence,False,0,0
+21322915.0,no evidence,False,0,0
+21322916.0,no evidence,False,0,0
+21322917.0,no evidence,False,0,0
+21322918.0,no evidence,False,0,0
+21322919.0,no evidence,False,0,0
+21322920.0,no evidence,False,0,0
+21322921.0,no evidence,False,0,0
+21322922.0,no evidence,False,0,0
+21322923.0,no evidence,False,0,0
+21322924.0,no evidence,False,0,0
+21322925.0,no evidence,False,0,0
+21322926.0,no evidence,False,0,0
+21322927.0,no evidence,False,0,0
+21322928.0,no evidence,False,0,11
+21322929.0,no evidence,False,0,0
+21322909.0,no evidence,False,0,0
+21322930.0,no evidence,False,0,0
+21322908.0,no evidence,False,0,0
+21322906.0,no evidence,False,0,0
+21322887.0,no evidence,False,0,0
+21322888.0,no evidence,False,0,0
+21322889.0,no evidence,False,0,0
+21322890.0,no evidence,False,0,0
+21322891.0,no evidence,False,0,0
+21322892.0,no evidence,False,0,0
+21322893.0,no evidence,False,0,0
+21322894.0,no evidence,False,0,0
+21322895.0,no evidence,False,0,0
+21322896.0,no evidence,False,0,0
+21322897.0,no evidence,False,0,0
+21322898.0,no evidence,False,0,0
+21322146.0,no evidence,False,0,0
+21322900.0,no evidence,False,0,0
+21322901.0,no evidence,False,0,0
+21322902.0,no evidence,False,0,0
+21322903.0,no evidence,False,0,0
+21322904.0,no evidence,False,0,0
+21322905.0,no evidence,False,0,0
+21322907.0,no evidence,False,0,0
+21322931.0,no evidence,False,0,0
+21322932.0,no evidence,False,0,2
+21322933.0,no evidence,False,0,0
+21322958.0,no evidence,False,0,0
+21322959.0,no evidence,False,0,0
+21322960.0,no evidence,False,0,0
+21322961.0,no evidence,False,0,0
+21322962.0,no evidence,False,0,0
+21322963.0,no evidence,False,0,0
+21322964.0,no evidence,False,0,0
+21322965.0,no evidence,False,0,0
+21322966.0,no evidence,False,0,0
+21322967.0,no evidence,False,0,0
+21322968.0,no evidence,False,0,0
+21322969.0,no evidence,False,0,0
+21322970.0,no evidence,False,0,0
+21322971.0,no evidence,False,0,0
+21322972.0,no evidence,False,0,0
+21322973.0,no evidence,False,0,0
+21322974.0,no evidence,False,0,0
+21322975.0,no evidence,False,0,0
+21322976.0,no evidence,False,0,0
+21322957.0,no evidence,False,0,0
+21322956.0,no evidence,False,0,0
+21322955.0,no evidence,False,0,2
+21322954.0,no evidence,False,0,0
+21322934.0,no evidence,False,0,0
+21322935.0,no evidence,False,0,0
+21322936.0,no evidence,False,0,0
+21322937.0,no evidence,False,0,0
+21322938.0,no evidence,False,0,0
+21322939.0,no evidence,False,0,0
+21322940.0,no evidence,False,0,0
+21322941.0,no evidence,False,0,0
+21322942.0,no evidence,False,0,0
+21322886.0,no evidence,False,0,0
+21322943.0,no evidence,False,0,0
+21322945.0,no evidence,False,0,0
+21322946.0,no evidence,False,0,0
+21322947.0,no evidence,False,0,0
+21322948.0,no evidence,False,0,0
+21322949.0,no evidence,False,0,0
+21322950.0,no evidence,False,0,0
+21322951.0,no evidence,False,0,0
+21322952.0,no evidence,False,0,0
+21322953.0,no evidence,False,0,0
+21322944.0,no evidence,False,0,0
+21322977.0,no evidence,False,0,0
+21322885.0,no evidence,False,0,0
+21322883.0,no evidence,False,0,0
+21322814.0,no evidence,False,0,0
+21322815.0,no evidence,False,0,0
+21322816.0,no evidence,False,0,0
+21322817.0,no evidence,False,0,0
+21322819.0,no evidence,False,0,0
+21322820.0,no evidence,False,0,0
+21322821.0,no evidence,False,0,0
+21322822.0,no evidence,False,0,0
+21322823.0,no evidence,False,0,0
+21322824.0,no evidence,False,0,0
+21322825.0,no evidence,False,0,0
+21322826.0,no evidence,False,0,0
+21322827.0,no evidence,False,0,0
+21322828.0,no evidence,False,0,0
+21322829.0,no evidence,False,0,0
+21322830.0,no evidence,False,0,0
+21322832.0,no evidence,False,0,0
+21322833.0,no evidence,False,0,0
+21322834.0,no evidence,False,0,0
+21322813.0,no evidence,False,0,0
+21322835.0,no evidence,False,0,0
+21322812.0,no evidence,False,0,0
+21322810.0,no evidence,False,0,0
+21322788.0,no evidence,False,0,0
+21322789.0,no evidence,False,0,0
+21322790.0,no evidence,False,0,0
+21322792.0,no evidence,False,0,0
+21322793.0,no evidence,False,0,0
+21322794.0,no evidence,False,0,0
+21322796.0,no evidence,False,0,0
+21322797.0,no evidence,False,0,0
+21322799.0,no evidence,False,0,0
+21322800.0,no evidence,False,0,0
+21322801.0,no evidence,False,0,0
+21322802.0,no evidence,False,0,0
+21322803.0,no evidence,False,0,0
+21322804.0,no evidence,False,0,0
+21322805.0,no evidence,False,0,0
+21322806.0,no evidence,False,0,0
+21322807.0,no evidence,False,0,0
+21322808.0,no evidence,False,0,0
+21322809.0,no evidence,False,0,0
+21322811.0,no evidence,False,0,0
+21322836.0,no evidence,False,0,0
+21322837.0,no evidence,False,0,0
+21322838.0,no evidence,False,0,0
+21322864.0,no evidence,False,0,0
+21322865.0,no evidence,False,0,0
+21322866.0,no evidence,False,0,0
+21322867.0,no evidence,False,0,0
+21322868.0,no evidence,False,0,0
+21322869.0,no evidence,False,0,0
+21322870.0,no evidence,False,0,0
+21322871.0,no evidence,False,0,0
+21322872.0,no evidence,False,0,0
+21322873.0,no evidence,False,0,0
+21322874.0,no evidence,False,0,0
+21322875.0,no evidence,False,0,4
+21322876.0,no evidence,False,0,0
+21322877.0,no evidence,False,0,0
+21322878.0,no evidence,False,0,0
+21322879.0,no evidence,False,0,0
+21322880.0,no evidence,False,0,0
+21322881.0,no evidence,False,0,0
+21322882.0,no evidence,False,0,0
+21322863.0,no evidence,False,0,0
+21322862.0,no evidence,False,0,0
+21322861.0,no evidence,False,0,0
+21322860.0,no evidence,False,0,0
+21322840.0,no evidence,False,0,0
+21322841.0,no evidence,False,0,0
+21322842.0,no evidence,False,0,0
+21322843.0,no evidence,False,0,0
+21322844.0,no evidence,False,0,0
+21322845.0,no evidence,False,0,0
+21322846.0,no evidence,False,0,0
+21322847.0,no evidence,False,0,0
+21322848.0,no evidence,False,0,0
+21322884.0,no evidence,False,0,0
+21322849.0,no evidence,False,0,0
+21322851.0,no evidence,False,0,0
+21322852.0,no evidence,False,0,0
+21322853.0,no evidence,False,0,0
+21322854.0,no evidence,False,0,0
+21322855.0,no evidence,False,0,0
+21322856.0,no evidence,False,0,0
+21322857.0,no evidence,False,0,0
+21322858.0,no evidence,False,0,3
+21322859.0,no evidence,False,0,0
+21322850.0,no evidence,False,0,0
+21322784.0,no evidence,False,0,0
+21322978.0,no evidence,False,0,0
+21322980.0,no evidence,False,0,0
+21323103.0,no evidence,False,0,0
+21323104.0,no evidence,False,0,0
+21323105.0,no evidence,False,0,0
+21323106.0,no evidence,False,0,0
+21323107.0,no evidence,False,0,0
+21323108.0,no evidence,False,0,0
+21323109.0,no evidence,False,0,0
+21323110.0,no evidence,False,0,0
+21323111.0,no evidence,False,0,0
+21323112.0,no evidence,False,0,0
+21323113.0,no evidence,False,0,2
+21323114.0,no evidence,False,0,0
+21323115.0,no evidence,False,0,0
+21323116.0,no evidence,False,0,0
+21323117.0,no evidence,False,0,0
+21323118.0,no evidence,False,0,0
+21323120.0,no evidence,False,0,2
+21323121.0,no evidence,False,0,0
+21323122.0,no evidence,False,0,0
+21323102.0,no evidence,False,0,0
+21323123.0,no evidence,False,0,0
+21323101.0,no evidence,False,0,0
+21323098.0,no evidence,False,0,0
+21323079.0,no evidence,False,0,0
+21323080.0,no evidence,False,0,0
+21323081.0,no evidence,False,0,0
+21323082.0,no evidence,False,0,0
+21323083.0,no evidence,False,0,0
+21323084.0,no evidence,False,0,0
+21323085.0,no evidence,False,0,5
+21323086.0,no evidence,False,0,0
+21323087.0,no evidence,False,0,0
+21323088.0,no evidence,False,0,0
+21323089.0,no evidence,False,0,0
+21323090.0,no evidence,False,0,0
+21323091.0,no evidence,False,0,0
+21323092.0,no evidence,False,0,0
+21323093.0,no evidence,False,0,0
+21323094.0,no evidence,False,0,0
+21323095.0,no evidence,False,0,4
+21323096.0,no evidence,False,0,0
+21323097.0,no evidence,False,0,3
+21323099.0,no evidence,False,0,0
+21323124.0,no evidence,False,0,0
+21323125.0,no evidence,False,0,0
+21323126.0,no evidence,False,0,0
+21323155.0,no evidence,False,0,0
+21323157.0,no evidence,False,0,0
+21323158.0,no evidence,False,0,0
+21323159.0,no evidence,False,0,0
+21323160.0,no evidence,False,0,0
+21323161.0,no evidence,False,0,0
+21323162.0,no evidence,False,0,0
+21323163.0,no evidence,False,0,0
+21323164.0,no evidence,False,0,0
+21323165.0,no evidence,False,0,0
+21323166.0,no evidence,False,0,0
+21323167.0,no evidence,False,5,5
+21323168.0,no evidence,False,0,0
+21323169.0,no evidence,False,0,0
+21323170.0,no evidence,False,0,0
+21323171.0,no evidence,False,0,0
+21323172.0,no evidence,False,0,0
+21323173.0,no evidence,False,0,0
+21323175.0,no evidence,False,0,0
+21323152.0,no evidence,False,0,0
+21323151.0,no evidence,False,0,0
+21323150.0,no evidence,False,0,0
+21323149.0,no evidence,False,0,0
+21323128.0,no evidence,False,0,0
+21323129.0,no evidence,False,0,4
+21323130.0,no evidence,False,0,0
+21323132.0,no evidence,False,0,0
+21323133.0,no evidence,False,0,0
+21323134.0,no evidence,False,0,0
+21323135.0,no evidence,False,0,0
+21323136.0,no evidence,False,0,0
+21323137.0,no evidence,False,0,0
+21323078.0,no evidence,False,0,0
+21323138.0,no evidence,False,0,0
+21323140.0,no evidence,False,0,0
+21323141.0,no evidence,False,0,0
+21323142.0,no evidence,False,0,0
+21323143.0,no evidence,False,0,0
+21323144.0,no evidence,False,0,0
+21323145.0,no evidence,False,0,0
+21323146.0,no evidence,False,0,0
+21323147.0,no evidence,False,0,0
+21323148.0,no evidence,False,0,0
+21323139.0,no evidence,False,0,0
+21322979.0,no evidence,False,0,0
+21323077.0,no evidence,False,0,4
+21323075.0,no evidence,False,0,0
+21323004.0,no evidence,False,0,0
+21323005.0,no evidence,False,0,0
+21323006.0,no evidence,False,0,0
+21323007.0,no evidence,False,0,0
+21323008.0,no evidence,False,0,0
+21323009.0,no evidence,False,0,0
+21323010.0,no evidence,False,0,0
+21323011.0,no evidence,False,0,0
+21323012.0,no evidence,False,0,0
+21323013.0,no evidence,False,0,0
+21323014.0,no evidence,False,0,0
+21323015.0,no evidence,False,0,0
+21323016.0,no evidence,False,0,0
+21323017.0,no evidence,False,0,0
+21323018.0,no evidence,False,0,0
+21323019.0,no evidence,False,0,0
+21323020.0,no evidence,False,0,0
+21323021.0,no evidence,False,0,0
+21323022.0,no evidence,False,0,0
+21323003.0,no evidence,False,0,0
+21323023.0,no evidence,False,0,0
+21323002.0,no evidence,False,0,0
+21323000.0,no evidence,False,0,0
+21322981.0,no evidence,False,0,0
+21322982.0,no evidence,False,0,0
+21322983.0,no evidence,False,0,5
+21322984.0,no evidence,False,0,0
+21322985.0,no evidence,False,0,0
+21322986.0,no evidence,False,0,0
+21322987.0,no evidence,False,0,0
+21322988.0,no evidence,False,0,0
+21322989.0,no evidence,False,0,0
+21322990.0,no evidence,False,0,0
+21322991.0,no evidence,False,0,0
+21322992.0,no evidence,False,0,0
+21322993.0,no evidence,False,0,0
+21322994.0,no evidence,False,0,0
+21322995.0,no evidence,False,0,0
+21322996.0,no evidence,False,0,0
+21322997.0,no evidence,False,0,0
+21322998.0,no evidence,False,0,0
+21322999.0,no evidence,False,0,0
+21323001.0,no evidence,False,0,0
+21323024.0,no evidence,False,0,0
+21323025.0,no evidence,False,0,0
+21323026.0,no evidence,False,0,0
+21323054.0,no evidence,False,0,0
+21323055.0,no evidence,False,0,7
+21323056.0,no evidence,False,0,0
+21323057.0,no evidence,False,0,0
+21323059.0,no evidence,False,0,0
+21323060.0,no evidence,False,0,0
+21323061.0,no evidence,False,0,0
+21323062.0,no evidence,False,0,0
+21323063.0,no evidence,False,0,0
+21323064.0,no evidence,False,0,0
+21323065.0,no evidence,False,0,0
+21323066.0,no evidence,False,0,0
+21323067.0,no evidence,False,0,0
+21323068.0,no evidence,False,0,0
+21323069.0,no evidence,False,0,0
+21323071.0,no evidence,False,0,0
+21323072.0,no evidence,False,0,0
+21323073.0,no evidence,False,0,0
+21323074.0,no evidence,False,0,0
+21323053.0,no evidence,False,0,0
+21323052.0,no evidence,False,0,0
+21323051.0,no evidence,False,0,0
+21323050.0,no evidence,False,0,0
+21323027.0,no evidence,False,0,0
+21323028.0,no evidence,False,0,0
+21323029.0,no evidence,False,0,0
+21323030.0,no evidence,False,0,0
+21323031.0,no evidence,False,0,4
+21323033.0,no evidence,False,0,0
+21323034.0,no evidence,False,0,0
+21323035.0,no evidence,False,0,0
+21323036.0,no evidence,False,0,0
+21323076.0,no evidence,False,0,0
+21323037.0,no evidence,False,0,0
+21323039.0,no evidence,False,0,0
+21323040.0,no evidence,False,0,0
+21323041.0,no evidence,False,0,0
+21323042.0,no evidence,False,0,0
+21323044.0,no evidence,False,0,0
+21323045.0,no evidence,False,0,0
+21323046.0,no evidence,False,0,0
+21323047.0,no evidence,False,0,0
+21323048.0,no evidence,False,0,0
+21323038.0,no evidence,False,0,0
+21322145.0,no evidence,False,0,0
+21321997.0,no evidence,False,0,0
+21322143.0,no evidence,False,0,0
+21320991.0,no evidence,False,0,0
+21320992.0,no evidence,False,0,0
+21320993.0,no evidence,False,0,2
+21320995.0,no evidence,False,0,0
+21320996.0,no evidence,False,0,0
+21320997.0,no evidence,False,0,0
+21320998.0,no evidence,False,0,0
+21320999.0,no evidence,False,0,0
+21320990.0,no evidence,False,0,0
+21321000.0,no evidence,False,0,0
+21321005.0,no evidence,False,0,0
+21321006.0,no evidence,False,0,0
+21321007.0,no evidence,False,0,3
+21321009.0,no evidence,False,0,0
+21321010.0,no evidence,False,0,0
+21321012.0,no evidence,False,0,0
+21321013.0,no evidence,False,0,0
+21321014.0,no evidence,False,0,0
+21321003.0,no evidence,False,0,0
+21320989.0,no evidence,False,0,0
+21320988.0,no evidence,False,0,0
+21320987.0,no evidence,False,0,0
+21320959.0,no evidence,False,0,0
+21320961.0,no evidence,False,0,0
+21320964.0,no evidence,False,0,0
+21320965.0,no evidence,False,0,0
+21320966.0,no evidence,False,0,0
+21320968.0,no evidence,False,0,0
+21320969.0,no evidence,False,0,0
+21320971.0,no evidence,False,0,0
+21320972.0,no evidence,False,0,0
+21320973.0,no evidence,False,0,0
+21320974.0,no evidence,False,0,0
+21320976.0,no evidence,False,0,0
+21320978.0,no evidence,False,0,0
+21320979.0,no evidence,False,0,0
+21320982.0,no evidence,False,0,0
+21320983.0,no evidence,False,0,0
+21320984.0,no evidence,False,0,0
+21320985.0,no evidence,False,0,0
+21320986.0,no evidence,False,0,0
+21321015.0,no evidence,False,0,0
+21320958.0,no evidence,False,0,0
+21321016.0,no evidence,False,0,0
+21321019.0,no evidence,False,0,0
+21321046.0,no evidence,False,0,0
+21321047.0,no evidence,False,0,0
+21321048.0,no evidence,False,0,0
+21321049.0,no evidence,False,0,0
+21321050.0,no evidence,False,0,0
+21321051.0,no evidence,False,0,0
+21321052.0,no evidence,False,0,0
+21321053.0,no evidence,False,0,0
+21321045.0,no evidence,False,0,0
+21321054.0,no evidence,False,0,0
+21321056.0,no evidence,False,0,0
+21321057.0,no evidence,False,0,0
+21321058.0,no evidence,False,0,0
+21321059.0,no evidence,False,0,0
+21321060.0,no evidence,False,0,0
+21321061.0,no evidence,False,0,0
+21321062.0,no evidence,False,0,0
+21321063.0,no evidence,False,0,2
+21321055.0,no evidence,False,0,0
+21321044.0,no evidence,False,0,0
+21321043.0,no evidence,False,0,0
+21321042.0,no evidence,False,0,0
+21321020.0,no evidence,False,0,0
+21321021.0,no evidence,False,0,0
+21321022.0,no evidence,False,2,2
+21321023.0,no evidence,False,0,0
+21321024.0,no evidence,False,0,0
+21321025.0,no evidence,False,0,0
+21321026.0,no evidence,False,2,2
+21321030.0,no evidence,False,0,0
+21321031.0,no evidence,False,0,0
+21321032.0,no evidence,False,0,0
+21321033.0,no evidence,False,0,0
+21321034.0,no evidence,False,0,0
+21321035.0,no evidence,False,0,0
+21321036.0,no evidence,False,0,8
+21321037.0,no evidence,False,0,0
+21321038.0,no evidence,False,0,0
+21321039.0,no evidence,False,0,0
+21321040.0,no evidence,False,0,0
+21321041.0,no evidence,False,0,0
+21321017.0,no evidence,False,0,0
+21320957.0,no evidence,False,0,0
+21320956.0,no evidence,False,0,0
+21320955.0,no evidence,False,0,0
+21320875.0,no evidence,False,0,0
+21320876.0,no evidence,False,0,2
+21320877.0,no evidence,False,0,0
+21320882.0,no evidence,False,0,0
+21320883.0,no evidence,False,0,0
+21320884.0,no evidence,False,0,0
+21320887.0,no evidence,False,0,0
+21320889.0,no evidence,False,0,0
+21320874.0,no evidence,False,0,0
+21320890.0,no evidence,False,0,0
+21320892.0,no evidence,False,0,0
+21320893.0,no evidence,False,0,0
+21320894.0,no evidence,False,0,0
+21320895.0,no evidence,False,0,0
+21320896.0,no evidence,False,0,0
+21320897.0,no evidence,False,0,0
+21320898.0,no evidence,False,0,0
+21320900.0,no evidence,False,0,0
+21320891.0,no evidence,False,0,0
+21320873.0,no evidence,False,0,0
+21320871.0,no evidence,False,0,0
+21320869.0,no evidence,False,0,0
+21320842.0,no evidence,False,0,0
+21320845.0,no evidence,False,0,0
+21320846.0,no evidence,False,0,0
+21320847.0,no evidence,False,0,0
+21320848.0,no evidence,False,0,0
+21320849.0,no evidence,False,0,0
+21320850.0,no evidence,False,0,0
+21320851.0,no evidence,False,0,0
+21320852.0,no evidence,False,0,0
+21320855.0,no evidence,False,0,0
+21320856.0,no evidence,False,0,0
+21320857.0,no evidence,False,0,0
+21320858.0,no evidence,False,0,0
+21320860.0,no evidence,False,0,0
+21320861.0,no evidence,False,0,0
+21320862.0,no evidence,False,0,0
+21320864.0,no evidence,False,2,2
+21320867.0,no evidence,False,0,0
+21320868.0,no evidence,False,0,0
+21320901.0,no evidence,False,0,0
+21320902.0,no evidence,False,0,0
+21320903.0,no evidence,False,2,2
+21320904.0,no evidence,False,0,0
+21320932.0,no evidence,False,0,0
+21320933.0,no evidence,False,0,0
+21320934.0,no evidence,False,0,0
+21320935.0,no evidence,False,0,0
+21320937.0,no evidence,False,0,0
+21320938.0,no evidence,False,0,0
+21320939.0,no evidence,False,0,0
+21320940.0,no evidence,False,3,3
+21320942.0,no evidence,False,0,0
+21320944.0,no evidence,False,0,0
+21320945.0,no evidence,False,0,0
+21320947.0,no evidence,False,3,4
+21320948.0,no evidence,False,0,0
+21320949.0,no evidence,False,0,0
+21320950.0,no evidence,False,0,0
+21320951.0,no evidence,False,0,0
+21320952.0,no evidence,False,0,0
+21320953.0,no evidence,False,0,2
+21320954.0,no evidence,False,0,3
+21320930.0,no evidence,False,0,0
+21321064.0,no evidence,False,0,0
+21320929.0,no evidence,False,0,0
+21320927.0,no evidence,False,0,0
+21320905.0,no evidence,False,0,0
+21320906.0,no evidence,False,0,0
+21320908.0,no evidence,False,0,0
+21320909.0,no evidence,False,0,0
+21320910.0,no evidence,False,0,0
+21320911.0,no evidence,False,0,0
+21320912.0,no evidence,False,0,0
+21320913.0,no evidence,False,0,0
+21320914.0,no evidence,False,0,0
+21320915.0,no evidence,False,0,0
+21320917.0,no evidence,False,0,0
+21320918.0,no evidence,False,0,0
+21320919.0,no evidence,False,0,0
+21320920.0,no evidence,False,0,0
+21320921.0,no evidence,False,0,0
+21320923.0,no evidence,False,0,0
+21320924.0,no evidence,False,0,0
+21320925.0,no evidence,False,0,0
+21320926.0,no evidence,False,0,0
+21320928.0,no evidence,False,0,0
+21321065.0,no evidence,False,0,0
+21321066.0,no evidence,False,0,0
+21321067.0,no evidence,False,0,0
+21321225.0,no evidence,False,0,0
+21321227.0,no evidence,False,0,0
+21321228.0,no evidence,False,0,0
+21321229.0,no evidence,False,0,0
+21321230.0,no evidence,False,0,0
+21321231.0,no evidence,False,0,0
+21321232.0,no evidence,False,0,0
+21321233.0,no evidence,False,0,0
+21321224.0,no evidence,False,0,0
+21321234.0,no evidence,False,0,0
+21321239.0,no evidence,False,0,2
+21321240.0,no evidence,False,0,0
+21321241.0,no evidence,False,0,0
+21321242.0,no evidence,False,0,0
+21321243.0,no evidence,False,0,0
+21321245.0,no evidence,False,0,0
+21321246.0,no evidence,False,0,0
+21321247.0,no evidence,False,0,0
+21321238.0,no evidence,False,0,0
+21321223.0,no evidence,False,0,0
+21321222.0,no evidence,False,0,0
+21321221.0,no evidence,False,0,0
+21321194.0,no evidence,False,0,0
+21321195.0,no evidence,False,0,0
+21321197.0,no evidence,False,0,0
+21321198.0,no evidence,False,0,2
+21321199.0,no evidence,False,0,0
+21321201.0,no evidence,False,0,0
+21321202.0,no evidence,False,0,0
+21321205.0,no evidence,False,0,2
+21321207.0,no evidence,False,0,0
+21321208.0,no evidence,False,0,0
+21321209.0,no evidence,False,0,0
+21321211.0,no evidence,False,0,0
+21321212.0,no evidence,False,0,0
+21321213.0,no evidence,False,0,0
+21321214.0,no evidence,False,0,0
+21321217.0,no evidence,False,0,0
+21321218.0,no evidence,False,0,0
+21321219.0,no evidence,False,0,2
+21321220.0,no evidence,False,0,0
+21321248.0,no evidence,False,0,2
+21321249.0,no evidence,False,0,0
+21321251.0,no evidence,False,0,0
+21321252.0,no evidence,False,0,0
+21321280.0,no evidence,False,0,0
+21321281.0,no evidence,False,0,0
+21321283.0,no evidence,False,0,0
+21321284.0,no evidence,False,0,0
+21321285.0,no evidence,False,0,0
+21321288.0,no evidence,False,0,0
+21321289.0,no evidence,False,0,0
+21321290.0,no evidence,False,0,0
+21321291.0,no evidence,False,0,0
+21321292.0,no evidence,False,0,0
+21321293.0,no evidence,False,0,0
+21321294.0,no evidence,False,0,0
+21321295.0,no evidence,False,0,0
+21321296.0,no evidence,False,0,0
+21321297.0,no evidence,False,0,0
+21321298.0,no evidence,False,0,0
+21321299.0,no evidence,False,0,0
+21321300.0,no evidence,False,0,0
+21321301.0,no evidence,False,0,0
+21321279.0,no evidence,False,0,0
+21321193.0,no evidence,False,0,0
+21321278.0,no evidence,False,0,0
+21321275.0,no evidence,False,0,0
+21321254.0,no evidence,False,0,0
+21321255.0,no evidence,False,0,0
+21321256.0,no evidence,False,0,0
+21321257.0,no evidence,False,0,0
+21321259.0,no evidence,False,0,0
+21321260.0,no evidence,False,0,0
+21321261.0,no evidence,False,0,0
+21321262.0,no evidence,False,0,0
+21321263.0,no evidence,False,0,0
+21321264.0,no evidence,False,0,0
+21321265.0,no evidence,False,0,0
+21321266.0,no evidence,False,0,0
+21321267.0,no evidence,False,0,0
+21321268.0,no evidence,False,0,2
+21321269.0,no evidence,False,0,0
+21321271.0,no evidence,False,0,2
+21321272.0,no evidence,False,0,0
+21321273.0,no evidence,False,0,0
+21321274.0,no evidence,False,0,0
+21321276.0,no evidence,False,0,0
+21320841.0,no evidence,False,0,0
+21321191.0,no evidence,False,0,0
+21321189.0,no evidence,False,0,0
+21321093.0,no evidence,False,0,0
+21321094.0,no evidence,False,0,0
+21321095.0,no evidence,False,0,0
+21321096.0,no evidence,False,0,0
+21321097.0,no evidence,False,0,0
+21321098.0,no evidence,False,0,0
+21321099.0,no evidence,False,0,0
+21321100.0,no evidence,False,0,0
+21321092.0,no evidence,False,0,0
+21321101.0,no evidence,False,0,0
+21321104.0,no evidence,False,0,0
+21321105.0,no evidence,False,0,0
+21321108.0,no evidence,False,0,0
+21321109.0,no evidence,False,0,0
+21321110.0,no evidence,False,0,0
+21321111.0,no evidence,False,0,0
+21321112.0,no evidence,False,0,0
+21321113.0,no evidence,False,0,0
+21321102.0,no evidence,False,0,0
+21321091.0,no evidence,False,0,0
+21321089.0,no evidence,False,0,0
+21321088.0,no evidence,False,0,0
+21321068.0,no evidence,False,0,0
+21321069.0,no evidence,False,0,0
+21321070.0,no evidence,False,0,0
+21321071.0,no evidence,False,0,0
+21321072.0,no evidence,False,0,0
+21321073.0,no evidence,False,0,0
+21321074.0,no evidence,False,0,0
+21321075.0,no evidence,False,0,0
+21321076.0,no evidence,False,0,0
+21321077.0,no evidence,False,0,0
+21321078.0,no evidence,False,0,0
+21321079.0,no evidence,False,0,0
+21321080.0,no evidence,False,0,2
+21321081.0,no evidence,False,0,0
+21321082.0,no evidence,False,0,0
+21321083.0,no evidence,False,0,0
+21321084.0,no evidence,False,0,0
+21321085.0,no evidence,False,0,0
+21321087.0,no evidence,False,0,0
+21321114.0,no evidence,False,0,0
+21321115.0,no evidence,False,0,0
+21321116.0,no evidence,False,0,0
+21321117.0,no evidence,False,0,0
+21321167.0,no evidence,False,0,0
+21321168.0,no evidence,False,0,0
+21321169.0,no evidence,False,0,0
+21321170.0,no evidence,False,0,0
+21321171.0,no evidence,False,0,0
+21321172.0,no evidence,False,0,0
+21321173.0,no evidence,False,0,2
+21321175.0,no evidence,False,0,0
+21321176.0,no evidence,False,0,0
+21321177.0,no evidence,False,0,0
+21321178.0,no evidence,False,0,0
+21321179.0,no evidence,False,0,0
+21321181.0,no evidence,False,0,0
+21321182.0,no evidence,False,0,0
+21321183.0,no evidence,False,0,0
+21321184.0,no evidence,False,0,0
+21321185.0,no evidence,False,0,0
+21321186.0,no evidence,False,0,0
+21321187.0,no evidence,False,0,0
+21321166.0,no evidence,False,0,0
+21321190.0,no evidence,False,0,0
+21321164.0,no evidence,False,0,0
+21321161.0,no evidence,False,0,0
+21321118.0,no evidence,False,0,0
+21321119.0,no evidence,False,0,0
+21321120.0,no evidence,False,0,0
+21321123.0,no evidence,False,0,0
+21321124.0,no evidence,False,0,0
+21321128.0,no evidence,False,2,5
+21321134.0,no evidence,False,0,0
+21321135.0,no evidence,False,0,0
+21321137.0,no evidence,False,0,0
+21321139.0,no evidence,False,0,0
+21321140.0,no evidence,False,0,0
+21321141.0,no evidence,False,0,0
+21321143.0,no evidence,False,0,0
+21321144.0,no evidence,False,0,0
+21321145.0,no evidence,False,0,0
+21321148.0,no evidence,False,0,0
+21321150.0,no evidence,False,0,0
+21321151.0,no evidence,False,0,0
+21321160.0,no evidence,False,0,2
+21321163.0,no evidence,False,0,0
+21321302.0,no evidence,False,0,0
+21320839.0,no evidence,False,0,0
+21320835.0,no evidence,False,0,0
+21320540.0,no evidence,False,0,0
+21320541.0,no evidence,False,0,0
+21320543.0,no evidence,False,0,0
+21320544.0,no evidence,False,0,0
+21320547.0,no evidence,False,0,0
+21320548.0,no evidence,False,0,0
+21320549.0,no evidence,False,0,0
+21320550.0,no evidence,False,0,0
+21320538.0,no evidence,False,0,0
+21320551.0,no evidence,False,0,0
+21320553.0,no evidence,False,0,0
+21320554.0,no evidence,False,0,0
+21320555.0,no evidence,False,0,0
+21320556.0,no evidence,False,0,0
+21320557.0,no evidence,False,0,0
+21320558.0,no evidence,False,0,0
+21320559.0,no evidence,False,0,0
+21320561.0,no evidence,False,0,0
+21320552.0,no evidence,False,0,0
+21320537.0,no evidence,False,0,0
+21320536.0,no evidence,False,0,0
+21320535.0,no evidence,False,0,0
+21320505.0,no evidence,False,0,0
+21320506.0,no evidence,False,0,0
+21320508.0,no evidence,False,0,0
+21320509.0,no evidence,False,0,0
+21320510.0,no evidence,False,0,0
+21320512.0,no evidence,False,0,0
+21320513.0,no evidence,False,0,0
+21320514.0,no evidence,False,0,0
+21320515.0,no evidence,False,0,0
+21320516.0,no evidence,False,0,0
+21320519.0,no evidence,False,0,0
+21320520.0,no evidence,False,0,0
+21320521.0,no evidence,False,0,0
+21320523.0,no evidence,False,0,0
+21320524.0,no evidence,False,0,0
+21320525.0,no evidence,False,0,0
+21320527.0,no evidence,False,5,3
+21320530.0,no evidence,False,0,0
+21320534.0,no evidence,False,0,0
+21320562.0,no evidence,False,0,0
+21320504.0,no evidence,False,0,0
+21320563.0,no evidence,False,0,0
+21320565.0,no evidence,False,0,0
+21320591.0,no evidence,False,0,0
+21320592.0,no evidence,False,0,0
+21320593.0,no evidence,False,0,0
+21320596.0,no evidence,False,0,0
+21320597.0,no evidence,False,0,0
+21320598.0,no evidence,False,0,0
+21320599.0,no evidence,False,0,0
+21320600.0,no evidence,False,0,0
+21320590.0,no evidence,False,0,0
+21320601.0,no evidence,False,0,2
+21320604.0,no evidence,False,0,0
+21320605.0,no evidence,False,0,0
+21320606.0,no evidence,False,0,0
+21320607.0,no evidence,False,0,0
+21320608.0,no evidence,False,0,0
+21320609.0,no evidence,False,0,0
+21320610.0,no evidence,False,0,0
+21320612.0,no evidence,False,0,0
+21320603.0,no evidence,False,0,0
+21320589.0,no evidence,False,0,0
+21320588.0,no evidence,False,0,0
+21320587.0,no evidence,False,0,0
+21320566.0,no evidence,False,0,0
+21320567.0,no evidence,False,0,0
+21320568.0,no evidence,False,2,2
+21320569.0,no evidence,False,0,0
+21320570.0,no evidence,False,0,0
+21320571.0,no evidence,False,0,0
+21320572.0,no evidence,False,0,0
+21320573.0,no evidence,False,0,0
+21320574.0,no evidence,False,0,0
+21320576.0,no evidence,False,0,0
+21320577.0,no evidence,False,0,0
+21320578.0,no evidence,False,0,0
+21320579.0,no evidence,False,0,0
+21320580.0,no evidence,False,0,0
+21320581.0,no evidence,False,0,0
+21320582.0,no evidence,False,0,0
+21320583.0,no evidence,False,0,2
+21320584.0,no evidence,False,0,0
+21320585.0,no evidence,False,0,0
+21320564.0,no evidence,False,0,0
+21320503.0,no evidence,False,0,0
+21320502.0,no evidence,False,0,0
+21320501.0,no evidence,False,0,0
+21320429.0,no evidence,False,0,0
+21320430.0,no evidence,False,0,0
+21320431.0,no evidence,False,0,0
+21320433.0,no evidence,False,0,0
+21320434.0,no evidence,False,0,0
+21320435.0,no evidence,False,0,0
+21320436.0,no evidence,False,0,0
+21320437.0,no evidence,False,0,0
+21320427.0,no evidence,False,0,0
+21320438.0,no evidence,False,0,0
+21320440.0,no evidence,False,0,0
+21320442.0,no evidence,False,0,0
+21320443.0,no evidence,False,0,0
+21320444.0,no evidence,False,0,0
+21320445.0,no evidence,False,0,0
+21320446.0,no evidence,False,0,0
+21320447.0,no evidence,False,0,0
+21320448.0,no evidence,False,0,0
+21320439.0,no evidence,False,0,0
+21320425.0,no evidence,False,0,0
+21320423.0,no evidence,False,0,0
+21320422.0,no evidence,False,0,0
+21320399.0,no evidence,False,0,0
+21320400.0,no evidence,False,0,0
+21320401.0,no evidence,False,0,0
+21320402.0,no evidence,False,0,0
+21320403.0,no evidence,False,0,0
+21320404.0,no evidence,False,0,0
+21320408.0,no evidence,False,0,0
+21320409.0,no evidence,False,0,0
+21320410.0,no evidence,False,0,0
+21320412.0,no evidence,False,0,0
+21320413.0,no evidence,False,0,3
+21320414.0,no evidence,False,0,0
+21320415.0,no evidence,False,0,0
+21320416.0,no evidence,False,0,0
+21320417.0,no evidence,False,0,0
+21320418.0,no evidence,False,0,0
+21320419.0,no evidence,False,0,0
+21320420.0,no evidence,False,0,0
+21320421.0,no evidence,False,0,0
+21320449.0,no evidence,False,0,0
+21320450.0,no evidence,False,0,0
+21320451.0,no evidence,False,0,0
+21320452.0,no evidence,False,0,0
+21320479.0,no evidence,False,0,0
+21320480.0,no evidence,False,0,0
+21320481.0,no evidence,False,0,0
+21320482.0,no evidence,False,0,0
+21320483.0,no evidence,False,0,0
+21320484.0,no evidence,False,0,0
+21320486.0,no evidence,False,0,0
+21320487.0,no evidence,False,0,0
+21320488.0,no evidence,False,0,0
+21320489.0,no evidence,False,0,0
+21320490.0,no evidence,False,4,3
+21320491.0,no evidence,False,0,0
+21320492.0,no evidence,False,0,0
+21320493.0,no evidence,False,0,0
+21320495.0,no evidence,False,0,0
+21320496.0,no evidence,False,0,0
+21320497.0,no evidence,False,0,0
+21320499.0,no evidence,False,0,0
+21320500.0,no evidence,False,0,0
+21320478.0,no evidence,False,0,0
+21320613.0,no evidence,False,0,0
+21320477.0,no evidence,False,0,0
+21320475.0,no evidence,False,0,0
+21320455.0,no evidence,False,0,0
+21320456.0,no evidence,False,0,0
+21320457.0,no evidence,False,0,0
+21320458.0,no evidence,False,3,10
+21320459.0,no evidence,False,0,0
+21320461.0,no evidence,False,0,0
+21320462.0,no evidence,False,0,0
+21320463.0,no evidence,False,0,0
+21320464.0,no evidence,False,0,0
+21320465.0,no evidence,False,0,0
+21320466.0,no evidence,False,0,0
+21320467.0,no evidence,False,0,0
+21320468.0,no evidence,False,0,0
+21320469.0,no evidence,False,0,0
+21320470.0,no evidence,False,0,0
+21320471.0,no evidence,False,0,0
+21320472.0,no evidence,False,0,0
+21320473.0,no evidence,False,0,0
+21320474.0,no evidence,False,0,0
+21320476.0,no evidence,False,0,0
+21320615.0,no evidence,False,0,0
+21320616.0,no evidence,False,0,0
+21320617.0,no evidence,False,0,0
+21320758.0,no evidence,False,0,3
+21320760.0,no evidence,False,0,0
+21320761.0,no evidence,False,0,0
+21320762.0,no evidence,False,0,0
+21320763.0,no evidence,False,0,0
+21320764.0,no evidence,False,0,0
+21320765.0,no evidence,False,0,0
+21320766.0,no evidence,False,0,0
+21320757.0,no evidence,False,0,0
+21320767.0,no evidence,False,0,0
+21320769.0,no evidence,False,0,0
+21320770.0,no evidence,False,0,0
+21320771.0,no evidence,False,0,0
+21320772.0,no evidence,False,0,0
+21320773.0,no evidence,False,0,0
+21320774.0,no evidence,False,0,0
+21320775.0,no evidence,False,0,0
+21320777.0,no evidence,False,0,0
+21320768.0,no evidence,False,0,0
+21320756.0,no evidence,False,0,0
+21320755.0,no evidence,False,0,0
+21320754.0,no evidence,False,0,0
+21320733.0,no evidence,False,0,0
+21320734.0,no evidence,False,0,0
+21320737.0,no evidence,False,0,0
+21320738.0,no evidence,False,0,0
+21320739.0,no evidence,False,0,0
+21320740.0,no evidence,False,0,0
+21320741.0,no evidence,False,0,0
+21320742.0,no evidence,False,0,0
+21320743.0,no evidence,False,0,0
+21320744.0,no evidence,False,0,0
+21320745.0,no evidence,False,0,0
+21320746.0,no evidence,False,0,0
+21320747.0,no evidence,False,0,0
+21320748.0,no evidence,False,0,0
+21320749.0,no evidence,False,0,0
+21320750.0,no evidence,False,0,0
+21320751.0,no evidence,False,0,0
+21320752.0,no evidence,False,0,0
+21320753.0,no evidence,False,0,0
+21320779.0,no evidence,False,0,0
+21320780.0,no evidence,False,0,0
+21320782.0,no evidence,False,0,0
+21320783.0,no evidence,False,0,0
+21320812.0,no evidence,False,0,10
+21320814.0,no evidence,False,0,0
+21320815.0,no evidence,False,0,0
+21320816.0,no evidence,False,0,0
+21320818.0,no evidence,False,0,0
+21320819.0,no evidence,False,0,0
+21320821.0,no evidence,False,0,0
+21320822.0,no evidence,False,0,0
+21320823.0,no evidence,False,0,0
+21320824.0,no evidence,False,0,0
+21320825.0,no evidence,False,0,0
+21320826.0,no evidence,False,0,0
+21320827.0,no evidence,False,0,0
+21320828.0,no evidence,False,0,0
+21320829.0,no evidence,False,0,0
+21320830.0,no evidence,False,0,0
+21320831.0,no evidence,False,0,0
+21320833.0,no evidence,False,0,0
+21320834.0,no evidence,False,0,0
+21320811.0,no evidence,False,0,0
+21320732.0,no evidence,False,0,0
+21320810.0,no evidence,False,0,0
+21320808.0,no evidence,False,0,0
+21320785.0,no evidence,False,0,0
+21320786.0,no evidence,False,0,0
+21320787.0,no evidence,False,0,0
+21320788.0,no evidence,False,0,0
+21320789.0,no evidence,False,0,0
+21320791.0,no evidence,False,0,3
+21320792.0,no evidence,False,0,0
+21320793.0,no evidence,False,0,0
+21320794.0,no evidence,False,0,0
+21320795.0,no evidence,False,0,0
+21320797.0,no evidence,False,0,0
+21320798.0,no evidence,False,0,0
+21320800.0,no evidence,False,0,0
+21320801.0,no evidence,False,0,0
+21320802.0,no evidence,False,0,0
+21320804.0,no evidence,False,0,0
+21320805.0,no evidence,False,0,0
+21320806.0,no evidence,False,0,0
+21320807.0,no evidence,False,0,0
+21320809.0,no evidence,False,0,0
+21320837.0,no evidence,False,0,0
+21320731.0,no evidence,False,0,0
+21320728.0,no evidence,False,0,0
+21320645.0,no evidence,False,0,0
+21320646.0,no evidence,False,0,0
+21320647.0,no evidence,False,0,0
+21320648.0,no evidence,False,0,0
+21320650.0,no evidence,False,0,0
+21320651.0,no evidence,False,0,0
+21320652.0,no evidence,False,0,0
+21320653.0,no evidence,False,0,0
+21320644.0,no evidence,False,0,0
+21320656.0,no evidence,False,0,0
+21320658.0,no evidence,False,0,0
+21320660.0,no evidence,False,0,0
+21320662.0,no evidence,False,0,0
+21320663.0,no evidence,False,0,0
+21320664.0,no evidence,False,0,0
+21320665.0,no evidence,False,0,0
+21320666.0,no evidence,False,0,0
+21320667.0,no evidence,False,0,0
+21320657.0,no evidence,False,0,0
+21320643.0,no evidence,False,0,0
+21320642.0,no evidence,False,0,0
+21320641.0,no evidence,False,0,0
+21320618.0,no evidence,False,0,0
+21320619.0,no evidence,False,0,0
+21320620.0,no evidence,False,0,0
+21320621.0,no evidence,False,0,0
+21320623.0,no evidence,False,0,0
+21320624.0,no evidence,False,0,0
+21320625.0,no evidence,False,2,2
+21320626.0,no evidence,False,0,0
+21320627.0,no evidence,False,0,0
+21320628.0,no evidence,False,0,0
+21320630.0,no evidence,False,0,0
+21320632.0,no evidence,False,0,0
+21320633.0,no evidence,False,0,0
+21320634.0,no evidence,False,0,0
+21320635.0,no evidence,False,0,0
+21320636.0,no evidence,False,0,0
+21320638.0,no evidence,False,0,0
+21320639.0,no evidence,False,0,0
+21320640.0,no evidence,False,0,0
+21320668.0,no evidence,False,0,0
+21320670.0,no evidence,False,0,0
+21320671.0,no evidence,False,0,0
+21320672.0,no evidence,False,0,0
+21320699.0,no evidence,False,0,0
+21320700.0,no evidence,False,0,0
+21320701.0,no evidence,False,0,0
+21320703.0,no evidence,False,0,0
+21320705.0,no evidence,False,0,0
+21320706.0,no evidence,False,0,0
+21320707.0,no evidence,False,0,0
+21320708.0,no evidence,False,0,0
+21320709.0,no evidence,False,0,0
+21320711.0,no evidence,False,0,0
+21320712.0,no evidence,False,0,0
+21320713.0,no evidence,False,0,0
+21320715.0,no evidence,False,0,0
+21320716.0,no evidence,False,0,0
+21320717.0,no evidence,False,0,0
+21320719.0,no evidence,False,0,0
+21320720.0,no evidence,False,0,0
+21320722.0,no evidence,False,0,0
+21320724.0,no evidence,False,0,0
+21320698.0,no evidence,False,0,0
+21320730.0,no evidence,False,0,0
+21320696.0,no evidence,False,0,0
+21320694.0,no evidence,False,0,0
+21320673.0,no evidence,False,0,0
+21320674.0,no evidence,False,0,0
+21320675.0,no evidence,False,0,0
+21320677.0,no evidence,False,0,0
+21320678.0,no evidence,False,0,0
+21320679.0,no evidence,False,0,0
+21320680.0,no evidence,False,0,0
+21320681.0,no evidence,False,0,0
+21320682.0,no evidence,False,0,0
+21320683.0,no evidence,False,0,0
+21320684.0,no evidence,False,0,0
+21320685.0,no evidence,False,0,0
+21320686.0,no evidence,False,0,0
+21320687.0,no evidence,False,0,0
+21320689.0,no evidence,False,0,0
+21320690.0,no evidence,False,0,0
+21320691.0,no evidence,False,0,0
+21320692.0,no evidence,False,0,0
+21320693.0,no evidence,False,0,0
+21320695.0,no evidence,False,0,0
+21322144.0,no evidence,False,0,0
+21321303.0,no evidence,False,0,0
+21321305.0,no evidence,False,0,0
+21321866.0,no evidence,False,0,0
+21321867.0,no evidence,False,0,0
+21321868.0,no evidence,False,0,0
+21321869.0,no evidence,False,0,0
+21321870.0,no evidence,False,0,0
+21321871.0,no evidence,False,0,0
+21321872.0,no evidence,False,0,0
+21321873.0,no evidence,False,0,0
+21321864.0,no evidence,False,0,0
+21321875.0,no evidence,False,0,0
+21321877.0,no evidence,False,0,0
+21321878.0,no evidence,False,0,2
+21321879.0,no evidence,False,0,0
+21321880.0,no evidence,False,0,0
+21321881.0,no evidence,False,0,0
+21321882.0,no evidence,False,0,0
+21321883.0,no evidence,False,0,0
+21321884.0,no evidence,False,0,0
+21321876.0,no evidence,False,0,0
+21321863.0,no evidence,False,0,0
+21321862.0,no evidence,False,0,0
+21321861.0,no evidence,False,0,0
+21321840.0,no evidence,False,0,0
+21321841.0,no evidence,False,0,0
+21321842.0,no evidence,False,0,0
+21321843.0,no evidence,False,0,0
+21321844.0,no evidence,False,0,0
+21321846.0,no evidence,False,0,0
+21321848.0,no evidence,False,0,0
+21321849.0,no evidence,False,0,0
+21321850.0,no evidence,False,0,0
+21321851.0,no evidence,False,0,2
+21321852.0,no evidence,False,0,0
+21321853.0,no evidence,False,0,0
+21321854.0,no evidence,False,0,0
+21321855.0,no evidence,False,0,0
+21321856.0,no evidence,False,0,0
+21321857.0,no evidence,False,0,0
+21321858.0,no evidence,False,0,0
+21321859.0,no evidence,False,0,0
+21321860.0,no evidence,False,0,0
+21321885.0,no evidence,False,0,0
+21321838.0,no evidence,False,0,0
+21321886.0,no evidence,False,0,0
+21321888.0,no evidence,False,0,0
+21321914.0,no evidence,False,0,0
+21321915.0,no evidence,False,0,0
+21321916.0,no evidence,False,0,0
+21321917.0,no evidence,False,0,0
+21321919.0,no evidence,False,0,0
+21321920.0,no evidence,False,0,0
+21321921.0,no evidence,False,0,0
+21321922.0,no evidence,False,0,0
+21321913.0,no evidence,False,0,0
+21321923.0,no evidence,False,0,0
+21321925.0,no evidence,False,0,0
+21321926.0,no evidence,False,0,0
+21321927.0,no evidence,False,0,0
+21321928.0,no evidence,False,0,0
+21321929.0,no evidence,False,0,0
+21321930.0,no evidence,False,0,0
+21321932.0,no evidence,False,0,2
+21321933.0,no evidence,False,0,0
+21321924.0,no evidence,False,0,0
+21321912.0,no evidence,False,0,0
+21321911.0,no evidence,False,0,0
+21321910.0,no evidence,False,0,0
+21321889.0,no evidence,False,0,0
+21321890.0,no evidence,False,0,0
+21321891.0,no evidence,False,0,0
+21321892.0,no evidence,False,0,0
+21321893.0,no evidence,False,0,0
+21321894.0,no evidence,False,0,0
+21321895.0,no evidence,False,0,0
+21321897.0,no evidence,False,0,0
+21321898.0,no evidence,False,0,0
+21321899.0,no evidence,False,0,0
+21321900.0,no evidence,False,0,0
+21321901.0,no evidence,False,0,0
+21321902.0,no evidence,False,0,0
+21321903.0,no evidence,False,0,0
+21321904.0,no evidence,False,0,0
+21321905.0,no evidence,False,0,0
+21321906.0,no evidence,False,0,0
+21321907.0,no evidence,False,0,0
+21321909.0,no evidence,False,0,0
+21321887.0,no evidence,False,0,0
+21321837.0,no evidence,False,0,0
+21321836.0,no evidence,False,0,0
+21321835.0,no evidence,False,0,0
+21321765.0,no evidence,False,0,0
+21321766.0,no evidence,False,0,0
+21321767.0,no evidence,False,0,0
+21321768.0,no evidence,False,0,0
+21321769.0,no evidence,False,0,0
+21321770.0,no evidence,False,0,0
+21321771.0,no evidence,False,0,0
+21321772.0,no evidence,False,0,0
+21321764.0,no evidence,False,0,0
+21321773.0,no evidence,False,0,0
+21321776.0,no evidence,False,0,0
+21321777.0,no evidence,False,0,0
+21321778.0,no evidence,False,0,0
+21321779.0,no evidence,False,0,0
+21321780.0,no evidence,False,0,0
+21321782.0,no evidence,False,0,0
+21321783.0,no evidence,False,0,0
+21321784.0,no evidence,False,0,0
+21321774.0,no evidence,False,0,0
+21321763.0,no evidence,False,0,0
+21321762.0,no evidence,False,0,0
+21321761.0,no evidence,False,0,0
+21321741.0,no evidence,False,0,0
+21321742.0,no evidence,False,0,0
+21321743.0,no evidence,False,0,0
+21321744.0,no evidence,False,0,4
+21321745.0,no evidence,False,0,0
+21321746.0,no evidence,False,0,0
+21321747.0,no evidence,False,0,0
+21321748.0,no evidence,False,0,0
+21321749.0,no evidence,False,0,0
+21321750.0,no evidence,False,0,0
+21321751.0,no evidence,False,0,0
+21321752.0,no evidence,False,0,0
+21321753.0,no evidence,False,0,0
+21321754.0,no evidence,False,0,2
+21321755.0,no evidence,False,0,0
+21321756.0,no evidence,False,0,0
+21321758.0,no evidence,False,0,0
+21321759.0,no evidence,False,0,0
+21321760.0,no evidence,False,0,0
+21321785.0,no evidence,False,0,0
+21321786.0,no evidence,False,0,0
+21321787.0,no evidence,False,0,0
+21321788.0,no evidence,False,0,0
+21321813.0,no evidence,False,0,0
+21321814.0,no evidence,False,0,0
+21321815.0,no evidence,False,0,0
+21321816.0,no evidence,False,0,0
+21321817.0,no evidence,False,0,0
+21321818.0,no evidence,False,0,0
+21321819.0,no evidence,False,0,0
+21321820.0,no evidence,False,0,0
+21321823.0,no evidence,False,0,0
+21321824.0,no evidence,False,0,0
+21321825.0,no evidence,False,0,0
+21321826.0,no evidence,False,0,0
+21321827.0,no evidence,False,0,0
+21321828.0,no evidence,False,0,0
+21321830.0,no evidence,False,0,0
+21321831.0,no evidence,False,0,0
+21321832.0,no evidence,False,0,0
+21321833.0,no evidence,False,0,0
+21321834.0,no evidence,False,0,0
+21321812.0,no evidence,False,0,0
+21321934.0,no evidence,False,0,0
+21321811.0,no evidence,False,0,0
+21321809.0,no evidence,False,0,0
+21321789.0,no evidence,False,0,0
+21321790.0,no evidence,False,0,0
+21321791.0,no evidence,False,0,0
+21321792.0,no evidence,False,0,0
+21321793.0,no evidence,False,0,0
+21321794.0,no evidence,False,0,0
+21321795.0,no evidence,False,0,0
+21321797.0,no evidence,False,0,0
+21321798.0,no evidence,False,0,0
+21321799.0,no evidence,False,0,0
+21321800.0,no evidence,False,0,0
+21321801.0,no evidence,False,0,0
+21321802.0,no evidence,False,0,0
+21321803.0,no evidence,False,0,0
+21321804.0,no evidence,False,0,0
+21321805.0,no evidence,False,0,0
+21321806.0,no evidence,False,0,0
+21321807.0,no evidence,False,0,0
+21321808.0,no evidence,False,0,0
+21321810.0,no evidence,False,0,0
+21321935.0,no evidence,False,0,0
+21321936.0,no evidence,False,0,0
+21321937.0,no evidence,False,0,0
+21322062.0,no evidence,False,0,0
+21322065.0,no evidence,False,0,0
+21322066.0,no evidence,False,0,0
+21322068.0,no evidence,False,0,0
+21322070.0,no evidence,False,0,0
+21322071.0,no evidence,False,0,0
+21322072.0,no evidence,False,0,0
+21322073.0,no evidence,False,0,0
+21322060.0,no evidence,False,0,0
+21322074.0,no evidence,False,0,0
+21322077.0,no evidence,False,0,0
+21322078.0,no evidence,False,0,0
+21322079.0,no evidence,False,0,0
+21322080.0,no evidence,False,0,4
+21322081.0,no evidence,False,0,0
+21322082.0,no evidence,False,0,0
+21322083.0,no evidence,False,0,4
+21322085.0,no evidence,False,0,0
+21322075.0,no evidence,False,0,0
+21322058.0,no evidence,False,0,0
+21322057.0,no evidence,False,0,0
+21322056.0,no evidence,False,0,0
+21322033.0,no evidence,False,0,0
+21322034.0,no evidence,False,0,0
+21322035.0,no evidence,False,0,0
+21322037.0,no evidence,False,0,0
+21322039.0,no evidence,False,0,0
+21322040.0,no evidence,False,0,0
+21322041.0,no evidence,False,0,0
+21322042.0,no evidence,False,0,0
+21322043.0,no evidence,False,0,0
+21322044.0,no evidence,False,0,4
+21322045.0,no evidence,False,0,0
+21322046.0,no evidence,False,0,0
+21322047.0,no evidence,False,0,0
+21322048.0,no evidence,False,0,0
+21322049.0,no evidence,False,0,0
+21322051.0,no evidence,False,0,0
+21322052.0,no evidence,False,0,0
+21322053.0,no evidence,False,0,0
+21322055.0,no evidence,False,0,0
+21322086.0,no evidence,False,0,0
+21322087.0,no evidence,False,0,0
+21322088.0,no evidence,False,0,0
+21322089.0,no evidence,False,0,0
+21322120.0,no evidence,False,0,0
+21322121.0,no evidence,False,0,0
+21322122.0,no evidence,False,0,0
+21322123.0,no evidence,False,0,0
+21322124.0,no evidence,False,0,0
+21322125.0,no evidence,False,0,0
+21322126.0,no evidence,False,0,0
+21322128.0,no evidence,False,0,0
+21322130.0,no evidence,False,0,0
+21322131.0,no evidence,False,0,0
+21322132.0,no evidence,False,0,0
+21322133.0,no evidence,False,0,0
+21322136.0,no evidence,False,0,0
+21322137.0,no evidence,False,0,0
+21322138.0,no evidence,False,0,0
+21322139.0,no evidence,False,0,0
+21322140.0,no evidence,False,0,0
+21322141.0,no evidence,False,0,0
+21322142.0,no evidence,False,0,2
+21322119.0,no evidence,False,0,0
+21322032.0,no evidence,False,0,0
+21322118.0,no evidence,False,0,0
+21322115.0,no evidence,False,0,0
+21322091.0,no evidence,False,0,0
+21322092.0,no evidence,False,0,0
+21322093.0,no evidence,False,0,0
+21322094.0,no evidence,False,0,0
+21322095.0,no evidence,False,0,0
+21322096.0,no evidence,False,0,0
+21322099.0,no evidence,False,0,0
+21322100.0,no evidence,False,0,0
+21322101.0,no evidence,False,0,0
+21322102.0,no evidence,False,3,4
+21322103.0,no evidence,False,0,2
+21322104.0,no evidence,False,0,0
+21322106.0,no evidence,False,0,0
+21322107.0,no evidence,False,0,0
+21322108.0,no evidence,False,0,0
+21322109.0,no evidence,False,0,0
+21322110.0,no evidence,False,0,0
+21322113.0,no evidence,False,0,0
+21322114.0,no evidence,False,0,0
+21322117.0,no evidence,False,0,0
+21321740.0,no evidence,False,0,0
+21322031.0,no evidence,False,0,0
+21322029.0,no evidence,False,0,0
+21321962.0,no evidence,False,0,0
+21321963.0,no evidence,False,0,0
+21321964.0,no evidence,False,0,0
+21321965.0,no evidence,False,0,0
+21321966.0,no evidence,False,0,2
+21321967.0,no evidence,False,0,0
+21321968.0,no evidence,False,0,0
+21321969.0,no evidence,False,0,0
+21321961.0,no evidence,False,0,0
+21321970.0,no evidence,False,0,0
+21321972.0,no evidence,False,0,0
+21321973.0,no evidence,False,0,0
+21321974.0,no evidence,False,0,0
+21321975.0,no evidence,False,0,0
+21321976.0,no evidence,False,0,0
+21321977.0,no evidence,False,0,0
+21321978.0,no evidence,False,0,0
+21321979.0,no evidence,False,0,0
+21321971.0,no evidence,False,0,0
+21321960.0,no evidence,False,0,0
+21321959.0,no evidence,False,0,0
+21321958.0,no evidence,False,0,0
+21321938.0,no evidence,False,0,0
+21321940.0,no evidence,False,0,0
+21321941.0,no evidence,False,0,0
+21321942.0,no evidence,False,0,0
+21321943.0,no evidence,False,0,0
+21321944.0,no evidence,False,0,0
+21321945.0,no evidence,False,0,0
+21321946.0,no evidence,False,0,0
+21321947.0,no evidence,False,0,0
+21321948.0,no evidence,False,0,0
+21321949.0,no evidence,False,0,0
+21321950.0,no evidence,False,0,0
+21321951.0,no evidence,False,0,0
+21321952.0,no evidence,False,0,0
+21321953.0,no evidence,False,0,0
+21321954.0,no evidence,False,0,0
+21321955.0,no evidence,False,0,2
+21321956.0,no evidence,False,0,0
+21321957.0,no evidence,False,0,0
+21321980.0,no evidence,False,0,0
+21321981.0,no evidence,False,0,0
+21321982.0,no evidence,False,0,0
+21321983.0,no evidence,False,0,0
+21322007.0,no evidence,False,0,0
+21322008.0,no evidence,False,0,2
+21322009.0,no evidence,False,0,0
+21322011.0,no evidence,False,0,0
+21322012.0,no evidence,False,0,0
+21322014.0,no evidence,False,0,0
+21322015.0,no evidence,False,0,0
+21322016.0,no evidence,False,0,0
+21322017.0,no evidence,False,0,0
+21322018.0,no evidence,False,0,0
+21322019.0,no evidence,False,0,0
+21322020.0,no evidence,False,0,0
+21322021.0,no evidence,False,0,0
+21322022.0,no evidence,False,0,0
+21322023.0,no evidence,False,0,0
+21322025.0,no evidence,False,0,0
+21322026.0,no evidence,False,0,0
+21322027.0,no evidence,False,0,0
+21322028.0,no evidence,False,0,0
+21322006.0,no evidence,False,0,0
+21322030.0,no evidence,False,0,0
+21322005.0,no evidence,False,0,0
+21322003.0,no evidence,False,0,0
+21321984.0,no evidence,False,0,0
+21321985.0,no evidence,False,0,0
+21321986.0,no evidence,False,0,0
+21321987.0,no evidence,False,0,0
+21321988.0,no evidence,False,0,0
+21321989.0,no evidence,False,0,0
+21321990.0,no evidence,False,0,0
+21321991.0,no evidence,False,0,0
+21321992.0,no evidence,False,0,0
+21321993.0,no evidence,False,0,0
+21321994.0,no evidence,False,0,0
+21321995.0,no evidence,False,0,0
+21321996.0,no evidence,False,0,0
+21323595.0,no evidence,False,0,0
+21321998.0,no evidence,False,0,0
+21321999.0,no evidence,False,0,0
+21322000.0,no evidence,False,0,0
+21322001.0,no evidence,False,0,0
+21322002.0,no evidence,False,0,0
+21322004.0,no evidence,False,0,0
+21321304.0,no evidence,False,0,0
+21321739.0,no evidence,False,0,0
+21321737.0,no evidence,False,0,0
+21321432.0,no evidence,False,0,0
+21321434.0,no evidence,False,0,0
+21321435.0,no evidence,False,0,0
+21321436.0,no evidence,False,0,0
+21321437.0,no evidence,False,0,0
+21321438.0,no evidence,False,0,0
+21321439.0,no evidence,False,0,0
+21321440.0,no evidence,False,0,0
+21321431.0,no evidence,False,0,0
+21321441.0,no evidence,False,0,3
+21321443.0,no evidence,False,0,0
+21321444.0,no evidence,False,0,2
+21321445.0,no evidence,False,0,0
+21321446.0,no evidence,False,0,0
+21321451.0,no evidence,False,0,0
+21321454.0,no evidence,False,0,0
+21321457.0,no evidence,False,0,0
+21321458.0,no evidence,False,0,0
+21321442.0,no evidence,False,0,0
+21321430.0,no evidence,False,0,0
+21321429.0,no evidence,False,0,0
+21321428.0,no evidence,False,0,0
+21321408.0,no evidence,False,0,0
+21321409.0,no evidence,False,0,2
+21321410.0,no evidence,False,0,0
+21321411.0,no evidence,False,0,0
+21321412.0,no evidence,False,0,0
+21321413.0,no evidence,False,0,0
+21321414.0,no evidence,False,0,0
+21321415.0,no evidence,False,0,0
+21321416.0,no evidence,False,0,0
+21321417.0,no evidence,False,0,0
+21321418.0,no evidence,False,2,0
+21321419.0,no evidence,False,0,0
+21321420.0,no evidence,False,0,0
+21321421.0,no evidence,False,0,0
+21321422.0,no evidence,False,0,0
+21321423.0,no evidence,False,0,0
+21321424.0,no evidence,False,0,0
+21321425.0,no evidence,False,0,0
+21321427.0,no evidence,False,0,0
+21321459.0,no evidence,False,0,0
+21321407.0,no evidence,False,0,0
+21321460.0,no evidence,False,0,0
+21321462.0,no evidence,False,0,0
+21321504.0,no evidence,False,0,0
+21321507.0,no evidence,False,0,0
+21321508.0,no evidence,False,0,0
+21321509.0,no evidence,False,0,0
+21321510.0,no evidence,False,0,0
+21321511.0,no evidence,False,0,0
+21321512.0,no evidence,False,0,0
+21321513.0,no evidence,False,0,0
+21321500.0,no evidence,False,0,0
+21321514.0,no evidence,False,0,0
+21321516.0,no evidence,False,0,0
+21321517.0,no evidence,False,0,0
+21321518.0,no evidence,False,0,0
+21321519.0,no evidence,False,0,0
+21321521.0,no evidence,False,0,0
+21321522.0,no evidence,False,0,0
+21321523.0,no evidence,False,0,0
+21321525.0,no evidence,False,0,0
+21321515.0,no evidence,False,0,0
+21321499.0,no evidence,False,0,0
+21321498.0,no evidence,False,0,0
+21321497.0,no evidence,False,0,0
+21321464.0,no evidence,False,0,0
+21321465.0,no evidence,False,0,0
+21321468.0,no evidence,False,0,0
+21321469.0,no evidence,False,0,0
+21321471.0,no evidence,False,0,0
+21321473.0,no evidence,False,0,0
+21321475.0,no evidence,False,0,0
+21321478.0,no evidence,False,0,0
+21321479.0,no evidence,False,0,0
+21321480.0,no evidence,False,0,0
+21321481.0,no evidence,False,0,2
+21321482.0,no evidence,False,0,3
+21321484.0,no evidence,False,0,0
+21321488.0,no evidence,False,0,0
+21321489.0,no evidence,False,0,0
+21321491.0,no evidence,False,0,0
+21321493.0,no evidence,False,0,0
+21321495.0,no evidence,False,0,0
+21321496.0,no evidence,False,0,0
+21321461.0,no evidence,False,0,0
+21321406.0,no evidence,False,0,0
+21321405.0,no evidence,False,0,0
+21321404.0,no evidence,False,0,0
+21321333.0,no evidence,False,0,0
+21321334.0,no evidence,False,0,0
+21321335.0,no evidence,False,0,0
+21321337.0,no evidence,False,0,0
+21321338.0,no evidence,False,0,0
+21321339.0,no evidence,False,0,0
+21321341.0,no evidence,False,0,0
+21321342.0,no evidence,False,0,0
+21321332.0,no evidence,False,0,0
+21321343.0,no evidence,False,0,0
+21321346.0,no evidence,False,0,0
+21321347.0,no evidence,False,0,0
+21321348.0,no evidence,False,0,0
+21321350.0,no evidence,False,0,0
+21321351.0,no evidence,False,0,0
+21321352.0,no evidence,False,0,0
+21321354.0,no evidence,False,0,0
+21321355.0,no evidence,False,0,0
+21321344.0,no evidence,False,0,0
+21321331.0,no evidence,False,0,0
+21321330.0,no evidence,False,0,0
+21321328.0,no evidence,False,0,0
+21321306.0,no evidence,False,0,0
+21321307.0,no evidence,False,0,0
+21321308.0,no evidence,False,0,0
+21321310.0,no evidence,False,0,0
+21321311.0,no evidence,False,0,0
+21321312.0,no evidence,False,0,0
+21321313.0,no evidence,False,0,0
+21321314.0,no evidence,False,0,0
+21321315.0,no evidence,False,0,0
+21321317.0,no evidence,False,0,0
+21321318.0,no evidence,False,0,0
+21321319.0,no evidence,False,0,0
+21321320.0,no evidence,False,0,0
+21321321.0,no evidence,False,0,0
+21321322.0,no evidence,False,0,0
+21321323.0,no evidence,False,0,0
+21321324.0,no evidence,False,0,0
+21321326.0,no evidence,False,0,0
+21321327.0,no evidence,False,0,0
+21321356.0,no evidence,False,0,0
+21321357.0,no evidence,False,0,2
+21321358.0,no evidence,False,0,0
+21321359.0,no evidence,False,0,0
+21321384.0,no evidence,False,0,0
+21321385.0,no evidence,False,0,0
+21321387.0,no evidence,False,0,0
+21321388.0,no evidence,False,0,0
+21321389.0,no evidence,False,0,0
+21321390.0,no evidence,False,0,0
+21321391.0,no evidence,False,0,0
+21321392.0,no evidence,False,0,0
+21321393.0,no evidence,False,0,0
+21321394.0,no evidence,False,0,0
+21321395.0,no evidence,False,0,0
+21321396.0,no evidence,False,0,0
+21321397.0,no evidence,False,0,0
+21321398.0,no evidence,False,0,0
+21321399.0,no evidence,False,0,0
+21321400.0,no evidence,False,0,0
+21321401.0,no evidence,False,0,0
+21321402.0,no evidence,False,0,4
+21321403.0,no evidence,False,0,0
+21321383.0,no evidence,False,0,0
+21321526.0,no evidence,False,0,0
+21321381.0,no evidence,False,0,0
+21321379.0,no evidence,False,0,0
+21321360.0,no evidence,False,0,0
+21321361.0,no evidence,False,0,0
+21321362.0,no evidence,False,0,0
+21321363.0,no evidence,False,0,0
+21321364.0,no evidence,False,0,0
+21321365.0,no evidence,False,0,0
+21321366.0,no evidence,False,0,0
+21321367.0,no evidence,False,0,0
+21321368.0,no evidence,False,0,0
+21321369.0,no evidence,False,0,0
+21321370.0,no evidence,False,0,0
+21321371.0,no evidence,False,0,0
+21321372.0,no evidence,False,0,0
+21321373.0,no evidence,False,0,0
+21321374.0,no evidence,False,0,0
+21321375.0,no evidence,False,0,0
+21321376.0,no evidence,False,0,0
+21321377.0,no evidence,False,0,0
+21321378.0,no evidence,False,0,0
+21321380.0,no evidence,False,0,0
+21321527.0,no evidence,False,0,0
+21321529.0,no evidence,False,0,0
+21321530.0,no evidence,False,0,0
+21321655.0,no evidence,False,0,0
+21321659.0,no evidence,False,0,0
+21321661.0,no evidence,False,0,0
+21321662.0,no evidence,False,0,0
+21321663.0,no evidence,False,0,0
+21321664.0,no evidence,False,0,0
+21321665.0,no evidence,False,0,0
+21321667.0,no evidence,False,0,0
+21321654.0,no evidence,False,4,4
+21321668.0,no evidence,False,0,0
+21321671.0,no evidence,False,0,0
+21321672.0,no evidence,False,0,0
+21321673.0,no evidence,False,0,0
+21321677.0,no evidence,False,0,0
+21321678.0,no evidence,False,0,0
+21321679.0,no evidence,False,0,0
+21321680.0,no evidence,False,0,0
+21321681.0,no evidence,False,0,0
+21321669.0,no evidence,False,0,0
+21321653.0,no evidence,False,0,0
+21321652.0,no evidence,False,0,0
+21321651.0,no evidence,False,0,0
+21321631.0,no evidence,False,0,0
+21321632.0,no evidence,False,0,2
+21321633.0,no evidence,False,0,0
+21321634.0,no evidence,False,0,0
+21321635.0,no evidence,False,0,0
+21321637.0,no evidence,False,0,0
+21321638.0,no evidence,False,0,0
+21321639.0,no evidence,False,0,0
+21321640.0,no evidence,False,0,0
+21321641.0,no evidence,False,0,0
+21321642.0,no evidence,False,0,0
+21321643.0,no evidence,False,0,0
+21321644.0,no evidence,False,0,0
+21321645.0,no evidence,False,0,0
+21321646.0,no evidence,False,0,0
+21321647.0,no evidence,False,0,0
+21321648.0,no evidence,False,0,2
+21321649.0,no evidence,False,0,0
+21321650.0,no evidence,False,0,0
+21321682.0,no evidence,False,0,0
+21321683.0,no evidence,False,0,0
+21321684.0,no evidence,False,0,0
+21321685.0,no evidence,False,0,0
+21321714.0,no evidence,False,0,0
+21321715.0,no evidence,False,0,0
+21321716.0,no evidence,False,0,0
+21321717.0,no evidence,False,0,0
+21321719.0,no evidence,False,0,2
+21321720.0,no evidence,False,0,0
+21321722.0,no evidence,False,0,0
+21321723.0,no evidence,False,0,0
+21321724.0,no evidence,False,0,0
+21321725.0,no evidence,False,0,0
+21321726.0,no evidence,False,0,0
+21321727.0,no evidence,False,0,0
+21321728.0,no evidence,False,0,0
+21321729.0,no evidence,False,0,0
+21321730.0,no evidence,False,0,0
+21321731.0,no evidence,False,0,0
+21321734.0,no evidence,False,0,0
+21321735.0,no evidence,False,0,0
+21321736.0,no evidence,False,0,0
+21321711.0,no evidence,False,0,0
+21321630.0,no evidence,False,4,4
+21321710.0,no evidence,False,0,0
+21321707.0,no evidence,False,0,0
+21321686.0,no evidence,False,0,0
+21321688.0,no evidence,False,0,0
+21321689.0,no evidence,False,0,0
+21321690.0,no evidence,False,0,0
+21321692.0,no evidence,False,0,0
+21321693.0,no evidence,False,0,0
+21321694.0,no evidence,False,0,0
+21321695.0,no evidence,False,0,0
+21321696.0,no evidence,False,0,0
+21321697.0,no evidence,False,0,0
+21321698.0,no evidence,False,0,0
+21321699.0,no evidence,False,0,0
+21321700.0,no evidence,False,0,0
+21321701.0,no evidence,False,0,0
+21321702.0,no evidence,False,0,0
+21321703.0,no evidence,False,0,0
+21321704.0,no evidence,False,0,0
+21321705.0,no evidence,False,0,0
+21321706.0,no evidence,False,0,0
+21321708.0,no evidence,False,0,0
+21321738.0,no evidence,False,0,0
+21321629.0,no evidence,False,0,0
+21321627.0,no evidence,False,0,0
+21321559.0,no evidence,False,0,0
+21321560.0,no evidence,False,0,0
+21321561.0,no evidence,False,0,0
+21321562.0,no evidence,False,0,0
+21321563.0,no evidence,False,0,0
+21321564.0,no evidence,False,0,0
+21321565.0,no evidence,False,0,0
+21321566.0,no evidence,False,0,0
+21321558.0,no evidence,False,0,0
+21321567.0,no evidence,False,0,0
+21321569.0,no evidence,False,0,0
+21321570.0,no evidence,False,0,0
+21321571.0,no evidence,False,0,0
+21321572.0,no evidence,False,0,0
+21321573.0,no evidence,False,0,0
+21321575.0,no evidence,False,0,0
+21321576.0,no evidence,False,0,0
+21321577.0,no evidence,False,0,0
+21321568.0,no evidence,False,0,0
+21321557.0,no evidence,False,0,0
+21321556.0,no evidence,False,0,0
+21321555.0,no evidence,False,0,0
+21321531.0,no evidence,False,0,0
+21321532.0,no evidence,False,0,0
+21321534.0,no evidence,False,0,0
+21321535.0,no evidence,False,0,0
+21321536.0,no evidence,False,0,0
+21321537.0,no evidence,False,0,0
+21321538.0,no evidence,False,0,0
+21321540.0,no evidence,False,0,0
+21321541.0,no evidence,False,0,0
+21321543.0,no evidence,False,0,0
+21321545.0,no evidence,False,0,0
+21321546.0,no evidence,False,0,0
+21321548.0,no evidence,False,0,0
+21321549.0,no evidence,False,0,0
+21321550.0,no evidence,False,0,0
+21321551.0,no evidence,False,0,0
+21321552.0,no evidence,False,4,13
+21321553.0,no evidence,False,0,0
+21321554.0,no evidence,False,0,0
+21321578.0,no evidence,False,0,0
+21321579.0,no evidence,False,0,0
+21321580.0,no evidence,False,0,0
+21321581.0,no evidence,False,0,0
+21321606.0,no evidence,False,0,0
+21321607.0,no evidence,False,0,0
+21321608.0,no evidence,False,0,0
+21321609.0,no evidence,False,0,0
+21321610.0,no evidence,False,0,0
+21321611.0,no evidence,False,0,0
+21321612.0,no evidence,False,0,0
+21321613.0,no evidence,False,0,0
+21321614.0,no evidence,False,0,0
+21321615.0,no evidence,False,0,0
+21321617.0,no evidence,False,0,0
+21321618.0,no evidence,False,0,0
+21321619.0,no evidence,False,0,0
+21321620.0,no evidence,False,0,0
+21321621.0,no evidence,False,0,0
+21321622.0,no evidence,False,0,0
+21321624.0,no evidence,False,9,0
+21321625.0,no evidence,False,0,0
+21321626.0,no evidence,False,0,0
+21321605.0,no evidence,False,0,0
+21321628.0,no evidence,False,0,0
+21321604.0,no evidence,False,0,0
+21321602.0,no evidence,False,0,0
+21321582.0,no evidence,False,0,0
+21321583.0,no evidence,False,0,0
+21321584.0,no evidence,False,0,0
+21321586.0,no evidence,False,0,0
+21321587.0,no evidence,False,0,0
+21321588.0,no evidence,False,0,0
+21321589.0,no evidence,False,0,0
+21321590.0,no evidence,False,0,0
+21321591.0,no evidence,False,0,0
+21321592.0,no evidence,False,0,0
+21321593.0,no evidence,False,0,0
+21321594.0,no evidence,False,0,0
+21321595.0,no evidence,False,0,0
+21321596.0,no evidence,False,0,0
+21321597.0,no evidence,False,0,0
+21321598.0,no evidence,False,0,0
+21321599.0,no evidence,False,0,0
+21321600.0,no evidence,False,0,0
+21321601.0,no evidence,False,0,0
+21321603.0,no evidence,False,0,0
+21323596.0,no evidence,False,0,2
