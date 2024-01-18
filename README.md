@@ -4,7 +4,7 @@
 
 Luiz Arnoni  
 
-<div style="display: fkex; width:  80vw; background-color: white">
+<div style="display: flex; width:  80vw; background-color: white">
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
